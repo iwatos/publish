@@ -1,1 +1,0 @@
-quartz - Personal Knowledge Management -

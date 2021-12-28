@@ -1,2 +1,0 @@
-#chrome
-https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=ja

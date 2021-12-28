@@ -1,4 +1,0 @@
-#tool 
-```query
-search word
-```
