@@ -1,0 +1,10 @@
+#js 
+```js
+const splitList = (originalList, maxLength) => {
+   let splitedList = []
+   for(let i = 0; i < originalList.length; i += maxLength) {
+      result.push(originalList.slice(i, i + maxLength));
+   }
+   - return splitedList
+}
+```
