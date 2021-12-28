@@ -1,0 +1,4 @@
+#tool 
+```query
+search word
+```

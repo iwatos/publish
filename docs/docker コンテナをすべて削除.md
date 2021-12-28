@@ -1,0 +1,2 @@
+#docker
+`docker ps -a -q | xargs docker rm -f`
