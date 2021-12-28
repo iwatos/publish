@@ -3,11 +3,9 @@ https://github.com/jobindj/obsidian-publish-mkdocs
 
 
 ```sh
-cd ~/repos/publish &&
 rm -rf ~/repos/publish/docs/publish &&
-mkdir -rf ~/repos/publish/docs/publish &&
-mkdir -rf ~/repos/publish/docs/publish/attachments &&
-cp -r ~/obsidian/private/publish/* ~/repos/publish2/docs/publish &&
+mkdir ~/repos/publish/docs/publish &&
+cp -R ~/obsidian/private/publish/** ~/repos/publish/docs/publish/ &&
 git add -A &&
 git commit -m "update" &&
 git push
