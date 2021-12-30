@@ -1,5 +1,3 @@
-#android 
-
 # スクリーンショット
 
 ```sh
@@ -48,3 +46,12 @@ adb shell rm /sdcard/${FILE_NAME}.mp4
 printf "Converts to GIF"
 ffmpeg -i ${YOUR_PATH}/${FILE_NAME}.mp4 -vf scale=240:-1 -an -r 15 -pix_fmt rgb24 -f gif ${YOUR_PATH}/${FILE_NAME}.gif
 ```
+
+
+
+---
+# References
+- 
+
+# Tags
+- #android 

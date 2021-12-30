@@ -1,4 +1,3 @@
-#cli #macos 
 # インストール
 ````bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -74,3 +73,13 @@ cp ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/.Brewfile ~/.Brewfile
 brew bundle --global
 ```
 Brewfileに記載のインストールされる
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli #macos 

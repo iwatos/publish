@@ -1,7 +1,13 @@
-
-#cli 
 各種言語等のバージョン管理ツール
 anyenvより起動が早くおすすめ
 
-[[asdfのインストール]]
-[[asdf プラグインのインストール]]
+---
+# Related Notes
+- [[asdfのインストール]]
+- [[asdf プラグインのインストール]]
+
+# References
+
+
+# Tags
+- #cli

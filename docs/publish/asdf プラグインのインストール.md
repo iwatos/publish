@@ -1,6 +1,3 @@
-#cli 
-[[asdfのインストール]]を先にやる
-
 # プラグインのインストール
 ## 利用可能なプラグインリスト
 `asdf plugin list all`
@@ -29,3 +26,13 @@
 
 ## グローバルバージョン指定
 `asdf global python <version or latest> `
+
+---
+# Related Notes
+- 
+
+# References
+- [[asdfのインストール]]
+
+# Tags
+- #cli 

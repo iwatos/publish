@@ -1,5 +1,3 @@
-#android 
-
  [[adbコマンドの導入]]を実施しておく
  
 端末を接続した状態で 以下のコマンドを実行すればインストールされる
@@ -7,5 +5,9 @@
 adb install <file_path>
 ```
 
+---
 # References
-https://qiita.com/hyotty/items/2b1cd76525698064c73d
+- https://qiita.com/hyotty/items/2b1cd76525698064c73d
+
+# Tags
+- #android 

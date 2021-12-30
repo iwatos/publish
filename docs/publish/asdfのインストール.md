@@ -1,4 +1,3 @@
-#cli 
 ## ダウンロード
 `brew install asdf`
 
@@ -14,6 +13,12 @@ echo -e "\nsource "(brew --prefix asdf)"/libexec/asdf.fish" >> ~/.config/fish/co
 ## プラグインのインストール
 [[asdf プラグインのインストール]]
 
+---
+# Related Notes
+- 
 
 # References
-https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies
+- https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies
+
+# Tags
+- #cli 

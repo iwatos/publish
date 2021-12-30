@@ -1,6 +1,3 @@
-#android 
-
-# Alexaアプリを使う
 まずAlexaアプリをインストールしてkindleを購入しているamazonアカウントでログインします。
 https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 
@@ -14,3 +11,10 @@ https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 左下のアイコンをタップすると目次から読み上げを始める箇所を選択できます。
 ![[Screenshot_20210904-221105.png]]
 ![[Screenshot_20210904-221100.png]]
+
+---
+# References
+- 
+
+# Tags
+- #android 

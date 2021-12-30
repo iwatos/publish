@@ -1,5 +1,3 @@
-#cli 
-
 # インストールと初期化
 ```bash
 # install
@@ -18,9 +16,6 @@ exec $SHELL -l
 anyenv install --init
 ```
 
-[[nodenv]]
-[[pyenv]]
-
 # plugin
 ## anyenv-update
 ```bash
@@ -30,5 +25,15 @@ git clone https://github.com/znz/anyenv-update.git ~/.anyenv/plugins/anyenv-upda
 # 各envのアップデート
 anyenv update
 ```
+
+
+---
+# Related Note
+- [[nodenv]]
+- [[pyenv]]
+
 # References
-https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c
+- https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c
+
+# Tags
+- #cli 
