@@ -1,4 +1,3 @@
-#js
 # キャッシュの全削除
  `yarn cache clean`
 
@@ -13,3 +12,13 @@
 
 
 https://classic.yarnpkg.com/en/docs/cli/cache/
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

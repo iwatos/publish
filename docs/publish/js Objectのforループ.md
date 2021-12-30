@@ -1,4 +1,3 @@
-#js 
 ```sh
 const hash = {
   key0: "value0",
@@ -10,3 +9,13 @@ for (let key in hash) {
 }
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js

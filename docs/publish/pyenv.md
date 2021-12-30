@@ -1,4 +1,3 @@
-#python 
 
 # pyenv
 ```bash
@@ -12,3 +11,13 @@ pyenv --versions # インストール済みバージョン確認
 pyenv global 3.8.4 # グローバルで使うver指定
 pyenv local 3.8.4 # 特定ディレクトリで使うver指定
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

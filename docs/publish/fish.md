@@ -1,4 +1,3 @@
-#cli
 # インストール
 ```sh
 brew install fish
@@ -124,3 +123,13 @@ end
 anyenv init - fish | source
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli

@@ -1,4 +1,3 @@
-#java 
 ```java
 public class TestGenerics<T> {
 
@@ -34,3 +33,13 @@ public class TestMain {
 
 # References
 https://layerprogram.com/javagenerics/
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

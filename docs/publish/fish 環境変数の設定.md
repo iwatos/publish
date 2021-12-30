@@ -1,4 +1,3 @@
-#cli #cli 
 # 追加
 ```
 set -x KEY VALUE
@@ -8,3 +7,13 @@ set -x KEY VALUE
 ```
 set -e KEY VALUE
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli

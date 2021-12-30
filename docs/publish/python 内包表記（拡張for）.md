@@ -1,4 +1,3 @@
-#python
 
 ```py
 sample_list = [1,1,2,2,3,3]
@@ -11,3 +10,13 @@ my_generator = (i for i in range(10))
 
 # References
 https://zenn.dev/ryo_kawamata/articles/intoroduce-list-compression
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

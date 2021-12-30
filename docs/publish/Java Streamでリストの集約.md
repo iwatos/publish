@@ -1,4 +1,3 @@
-#java 
 ```java
 Map<String, List<Product>> grpByType = 
 	prdList.stream()
@@ -7,3 +6,13 @@ Map<String, List<Product>> grpByType =
 
 # References
 https://qiita.com/KevinFQ/items/c4e7b5835487180d9659
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

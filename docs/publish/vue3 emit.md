@@ -1,4 +1,3 @@
-#js/vue  
 
 # 子
 ```vue
@@ -26,3 +25,13 @@ const print = (test: string) => {
 	<div @handler="print">Parent Hello Vue Emit World</div>
 </template>
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js/vue 

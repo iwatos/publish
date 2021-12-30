@@ -1,4 +1,3 @@
-#js 
 ```js
 const splitList = (originalList, maxLength) => {
    let splitedList = []
@@ -8,3 +7,13 @@ const splitList = (originalList, maxLength) => {
    - return splitedList
 }
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

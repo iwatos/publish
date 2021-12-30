@@ -1,4 +1,3 @@
-#tool #python 
 Kindle For PCを立ち上げ、最新の状態に更新する
 
 kindle for PCのキャッシュファイルから一覧情報を取得する
@@ -13,3 +12,14 @@ titles = [title.text for title in root.iter("title")]
 for title in sorted(titles):
     print(title)
 ```
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #tool #python 

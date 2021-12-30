@@ -1,4 +1,3 @@
-#python
 # IDE設定
 ## VS Code
 setting.json
@@ -41,3 +40,13 @@ setting.json
 
 
 https://qiita.com/homines22/items/dca21cf6b2eff858672b
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

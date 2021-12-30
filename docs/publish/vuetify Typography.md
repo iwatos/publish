@@ -1,4 +1,3 @@
-#js/vue/vuetify 
 https://vuetifyjs.com/ja/styles/text-and-typography/#typography
 # 種類
 -   `h1`
@@ -19,3 +18,14 @@ https://vuetifyjs.com/ja/styles/text-and-typography/#typography
 ```html
 class="`text-${model}`"
 ```
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js/vue/vuetify 

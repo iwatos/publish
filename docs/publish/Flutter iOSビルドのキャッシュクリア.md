@@ -1,4 +1,3 @@
-#flutter
 `<module-includes>:1:1: error: umbrella header for module 'GoogleDataTransport' does not include header 'GDTCORDataFuture.h' \[-Werror,-Wincomplete-umbrella\] #import "Headers/GoogleDataTransport-umbrella.h"`
 みたいなエラーが出た時
 
@@ -10,4 +9,12 @@ flutter run # or AndroidStudioからデバッグビルド
 
 ```
 
-https://qiita.com/shoukitsuda0310/items/a7377bae8075de7f95be
+---
+# Related Notes
+- 
+
+# References
+- https://qiita.com/shoukitsuda0310/items/a7377bae8075de7f95be
+
+# Tags
+- #flutter 

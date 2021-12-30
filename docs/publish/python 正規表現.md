@@ -1,4 +1,3 @@
-#python 
 https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3
 https://note.nkmk.me/python-re-match-search-findall-etc/
 検証　https://regex101.com/
@@ -19,3 +18,13 @@ re.findall ## マッチする部分すべてをリストで取得: findall()
 re.ASCII
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

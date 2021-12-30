@@ -1,5 +1,3 @@
-#software 
-
 # 環境構築
 ```sh
 brew install hugo
@@ -27,7 +25,14 @@ command = "hugo --theme=ananke --gc --minify"
 HUGO_VERSION = "0.83.0"
 ```
 
-# References
-https://blog.u-chan-chi.com/post/hugo/
-https://qiita.com/jrfk/items/4c6df87ca72a76e30224
 
+---
+# Related Notes
+- 
+
+# References
+- https://blog.u-chan-chi.com/post/hugo/
+- https://qiita.com/jrfk/items/4c6df87ca72a76e30224
+
+# Tags
+- #software 

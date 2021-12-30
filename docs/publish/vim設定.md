@@ -1,4 +1,3 @@
-#vim 
 
 ・設定ファイル作る  
 touch ~/.vimrc  
@@ -14,3 +13,13 @@ source ~/.vimrc
 [Vimでの日本語編集がはかどるキーマッピング - Qiita](https://qiita.com/ssh0/items/9e7f0d8b8f033183dd0b)
 
 [[vimコマンド]]
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #vim 

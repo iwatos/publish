@@ -1,4 +1,3 @@
-#cli
 変数にsetしたあとで並べる
 ```sh
 function link-name
@@ -7,3 +6,13 @@ function link-name
   echo $a$b
 end
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli

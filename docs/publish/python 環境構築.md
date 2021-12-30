@@ -1,4 +1,3 @@
-#python 
 # 環境構築
 ## pythonインストール
 [[anyenvの導入#pyenv]]
@@ -55,3 +54,13 @@ max-line-length = "88"
 
 4. 補足
 - `poetry run <モジュール名>` でpoetry環境でコマンド実行可能
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

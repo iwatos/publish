@@ -1,5 +1,4 @@
-#java 
-# 推奨
+s# 推奨
 ```java
 // int → String
 String s = String.valueOf(i);
@@ -21,3 +20,13 @@ int i = new Integer(s).intValue();
 int i = Integer.valueOf(s).intValue();
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

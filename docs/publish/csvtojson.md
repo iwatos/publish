@@ -1,3 +1,12 @@
-#cli 
+`npm i -g csvtojson`
 
-https://qiita.com/kannkyo/items/0cb9f083c6c45f1838fb
+---
+# Related Notes
+- 
+
+# References
+- https://qiita.com/kannkyo/items/0cb9f083c6c45f1838fb
+
+
+# Tags
+- #cli 

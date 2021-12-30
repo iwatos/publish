@@ -1,4 +1,3 @@
-#html 
 ```scss
 table {
 	tr {
@@ -16,4 +15,12 @@ table {
 ```
 
 
-https://gray-code.com/html_css/setting-background-color-for-each-table-line/
+---
+# Related Notes
+- 
+
+# References
+- https://gray-code.com/html_css/setting-background-color-for-each-table-line/
+
+# Tags
+- #html 

@@ -1,4 +1,3 @@
-#cli 
 
 ```sh
 jq -s -R 'split("\n")|map(split(","))|map({
@@ -6,3 +5,13 @@ jq -s -R 'split("\n")|map(split(","))|map({
 				   "name": .[2]
                })' file.csv > file.json
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli 

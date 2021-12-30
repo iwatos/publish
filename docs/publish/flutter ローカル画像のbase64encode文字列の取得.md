@@ -1,4 +1,3 @@
-#flutter
 ```dart
 Future _base64encodeImage(AssetGenImage image) async {
   final icomImage = await rootBundle.load(image.path);
@@ -6,3 +5,13 @@ Future _base64encodeImage(AssetGenImage image) async {
 }
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #flutter 

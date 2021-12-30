@@ -1,4 +1,3 @@
-#js/ts
 
 https://www.typescriptlang.org/docs/handbook/intro.html
 
@@ -26,3 +25,14 @@ console.log(res.data)
 console.log(e)
 })
 ```
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js

@@ -1,5 +1,3 @@
-#html
-
 ```html
 <!DOCTYPE html>
 <html>
@@ -23,3 +21,13 @@
   </body>
 </html>
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #html 

@@ -1,4 +1,3 @@
-#js
 # proxy設定
 https://one-sthead.hatenablog.com/entry/2019/07/02/122304
 
@@ -18,3 +17,14 @@ yarn config set https-proxy http://example.com:port -g
 yarn config set https-proxy http://username:password@host:port -g
 ```
 
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

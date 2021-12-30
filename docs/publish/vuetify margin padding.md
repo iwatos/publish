@@ -1,4 +1,3 @@
-#js/vue/vuetify 
 **property** には以下の間隔のタイプが適用されます:
 -   `m` - `margin` を適用する
 -   `p` - `padding` を適用する
@@ -49,3 +48,13 @@
 -   `n15` - sets `margin` to -60px
 -   `n16` - sets `margin` to -64px
 -   `auto` - 間隔を **auto** に設定
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js/vue/vuetify 

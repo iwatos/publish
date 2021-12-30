@@ -1,4 +1,3 @@
-#css 
 ```
 .parent {
   display: flex;
@@ -12,4 +11,12 @@
 }
 ```
 
-https://qiita.com/nom0523/items/85ffdb75fc759ee37528
+---
+# Related Notes
+- 
+
+# References
+- https://qiita.com/nom0523/items/85ffdb75fc759ee37528
+
+# Tags
+- #css []

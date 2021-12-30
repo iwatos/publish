@@ -1,4 +1,3 @@
-#cli
 ```
 [alias]
     s = status
@@ -7,3 +6,13 @@
 	all-reset = reset --hard && git clean -fdx
 	pf= push --force-with-lease
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli 

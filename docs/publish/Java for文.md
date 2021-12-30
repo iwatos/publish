@@ -1,5 +1,3 @@
-#java 
-
 ```java
 //通常
 for (int i = 0; i < list.size(); i++) {  
@@ -16,3 +14,13 @@ Arrays.stream(strArray)
 	.forEach(str -> System.out.print(str));
 
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

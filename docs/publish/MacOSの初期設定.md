@@ -1,4 +1,3 @@
-#macos 
 # アプリインストール　
 - [[Brew初期設定]]
 
@@ -19,3 +18,14 @@
  
 # その他
 - [OS設定](https://qiita.com/iwato/items/dcde94e0002eca7d0b9f)
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #macos 

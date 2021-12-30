@@ -1,5 +1,3 @@
-#software 
-https://www.soumu.go.jp/denshijiti/code.html
 ```
 ０１ 北海道  
 ０２ 青森県  
@@ -49,3 +47,13 @@ https://www.soumu.go.jp/denshijiti/code.html
 ４６ 鹿児島県  
 ４７ 沖縄県
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- https://www.soumu.go.jp/denshijiti/code.html
+
+# Tags
+- #software 

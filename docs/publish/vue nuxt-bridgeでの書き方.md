@@ -1,4 +1,3 @@
-#js/vue/vuetify 
 ```ts
 <script lang='ts' setup>  
 import { computed, reactive, watch, withDefaults } from '@vue/runtime-core'  
@@ -47,3 +46,13 @@ const handle = () => {
   
 </script>
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js/vue/vuetify 

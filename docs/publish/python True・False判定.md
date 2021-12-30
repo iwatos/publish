@@ -1,4 +1,3 @@
-#python
 # Falseとなるもの
 - False
 - 0
@@ -11,3 +10,13 @@
 
 # References
 [どのようなオブジェクトが真(True)や偽(False)と評価されるのか](https://www.javadrive.jp/python/if/index3.html)
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

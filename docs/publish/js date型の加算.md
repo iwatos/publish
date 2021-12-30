@@ -1,4 +1,3 @@
-#js 
 ```js
 var dt = new Date();
 
@@ -19,3 +18,13 @@ dt.setMinutes(dt.getMinutes() + 3);
 ```
 
 https://qiita.com/kazu56/items/cca24cfdca4553269cab
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

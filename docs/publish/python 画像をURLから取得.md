@@ -1,4 +1,3 @@
-#python
 ```py
 
 image = None
@@ -16,3 +15,13 @@ try:
 with open(FILE_PATH, mode='wb') as f:
     f.write(image)
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

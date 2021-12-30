@@ -1,4 +1,3 @@
-#java/jsp 
 application.propertiesファイルが存在する場合
 `<fmt:bundle basename="application" >`で囲んだ中で
 `<fmt:message key="item.id"/>`を使用する
@@ -11,3 +10,13 @@ application.propertiesファイルが存在する場合
 ```
 
 http://struts.wasureppoi.com/jstl/03_bundle.html
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java/jsp 

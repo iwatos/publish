@@ -1,4 +1,3 @@
-#js 
 # スコープ
 varは関数スコープ
 letはブロックスコープ
@@ -13,3 +12,13 @@ function() {
   console.log(bar); // 参照できる
 }();
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

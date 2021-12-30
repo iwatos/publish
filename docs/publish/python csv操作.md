@@ -1,4 +1,3 @@
-#python
 https://docs.python.org/ja/3/library/csv.html
 
 ```python
@@ -11,3 +10,13 @@ with open('filepath/sample.csv') as f:
 		# 行単位でリストで返される
 		# ['21', '22', '23', '24']
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

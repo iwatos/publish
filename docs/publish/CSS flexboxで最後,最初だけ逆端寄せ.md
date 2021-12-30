@@ -1,5 +1,3 @@
-#css 
-
 # 最初だけ左寄せ
 ```css
 .f_box{
@@ -21,6 +19,12 @@
 }
 ```
 
+---
+# Related Notes
+- 
 
 # References
-https://wemo.tech/2320
+- https://wemo.tech/2320
+
+# Tags
+- #css 

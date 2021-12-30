@@ -1,4 +1,3 @@
-#python
 ```py
 import csv
 import json
@@ -16,3 +15,13 @@ with requests.Session() as s:
             logger.error("Error in reading campaign csv row : %s", json.dumps(row))
  			logger.error(e)
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

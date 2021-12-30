@@ -1,4 +1,3 @@
-#js 
 ```html
 <input type="text" id="message" value="hoge">
 <script>
@@ -6,3 +5,13 @@
 	document.getElementById("message").value = 'hoge' // 設定
 </script>
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

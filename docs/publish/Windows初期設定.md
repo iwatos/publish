@@ -1,4 +1,3 @@
-#windows
 # chocolatey
 ## インストール
 ```powershell
@@ -64,3 +63,13 @@ https://github.com/imbushuo/mac-precision-touchpad/releases
 展開後`AmtPtpDevice 2.inf`を右クリックしてインストール
 成功すればシステム設定に「タッチパッド」の項目が追加されるので設定
 ※ 有線でつながないとうまく動作しない
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #windows 

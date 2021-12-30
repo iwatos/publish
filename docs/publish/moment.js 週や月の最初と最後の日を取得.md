@@ -1,4 +1,3 @@
-#js 
 
 ```js
 // 週
@@ -12,3 +11,13 @@ moment().endOf('month').format("YYYY/MM/DD HH:mm:ss")
 
 # References
 https://qiita.com/sutoh/items/f46f5da28b48d3d882fe
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js 

@@ -1,5 +1,3 @@
-#python
-#python
 # openpyxl
 https://openpyxl.readthedocs.io/en/stable/tutorial.html
 https://gammasoft.jp/support/how-to-use-openpyxl-for-excel-file/#file-open
@@ -25,3 +23,13 @@ clee4 = row[0]
 # セルの値の読み取り
 cell1.value
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

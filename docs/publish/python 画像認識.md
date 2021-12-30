@@ -1,4 +1,3 @@
-#python
 tesseractのインストール
 ```
 brew install tesseract
@@ -59,3 +58,13 @@ for file in file_list:
 12	文字角度検出を実施(OSD)しかつ、まだらなテキストとしてなるべく多くの単語を検出する
 13	Tesseract固有の処理を回避して1行のテキストとみなす
 https://qiita.com/henjiganai/items/7a5e871f652b32b41a18#3-%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%89psm%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #python 

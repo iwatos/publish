@@ -1,4 +1,3 @@
-#api
 # エンドポイント
 `https://api.<サービスドメイン>/v<バージョン番号>/<名詞複数形>/:id?<名詞>=hoge`  
 の形が望ましい
@@ -45,3 +44,13 @@
 # References
 [ProgrammableWeb](https://www.programmableweb.com/category/all/apis)
 [ステータスコード一覧](https://developer.mozilla.org/ja/docs/Web/HTTP/Status)
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #api 

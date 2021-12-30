@@ -1,4 +1,3 @@
-#java 
 ```java
 public class MyObject {  
  String field;  
@@ -42,3 +41,14 @@ myObject.stream().sorted((o1, o2) -> new MySort().compare(o1, o2)).collect(Colle
 
 https://cyzennt.co.jp/blog/2021/06/09/java%EF%BC%9A%E4%BB%BB%E6%84%8F%E3%81%AE%E9%A0%86%E7%95%AA%E3%81%A7%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%88/
 
+
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

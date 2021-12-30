@@ -1,4 +1,13 @@
-#macos 
-2.  FInder起動
-3.  上部メニューの　移動 > サーバへ接続
-4.  IPアドレスを入力
+1.  FInder起動
+2.  上部メニューの　移動 > サーバへ接続
+3.  IPアドレスを入力
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #macos 

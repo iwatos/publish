@@ -1,4 +1,3 @@
-#java 
 ```java
 public String[] makeUppercaseArray() {
         final int BEGIN_OF_UPPERCASE = 65;
@@ -10,3 +9,13 @@ public String[] makeUppercaseArray() {
         return uppercaseArray;
     }
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java 

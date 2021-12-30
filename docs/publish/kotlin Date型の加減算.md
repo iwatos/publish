@@ -1,5 +1,3 @@
-#kotlin
-
 ```kt
 val date = Date()
 val calendar = Calendar.getInstance().apply { time = date }
@@ -9,3 +7,13 @@ val convertedDate = calendar.time
 ```
 
 https://techback.info/kotlin-date-calculation/
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #kotlin

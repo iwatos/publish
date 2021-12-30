@@ -1,4 +1,3 @@
-#jenkins
 
 ```
 +------------ 分 (0 - 59で指定もできるが、他ジョブでずれる可能性が高いため、H と指定を推奨)
@@ -11,3 +10,13 @@ H * * * *
 ```
 
 [\[Jenkins\] ビルドトリガ（定期的に実行）設定についてのまとめ - Qiita](https://qiita.com/koara-local/items/79cb9c08e77ac9d94b1d)
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #jenkins 

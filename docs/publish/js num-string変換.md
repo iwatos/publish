@@ -1,4 +1,3 @@
-#js 
 # num to string
 ```js
 const num = 123;
@@ -19,3 +18,13 @@ Number(str); // 123.45678
 
 # References
 https://www.softel.co.jp/blogs/tech/archives/5524
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #js

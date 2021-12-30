@@ -1,4 +1,3 @@
-#cli 
 # タグ一覧
 `git tag -l`
 
@@ -14,3 +13,13 @@ git push origin 1.0.0 # リモートへのプッシュ
 git tag -d 1.0.0
 git push origin :1.0.0
 ```
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #cli 

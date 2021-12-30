@@ -1,4 +1,3 @@
-#java/jsp 
 ```html
 <c:if test="${count >= 10}" >
 	count：<c:out value="${count}"/>
@@ -6,3 +5,13 @@
 ```
 
 [[JSP choose,when,otherwise]]
+
+---
+# Related Notes
+- 
+
+# References
+- 
+
+# Tags
+- #java/jsp 
