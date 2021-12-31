@@ -4,6 +4,9 @@ on:
     branches:
       - master
       - main
+env:
+  POETRY_VERSION: 1.1.7
+  POETRY_URL: https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -13,5 +16,8 @@ jobs:
         with:
           python-version: 3.9
       - run: abatilo/actions-poetry@v2.0.0
+      - run: |
+          curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py | python -
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
       - run: poetry install --no-interaction
       - run: poetry run mkdocs gh-deploy --force
