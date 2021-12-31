@@ -16,5 +16,6 @@ find ./docs -name '*.md' | while read file
     gsed -i "s|\(#[^ #\n\r\f\t]\+\)|\`\1\`|g" "${file}"  
   done
 
-git add -A &&
+git add -A
 git commit -m "update"
+git push
