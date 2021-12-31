@@ -20,6 +20,6 @@ jobs:
           find ./docs/publish -name '*.md' | while read file
           do
               name=`basename "${file}" .md`
-              sed -i "" "1s|^|#\ ${name}\n|" "${file}"
+              sed -ie "1s|^|#\ ${name}\n|" "${file}"
           done
       - run: poetry run mkdocs gh-deploy --force
