@@ -17,7 +17,7 @@ jobs:
           echo "$HOME/.local/bin" >> $GITHUB_PATH 
       - run: poetry install --no-interaction
       - run: |
-          find ./docs/publish -name '*.md' | while read file
+          find ./docs -name '*.md' | while read file
           do
             # 見出しレベルを一段階下げる（ページタイトルのみをh1にするため）
             sed -ie "s|# |## |g" "${file}"
