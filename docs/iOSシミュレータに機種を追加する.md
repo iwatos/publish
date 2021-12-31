@@ -1,5 +1,5 @@
 # iOSシミュレータに機種を追加する
-[iOSシミュレータにiPhoneSe(1st generation)を追加する方法](https://qiita.com/Tnaga/i
+https://qiita.com/Tnaga/items/c71c0936c50d7c7f5c6f
 
 ---
 ## Related Notes
