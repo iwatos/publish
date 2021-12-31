@@ -1,5 +1,5 @@
 Preference > General > Preferences
-![[スクリーンショット 2021-03-15 23.26.23.png]]
+![[Pasted Image 5.png]]
 
 ---
 # Related Notes

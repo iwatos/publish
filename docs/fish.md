@@ -33,12 +33,12 @@ fisher add jethrokuan/fzf
 # IDE設定
 # VSCode
 赤枠でfishを選択
-![[k 1.png]]
+![[Pasted Image 2.png]]
 
 # InteliJ
 Preferences → Tools → Terminal → shell path
 を`/usr/local/bin/fish`に設定
-![[l.png]]
+![[Pasted Image 3.png]]
 
 # ~/.config/fish/config.fish
 ```

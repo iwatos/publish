@@ -1,4 +1,4 @@
-![[image (2).png]]
+![[Pasted Image.png]]
 
 ---
 # Related Notes

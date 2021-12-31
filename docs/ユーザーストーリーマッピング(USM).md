@@ -1,4 +1,4 @@
-![[zu02.jpeg]]
+![[Pasted Image 4.jpeg]]
 
 ---
 # Related Notes
