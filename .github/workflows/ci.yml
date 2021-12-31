@@ -4,9 +4,6 @@ on:
     branches:
       - master
       - main
-env:
-  POETRY_VERSION: 1.1.7
-  POETRY_URL: https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py
 jobs:
   deploy:
     runs-on: ubuntu-latest
