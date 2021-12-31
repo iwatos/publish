@@ -1,7 +1,7 @@
 # python 環境構築
 ## 環境構築
 ## pythonインストール
-[[anyenvの導入`#pyenv]]`
+[[anyenvの導入]]
 
 ## poetryインストール
 `brew install poetry`
