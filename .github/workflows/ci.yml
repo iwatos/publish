@@ -16,4 +16,10 @@ jobs:
           curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py | python -
           echo "$HOME/.local/bin" >> $GITHUB_PATH
       - run: poetry install --no-interaction
+      - run: |
+          find docs/publish '*.md' | while read file
+          do
+              name=`basename "${file}" .md`
+              sed -ie "1s|^|#\ ${name}\n|" "${file}"
+          done
       - run: poetry run mkdocs gh-deploy --force
