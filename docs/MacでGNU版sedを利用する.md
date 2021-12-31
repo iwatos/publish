@@ -20,5 +20,5 @@ alias sed='gsed'
 - 
 
 ### Tags
-- `#macos` 
-- `#cli` 
+- `macos` 
+- `cli` 

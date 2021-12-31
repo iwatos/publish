@@ -133,4 +133,4 @@ anyenv init - fish | source
 - 
 
 ## Tags
-- `#cli`
+- `cli`

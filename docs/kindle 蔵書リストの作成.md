@@ -23,4 +23,4 @@ for title in sorted(titles):
 - 
 
 ## Tags
-- `#tool` `#python` 
+- `tool` `python` 

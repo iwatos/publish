@@ -11,4 +11,4 @@ https://github.com/LeCoupa/awesome-cheatsheets
 - 
 
 ## Tags
-- `#software` 
+- `software` 

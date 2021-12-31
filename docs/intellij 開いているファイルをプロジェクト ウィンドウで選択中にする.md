@@ -11,4 +11,4 @@ https://syslog.life/2020/01/12/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%97%E3
 - 
 
 ## Tags
-- `#jetbrains` 
+- `jetbrains` 

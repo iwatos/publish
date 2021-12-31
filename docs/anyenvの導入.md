@@ -37,4 +37,4 @@ anyenv update
 - https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c
 
 ## Tags
-- `#cli` 
+- `cli` 

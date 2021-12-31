@@ -56,4 +56,4 @@ const handle = () => {
 - 
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

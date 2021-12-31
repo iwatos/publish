@@ -9,4 +9,4 @@ https://vuetifyjs.com/en/getting-started/installation/
 - 
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

@@ -35,7 +35,7 @@ Enable-WindowsOptionalFeature -online -featurename VirtualMachinePlatform
 ## PC再起動
 
 ## Linux カーネル更新プログラム パッケージをダウンロード
-## https://docs.microsoft.com/ja-jp/windows/wsl/install-win10`#step-4---download-the-linux-kernel-update-package`
+## https://docs.microsoft.com/ja-jp/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
 
 ## WSLのデフォルトバージョンをWSL2に設定
 wsl --set-default-version 2
@@ -73,4 +73,4 @@ https://github.com/imbushuo/mac-precision-touchpad/releases
 - 
 
 ## Tags
-- `#windows` 
+- `windows` 

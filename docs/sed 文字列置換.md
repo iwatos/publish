@@ -19,4 +19,4 @@ https://bi.biopapyrus.jp/os/linux/sed.html
 - 
 
 ## Tags
-- `#cli` 
+- `cli` 

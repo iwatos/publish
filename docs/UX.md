@@ -12,4 +12,4 @@ https://uxtxt.jp/txt/whatisux
 - 
 
 ## Tags
-- `#ux` 
+- `ux` 

@@ -9,4 +9,4 @@ https://blog4getmoney.com/virtualbox-gustos-windows10%e3%81%abgust-addtions%e3%8
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

@@ -21,4 +21,4 @@ pyenv local 3.8.4 ## 特定ディレクトリで使うver指定
 - 
 
 ## Tags
-- `#python` 
+- `python` 

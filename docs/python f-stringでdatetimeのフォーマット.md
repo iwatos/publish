@@ -12,4 +12,4 @@ print(f"{datetime.now():%Y-%m-%d}")
 - 
 
 ## Tags
-- `#python` 
+- `python` 

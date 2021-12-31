@@ -18,4 +18,4 @@ https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 - 
 
 ## Tags
-- `#android` 
+- `android` 

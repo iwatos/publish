@@ -10,4 +10,4 @@
 - https://techblog.lclco.com/entry/2018/10/29/110000
 
 ## Tags
-- `#chrome` 
+- `chrome` 

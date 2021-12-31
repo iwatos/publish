@@ -17,4 +17,4 @@ https://techback.info/kotlin-date-calculation/
 - 
 
 ## Tags
-- `#kotlin`
+- `kotlin`

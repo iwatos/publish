@@ -36,4 +36,4 @@ HUGO_VERSION = "0.83.0"
 - https://qiita.com/jrfk/items/4c6df87ca72a76e30224
 
 ## Tags
-- `#software` 
+- `software` 

@@ -10,4 +10,4 @@ https://www.tablesgenerator.com/markdown_tables
 - 
 
 ## Tags
-- `#spreadsheet` 
+- `spreadsheet` 

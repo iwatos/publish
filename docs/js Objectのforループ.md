@@ -19,4 +19,4 @@ for (let key in hash) {
 - 
 
 ## Tags
-- `#js`
+- `js`

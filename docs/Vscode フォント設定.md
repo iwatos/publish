@@ -14,4 +14,4 @@ Features > Terminal > Integrated: Font Family で設定
 - 
 
 ## Tags
-- `#vscode` 
+- `vscode` 

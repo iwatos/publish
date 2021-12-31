@@ -9,4 +9,4 @@ https://webrandum.net/vscode-terminal/
 - 
 
 ## Tags
-- `#vscode` 
+- `vscode` 

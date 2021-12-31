@@ -9,4 +9,4 @@ cmd + shit + T
 - 
 
 ## Tags
-- `#chrome` 
+- `chrome` 

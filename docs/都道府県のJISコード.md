@@ -57,4 +57,4 @@
 - https://www.soumu.go.jp/denshijiti/code.html
 
 ## Tags
-- `#software` 
+- `software` 

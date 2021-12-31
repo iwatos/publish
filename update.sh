@@ -12,7 +12,7 @@ find ./docs -name '*.md' | while read file
     gsed -i "1s|^|#\ ${name}\n|" "${file}"
   
     # タグのエスケープ（見出しと認識されてしまうため）
-    gsed -i "s|\(#[^ #\n\r\f\t]\+\)|\`\1\`|g" "${file}"  
+    gsed -i "s|\([ \n\r\f\t]\)#\([^ #\n\r\f\t]\+\)|\1\`\2\`|g" "${file}"  
   done
 
 cp ~/repos/publish/README.md ~/repos/publish/docs/index.md

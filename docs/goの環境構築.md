@@ -41,4 +41,4 @@ VSCodeでF5から実行して`Hello world`が出れば成功
 - https://qiita.com/melty_go/items/c977ba594efcffc8b567
 
 ## Tags
-- `#golang` 
+- `golang` 

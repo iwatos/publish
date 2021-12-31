@@ -24,4 +24,4 @@ Arrays.stream(strArray)
 - 
 
 ## Tags
-- `#java` 
+- `java` 

@@ -18,7 +18,7 @@ git push
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 
 
 ---
 ## Related Notes
@@ -28,4 +28,4 @@ git push
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

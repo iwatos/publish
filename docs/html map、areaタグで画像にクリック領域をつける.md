@@ -9,4 +9,4 @@ http://www.htmq.com/html/area.shtml
 - 
 
 ## Tags
-- `#html` 
+- `html` 

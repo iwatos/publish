@@ -15,4 +15,4 @@ https://support.google.com/docs/answer/3093331?hl=ja
 - 
 
 ## Tags
-- `#spreadsheet` 
+- `spreadsheet` 

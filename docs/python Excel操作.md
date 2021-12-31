@@ -1,7 +1,7 @@
 # python Excel操作
 ## openpyxl
 https://openpyxl.readthedocs.io/en/stable/tutorial.html
-https://gammasoft.jp/support/how-to-use-openpyxl-for-excel-file/`#file-open`
+https://gammasoft.jp/support/how-to-use-openpyxl-for-excel-file/#file-open
 
 ```python
 import openpyxl
@@ -33,4 +33,4 @@ cell1.value
 - 
 
 ## Tags
-- `#python` 
+- `python` 

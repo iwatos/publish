@@ -14,4 +14,4 @@ xxxhdpi = 4.0
 - 
 
 ## Tags
-- `#android` 
+- `android` 

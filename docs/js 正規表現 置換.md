@@ -9,4 +9,4 @@ https://www.sejuku.net/blog/21107
 - 
 
 ## Tags
-- `#js` 
+- `js` 

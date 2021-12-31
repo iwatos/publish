@@ -11,4 +11,4 @@ anyenvより起動が早くおすすめ
 
 
 ## Tags
-- `#cli`
+- `cli`

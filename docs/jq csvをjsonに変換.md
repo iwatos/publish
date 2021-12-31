@@ -15,4 +15,4 @@ jq -s -R 'split("\n")|map(split(","))|map({
 - 
 
 ## Tags
-- `#cli` 
+- `cli` 

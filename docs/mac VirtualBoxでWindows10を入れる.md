@@ -18,5 +18,5 @@ https://pc-karuma.net/mac-virtualbox-windows10-install/
 - 
 
 ## Tags
-- `#macos`
-- `#tool` 
+- `macos`
+- `tool` 

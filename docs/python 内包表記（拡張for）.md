@@ -20,4 +20,4 @@ https://zenn.dev/ryo_kawamata/articles/intoroduce-list-compression
 - 
 
 ## Tags
-- `#python` 
+- `python` 

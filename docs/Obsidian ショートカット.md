@@ -13,4 +13,4 @@ https://help.obsidian.md/How+to/Keyboard+shortcuts
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

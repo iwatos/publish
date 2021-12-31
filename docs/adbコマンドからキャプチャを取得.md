@@ -2,7 +2,7 @@
 ## スクリーンショット
 
 ```sh
-`#!/bin/sh`
+#!/bin/sh
 
 DATE=`date '+%Y%m%d%H%M%S'`
 FILE_NAME=record-${DATE}
@@ -15,7 +15,7 @@ adb shell rm /sdcard/${FILE_NAME}.png
 
 ## 動画
 ```sh
-`#!/bin/sh`
+#!/bin/sh
 
 DATE=`date '+%Y%m%d%H%M%S'`
 FILE_NAME=record-${DATE}
@@ -55,4 +55,4 @@ ffmpeg -i ${YOUR_PATH}/${FILE_NAME}.mp4 -vf scale=240:-1 -an -r 15 -pix_fmt rgb2
 - 
 
 ## Tags
-- `#android` 
+- `android` 

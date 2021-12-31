@@ -13,4 +13,4 @@
 - https://gray-code.com/html_css/list-of-symbols-and-special-characters/
 
 ## Tags
-- `#html` 
+- `html` 

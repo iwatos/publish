@@ -10,4 +10,4 @@ https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmj
 - 
 
 ## Tags
-- `#chrome` 
+- `chrome` 

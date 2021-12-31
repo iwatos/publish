@@ -1,5 +1,5 @@
 # vuetify color
-https://vuetifyjs.com/ja/styles/colors/`#section-30de30c630ea30a230eb30ab30e930fc`
+https://vuetifyjs.com/ja/styles/colors/#section-30de30c630ea30a230eb30ab30e930fc
 
 
 ```html
@@ -16,4 +16,4 @@ https://vuetifyjs.com/ja/styles/colors/`#section-30de30c630ea30a230eb30ab30e930f
 - 
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

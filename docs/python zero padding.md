@@ -15,4 +15,4 @@ print(s_zero)
 - 
 
 ## Tags
-- `#python` 
+- `python` 

@@ -18,4 +18,4 @@
 - https://vuetifyjs.com/ja/components/floating-action-buttons/
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

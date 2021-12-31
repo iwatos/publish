@@ -9,7 +9,7 @@ versionCodeなどが確認したいとき
 - 
 
 ## Tags
-- `#android` 
+- `android` 
 
 
 

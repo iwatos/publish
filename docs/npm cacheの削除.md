@@ -16,5 +16,5 @@ https://blog.spacemarket.com/code/npm-command/
 - 
 
 ## Tags
-- `#js` 
-- `#cli` 
+- `js` 
+- `cli` 

@@ -11,4 +11,4 @@ https://reliphone.jp/itunes-ge
 - https://reliphone.jp/itunes-ge
 
 ## Tags
-- `#ios`
+- `ios`

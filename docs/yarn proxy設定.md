@@ -28,4 +28,4 @@ yarn config set https-proxy http://username:password@host:port -g
 - 
 
 ## Tags
-- `#js` 
+- `js` 

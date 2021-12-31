@@ -17,4 +17,4 @@ set -e KEY VALUE
 - 
 
 ## Tags
-- `#cli`
+- `cli`

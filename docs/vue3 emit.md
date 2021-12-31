@@ -35,4 +35,4 @@ const print = (test: string) => {
 - 
 
 ## Tags
-- `#js/vue` 
+- `js/vue` 

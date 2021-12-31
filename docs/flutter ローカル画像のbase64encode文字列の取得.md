@@ -15,4 +15,4 @@ Future _base64encodeImage(AssetGenImage image) async {
 - 
 
 ## Tags
-- `#flutter` 
+- `flutter` 

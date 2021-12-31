@@ -12,4 +12,4 @@ git clean -df
 - 
 
 ## Tags
-- `#cli` 
+- `cli` 

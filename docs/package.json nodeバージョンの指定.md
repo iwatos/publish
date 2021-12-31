@@ -25,4 +25,4 @@ package.jsonにengines要素でノードバージョンを指定しておくと
 - 
 
 ## Tags
-- `#js` 
+- `js` 

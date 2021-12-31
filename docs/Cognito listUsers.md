@@ -1,5 +1,5 @@
 # Cognito listUsers
-https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentityServiceProvider.html`#listUsers-property`
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/CognitoIdentityServiceProvider.html#listUsers-property
 callbackとPromiseは併用しない
 
 ---
@@ -10,4 +10,4 @@ callbackとPromiseは併用しない
 - 
 
 ## Tags
-- `#aws` 
+- `aws` 

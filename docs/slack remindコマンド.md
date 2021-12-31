@@ -1,5 +1,5 @@
 # slack remindコマンド
-`/remind @who/`#channel` <text> <when>`
+`/remind @who/#channel <text> <when>`
 
 ---
 ## Related Notes
@@ -9,4 +9,4 @@
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

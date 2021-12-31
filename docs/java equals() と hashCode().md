@@ -10,4 +10,4 @@ https://pleiades.io/help/idea/generate-equals-and-hashcode-wizard.html
 - 
 
 ## Tags
-- `#java` 
+- `java` 

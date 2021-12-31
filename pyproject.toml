@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "quarts"
+name = "publish"
 version = "1.0.0"
 description = ""
 authors = ["iwatos <nonbiriactive@gmail.com>"]

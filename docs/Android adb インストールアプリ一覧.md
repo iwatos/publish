@@ -11,4 +11,4 @@ adb shell pm list package | grep <id>
 - 
 
 ## Tags
-- `#android` 
+- `android` 

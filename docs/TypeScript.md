@@ -36,4 +36,4 @@ console.log(e)
 - 
 
 ## Tags
-- `#js`
+- `js`

@@ -25,4 +25,4 @@ jobs:
 - https://zenn.dev/nasubita/articles/81676e51b150dc
 
 ### Tags
-- `#software` 
+- `software` 

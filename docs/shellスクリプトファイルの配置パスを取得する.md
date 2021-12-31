@@ -21,4 +21,4 @@ echo `basename $0`
 - https://www.task-notes.com/entry/20150214/1423882800
 
 ## Tags
-- `#cli` 
+- `cli` 

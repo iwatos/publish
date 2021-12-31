@@ -25,4 +25,4 @@ with requests.Session() as s:
 - 
 
 ## Tags
-- `#python` 
+- `python` 

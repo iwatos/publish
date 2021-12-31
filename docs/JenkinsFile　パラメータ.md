@@ -1,5 +1,5 @@
 # JenkinsFile　パラメータ
-https://www.jenkins.io/doc/book/pipeline/syntax/`#parameters`
+https://www.jenkins.io/doc/book/pipeline/syntax/#parameters
 
 ---
 ## Related Notes
@@ -9,4 +9,4 @@ https://www.jenkins.io/doc/book/pipeline/syntax/`#parameters`
 - 
 
 ## Tags
-- `#jenkins` 
+- `jenkins` 

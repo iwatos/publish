@@ -14,5 +14,5 @@ https://www.amazon.co.jp/dp/B0893RK6WC/ref=dp-kindle-redirect?_encoding=UTF8&btk
 - 
 
 ## Tags
-- `#book` 
-- `#ux` 
+- `book` 
+- `ux` 

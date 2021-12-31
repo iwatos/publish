@@ -16,4 +16,4 @@ pyenvを使っている場合はバージョンごとにpipが存在するので
 - 
 
 ## Tags
-- `#python` 
+- `python` 

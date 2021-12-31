@@ -12,4 +12,4 @@
 - https://developer.android.com/studio/profile/network-profiler?hl=ja
 
 ## Tags
-- `#android` 
+- `android` 

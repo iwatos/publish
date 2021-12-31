@@ -9,4 +9,4 @@ https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocbl
 - 
 
 ## Tags
-- `#chrome` 
+- `chrome` 

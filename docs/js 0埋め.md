@@ -14,4 +14,4 @@ zeroPadding = (num, length) => {
 - 
 
 ## Tags
-- `#js` 
+- `js` 

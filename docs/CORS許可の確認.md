@@ -1,9 +1,9 @@
 # CORS許可の確認
 ```sh
-curl -H "Origin: `#{アクセス元のドメイン}"` \
-     -H "Access-Control-Request-Method: `#{メソッド}"` \
+curl -H "Origin: `{アクセス元のドメイン}"` \
+     -H "Access-Control-Request-Method: `{メソッド}"` \
      -X OPTIONS --verbose \
-        `#{アクセス先のURL}`
+        `{アクセス先のURL}`
 ```
 CORSで許可されている場合、Access-Control-Allow-OriginやAccess-Control-Allow-Methodsが返ってくる
 
@@ -17,4 +17,4 @@ CORSで許可されている場合、Access-Control-Allow-OriginやAccess-Contro
 
 
 ## Tags
-- `#cli` 
+- `cli` 

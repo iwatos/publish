@@ -11,4 +11,4 @@ Obsidian標準のテンプレート機能よりも高機能
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

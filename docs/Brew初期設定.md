@@ -83,4 +83,4 @@ Brewfileに記載のインストールされる
 - 
 
 ## Tags
-- `#cli` `#macos` 
+- `cli` `macos` 

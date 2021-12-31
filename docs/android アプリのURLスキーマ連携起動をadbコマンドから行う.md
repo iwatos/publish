@@ -11,4 +11,4 @@ adb shell 'am start -a android.intent.action.VIEW -d "samplepp://jp.co.hoge/fuga
 - 
 
 ## Tags
-- `#android` 
+- `android` 

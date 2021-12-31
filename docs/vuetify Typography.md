@@ -1,5 +1,5 @@
 # vuetify Typography
-https://vuetifyjs.com/ja/styles/text-and-typography/`#typography`
+https://vuetifyjs.com/ja/styles/text-and-typography/#typography
 ## 種類
 -   `h1`
 -   `h2`
@@ -29,4 +29,4 @@ class="`text-${model}`"
 - 
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

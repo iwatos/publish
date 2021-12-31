@@ -20,5 +20,5 @@ nodenv local 14.5.0 ## 特定ディレクトリで使うver指定
 - 
 
 ## Tags
-- `#js` 
-- `#cli` 
+- `js` 
+- `cli` 

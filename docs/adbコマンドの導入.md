@@ -16,4 +16,4 @@ source ~/.bash\_profile
 - https://qiita.com/hyotty/items/2b1cd76525698064c73d
 
 ## Tags
-- `#android` 
+- `android` 

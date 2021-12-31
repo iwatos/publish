@@ -9,4 +9,4 @@
 - https://suiq.jp/flex-layout-generator/
 
 ## Tags
-- `#css`
+- `css`

@@ -9,4 +9,4 @@ https://minerva.mamansoft.net/Obsidian/Templater%E3%82%92%E4%BD%BF%E3%81%A3%E3%8
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

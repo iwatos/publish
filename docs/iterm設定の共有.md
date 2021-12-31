@@ -10,4 +10,4 @@ Preference > General > Preferences
 - https://qiita.com/ruwatana/items/8d9c174250061721ad11
 
 ## Tags
-- `#tool` 
+- `tool` 

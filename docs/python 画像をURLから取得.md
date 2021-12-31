@@ -25,4 +25,4 @@ with open(FILE_PATH, mode='wb') as f:
 - 
 
 ## Tags
-- `#python` 
+- `python` 

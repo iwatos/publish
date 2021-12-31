@@ -10,4 +10,4 @@ https://read.amazon.co.jp/notebook
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

@@ -31,4 +31,4 @@ if(dog instanceof Animal){
 - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/instanceof
 
 ## Tags
-- `#js`
+- `js`

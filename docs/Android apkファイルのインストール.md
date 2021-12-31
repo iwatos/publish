@@ -9,4 +9,4 @@ adb install <apk-file-path>
 - 
 
 ## Tags
-- `#android`
+- `android`

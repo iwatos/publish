@@ -28,4 +28,4 @@ https://www.softel.co.jp/blogs/tech/archives/5524
 - 
 
 ## Tags
-- `#js`
+- `js`

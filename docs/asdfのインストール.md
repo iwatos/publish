@@ -4,7 +4,7 @@
 
 ## 初期設定
 インストール方法と利用shelllによって方法が異なるので公式ページを参照
-https://asdf-vm.com/guide/getting-started.html`#_1-install-dependencies`
+https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies
 
 fish+brewの場合は以下コマンド
 ```sh
@@ -19,7 +19,7 @@ echo -e "\nsource "(brew --prefix asdf)"/libexec/asdf.fish" >> ~/.config/fish/co
 - 
 
 ## References
-- https://asdf-vm.com/guide/getting-started.html`#_1-install-dependencies`
+- https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies
 
 ## Tags
-- `#cli` 
+- `cli` 

@@ -16,4 +16,4 @@
 - https://wisdommingle.com/mit-license/
 
 ## Tags
-- `#software` 
+- `software` 

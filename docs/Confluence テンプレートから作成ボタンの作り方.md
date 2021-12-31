@@ -12,4 +12,4 @@ Confluenceページ内で`/create`コマンドから`Create from Template`を選
 - 
 
 ## Tags
-- `#tool` 
+- `tool` 

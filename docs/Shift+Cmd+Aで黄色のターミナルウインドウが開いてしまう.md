@@ -10,4 +10,4 @@ https://support.samuraism.com/jetbrains/faq/find-action-glitch
 - 
 
 ## Tags
-- `#macos` 
+- `macos` 

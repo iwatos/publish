@@ -12,4 +12,4 @@ VLOOKUP(検索キー, 範囲, 番号, [並べ替え済み])
 - 
 
 ## Tags
-- `#spreadsheet` 
+- `spreadsheet` 

@@ -17,4 +17,4 @@ const splitList = (originalList, maxLength) => {
 - 
 
 ## Tags
-- `#js` 
+- `js` 

@@ -58,4 +58,4 @@
 - 
 
 ## Tags
-- `#js/vue/vuetify` 
+- `js/vue/vuetify` 

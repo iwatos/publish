@@ -16,4 +16,4 @@ return new StringBuilder().append(a).append(b).toString()
 - 
 
 ## Tags
-- `#java` 
+- `java` 
