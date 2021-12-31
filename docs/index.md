@@ -1,17 +1,14 @@
 # quartz
 This is iwato's Personal Knowledge Management Site
+[GitHub](https://github.com/iwatos/publish)
 
 ## ABOUT ME
 Web Engenner
 
 ## Links
-- [quarts (this site)](https://iwatos.github.io/publish/) 
-- [quarts (github)](https://github.com/iwatos/publish)
-
-### Account
-- [github](https://github.com/iwatos)
-- [zenn](https://zenn.dev/iwatos)
-- [qiita](https://qiita.com/iwato)
-- [twitter](https://twitter.com/IwatoS2)
-- [note](https://note.com/iwato_s)
-- [blog](https://iwato.hatenablog.com/)
+- [GitHub](https://github.com/iwatos)
+- [Zenn](https://zenn.dev/iwatos)
+- [Qiita](https://qiita.com/iwato)
+- [Twitter](https://twitter.com/IwatoS2)
+- [Note](https://note.com/iwato_s)
+- [はてなブログ](https://iwato.hatenablog.com/)
