@@ -6,7 +6,7 @@
 # A Tour of Go
 # A Tour of Go
 # A Tour of Go
-# A Tour of Go
+# A Tour of Go aaaa
 Go言語基礎文法最速マスター
 https://go-tour-jp.appspot.com/welcome/1
 
