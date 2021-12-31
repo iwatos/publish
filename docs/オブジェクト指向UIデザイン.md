@@ -1,3 +1,4 @@
+# オブジェクト指向UIデザイン
 
 https://www.amazon.co.jp/dp/B0893RK6WC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
@@ -6,12 +7,12 @@ https://www.amazon.co.jp/dp/B0893RK6WC/ref=dp-kindle-redirect?_encoding=UTF8&btk
 - UIからモードは削除しもードレスなUIにするべきである
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #book 
-- #ux 
+## Tags
+- `#book` 
+- `#ux` 

@@ -1,13 +1,14 @@
+# awesome-cheatsheets
 https://github.com/LeCoupa/awesome-cheatsheets
 
 いろんな言語のチートシートを集めたリポジトリ
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #software 
+## Tags
+- `#software` 

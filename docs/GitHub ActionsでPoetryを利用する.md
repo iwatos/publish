@@ -1,3 +1,4 @@
+# GitHub ActionsでPoetryを利用する
 ```yml:.github/workflows/ci.yml
 name: usepoetry
 jobs:
@@ -17,11 +18,11 @@ jobs:
 
 
 ---
-## Related Notes
+### Related Notes
 - 
 
-## References
+### References
 - https://zenn.dev/nasubita/articles/81676e51b150dc
 
-## Tags
-- #software 
+### Tags
+- `#software` 

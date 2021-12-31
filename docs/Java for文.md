@@ -1,3 +1,4 @@
+# Java for文
 ```java
 //通常
 for (int i = 0; i < list.size(); i++) {  
@@ -16,11 +17,11 @@ Arrays.stream(strArray)
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `#java` 

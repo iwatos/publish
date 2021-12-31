@@ -1,11 +1,12 @@
+# intellij ターミナルから起動
 https://qiita.com/yutachaos/items/19cf70dbd52a6c227d06
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #jetbrains
+## Tags
+- `#jetbrains`

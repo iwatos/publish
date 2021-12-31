@@ -1,12 +1,13 @@
+# obsidian タグがついてないファイルの検索
 以下のワードで検索する
-` -/#[a-z]\w+/ `
+` -/`#[a-z]\w+/` `
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 

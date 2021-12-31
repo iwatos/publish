@@ -1,4 +1,5 @@
-# primitive型
+# js 変数の型判別
+## primitive型
 ```js
 console.log(typeof 42);
 // expected output: "number"
@@ -13,7 +14,7 @@ console.log(typeof undeclaredVariable);
 // expected output: "undefined"
 ```
 
-# class
+## class
 ```js
 if(dog instanceof Animal){
 
@@ -22,12 +23,12 @@ if(dog instanceof Animal){
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/typeof
 - https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/instanceof
 
-# Tags
-- #js
+## Tags
+- `#js`

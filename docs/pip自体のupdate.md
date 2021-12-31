@@ -1,6 +1,7 @@
+# pip自体のupdate
 
 ```bash
-pip -V # バージョン確認
+pip -V ## バージョン確認
 pip install --upgrade pip
 ```
 
@@ -8,11 +9,11 @@ pyenvを使っている場合はバージョンごとにpipが存在するので
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `#python` 

@@ -1,3 +1,4 @@
+# AndroidでAlexaアプリを使ってkindle書籍を読み上げる
 まずAlexaアプリをインストールしてkindleを購入しているamazonアカウントでログインします。
 https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 
@@ -13,8 +14,8 @@ https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 ![[Screenshot_20210904-221100.png]]
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #android 
+## Tags
+- `#android` 

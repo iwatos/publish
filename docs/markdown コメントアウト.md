@@ -1,3 +1,4 @@
+# markdown コメントアウト
 ```md
 []( コメントアウトしたい内容 )
 []( 複数行のときは\
@@ -9,11 +10,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #markdown 
+## Tags
+- `#markdown` 

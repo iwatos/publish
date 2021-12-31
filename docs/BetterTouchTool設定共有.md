@@ -1,13 +1,14 @@
-# 設定共有
+# BetterTouchTool設定共有
+## 設定共有
 ![[Pasted image 20210321133837.png]]
 ![[Pasted image 20210321133920.png]]	
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 

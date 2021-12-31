@@ -1,3 +1,4 @@
+# Java StreamでMapを使う
 `entrySet()`をりようする
 ```java
 map.entrySet().stream()
@@ -6,11 +7,11 @@ map.entrySet().stream()
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `#java` 

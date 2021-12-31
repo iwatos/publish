@@ -1,3 +1,4 @@
+# vue nuxt-bridgeでの書き方
 ```ts
 <script lang='ts' setup>  
 import { computed, reactive, watch, withDefaults } from '@vue/runtime-core'  
@@ -48,11 +49,11 @@ const handle = () => {
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js/vue/vuetify 
+## Tags
+- `#js/vue/vuetify` 

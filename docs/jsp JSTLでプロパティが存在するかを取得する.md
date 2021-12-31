@@ -1,3 +1,4 @@
+# jsp JSTLでプロパティが存在するかを取得する
 [JSTLでプロパティが存在するかを取得する - azuki note](https://kenichiro22.hatenablog.com/entry/20101221/1292896320)
 
 ```java
@@ -11,11 +12,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java/jsp 
+## Tags
+- `#java/jsp` 

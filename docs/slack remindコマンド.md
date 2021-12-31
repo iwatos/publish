@@ -1,11 +1,12 @@
-`/remind @who/#channel <text> <when>`
+# slack remindコマンド
+`/remind @who/`#channel` <text> <when>`
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 

@@ -1,11 +1,12 @@
+# JSP JSTL
 http://struts.wasureppoi.com/jstl/00_jstl.html
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java/jsp 
+## Tags
+- `#java/jsp` 

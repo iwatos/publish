@@ -1,3 +1,4 @@
+# flutter dioで画像取得
 ```dart
 final dio = await DioHelper.createDefaultDio();  
 dio.options.responseType = ResponseType.bytes;  
@@ -6,11 +7,11 @@ return Image.memory(response.data); // ←画像表示Widget
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #flutter 
+## Tags
+- `#flutter` 

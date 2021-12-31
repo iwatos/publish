@@ -1,3 +1,4 @@
+# kotlin Date型の加減算
 ```kt
 val date = Date()
 val calendar = Calendar.getInstance().apply { time = date }
@@ -9,11 +10,11 @@ val convertedDate = calendar.time
 https://techback.info/kotlin-date-calculation/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #kotlin
+## Tags
+- `#kotlin`

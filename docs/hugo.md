@@ -1,4 +1,5 @@
-# 環境構築
+# hugo
+## 環境構築
 ```sh
 brew install hugo
 hugo new site blog-name
@@ -9,13 +10,13 @@ git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/anan
 echo 'theme = "ananke"' >> config.toml
 ```
 
-# 記事作成
+## 記事作成
 ```sh
-hugo new posts/pos-namet.md # 記事作成
-hugo server -D # ドラフト含めてローカルで確認
+hugo new posts/pos-namet.md ## 記事作成
+hugo server -D ## ドラフト含めてローカルで確認
 ```
 
-# Netlify設定
+## Netlify設定
 netlify.tomlを作成してリポジトリにpush
 ```toml:netlify.toml
 [build]
@@ -27,12 +28,12 @@ HUGO_VERSION = "0.83.0"
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://blog.u-chan-chi.com/post/hugo/
 - https://qiita.com/jrfk/items/4c6df87ca72a76e30224
 
-# Tags
-- #software 
+## Tags
+- `#software` 

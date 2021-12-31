@@ -1,11 +1,12 @@
+# jsチートシート
 https://jsprimer.net/cheatsheet/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `#js` 

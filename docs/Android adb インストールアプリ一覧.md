@@ -1,13 +1,14 @@
+# Android adb インストールアプリ一覧
 ```sh
 adb shell pm list package
 
-# 検索するとき
+## 検索するとき
 adb shell pm list package | grep <id>
 ```
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #android 
+## Tags
+- `#android` 

@@ -1,11 +1,12 @@
+# flexboxチートシート
 ![[flexbox-cheatsheet.pdf]]
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://suiq.jp/flex-layout-generator/
 
-# Tags
-- #css
+## Tags
+- `#css`

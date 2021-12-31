@@ -1,3 +1,4 @@
+# js 0埋め
 ```js
 // NUM=値 LEN=桁数
 zeroPadding = (num, length) => {
@@ -6,11 +7,11 @@ zeroPadding = (num, length) => {
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `#js` 

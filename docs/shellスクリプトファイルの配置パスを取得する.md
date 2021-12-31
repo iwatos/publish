@@ -1,23 +1,24 @@
+# shellスクリプトファイルの配置パスを取得する
 ```sh
-# sh dev/work/relative.sh
+## sh dev/work/relative.sh
 
 echo $0
-# => dev/work/test.sh
+## => dev/work/test.sh
 
 echo `dirname $0`
-# => dev/work
+## => dev/work
 
 echo `basename $0`
-# => test.sh
+## => test.sh
 ```
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://www.task-notes.com/entry/20150214/1423882800
 
-# Tags
-- #cli 
+## Tags
+- `#cli` 

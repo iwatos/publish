@@ -1,11 +1,12 @@
+# chromeの履歴を見る
 cmd + y
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome 
+## Tags
+- `#chrome` 

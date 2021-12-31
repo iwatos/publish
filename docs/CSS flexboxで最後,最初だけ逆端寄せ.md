@@ -1,4 +1,5 @@
-# 最初だけ左寄せ
+# CSS flexboxで最後,最初だけ逆端寄せ
+## 最初だけ左寄せ
 ```css
 .f_box{
     display: flex;
@@ -9,7 +10,7 @@
 }
 ```
 
-# 最後だけ右寄せ
+## 最後だけ右寄せ
 ```scss
 .f_box{
     display: flex;
@@ -20,11 +21,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://wemo.tech/2320
 
-# Tags
-- #css 
+## Tags
+- `#css` 

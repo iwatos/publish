@@ -1,11 +1,12 @@
-# 環境構築
-# pythonインストール
-[[anyenvの導入#pyenv]]
+# python 環境構築
+## 環境構築
+## pythonインストール
+[[anyenvの導入`#pyenv]]`
 
-# poetryインストール
+## poetryインストール
 `brew install poetry`
 
-# プロジェクト作成
+## プロジェクト作成
 1. ディレクトリ作成
 ```bash
 mkdir python-env
@@ -33,8 +34,8 @@ isort = "*"
 requires = ["poetry>=1.0.0"]
 build-backend = "poetry.masonry.api"
 
-# black,pylint,isortの競合回避
-# 
+## black,pylint,isortの競合回避
+## 
 [tool.isort]
 multi_line_output = 3
 include_trailing_comma = true
@@ -56,11 +57,11 @@ max-line-length = "88"
 - `poetry run <モジュール名>` でpoetry環境でコマンド実行可能
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `#python` 

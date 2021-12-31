@@ -1,4 +1,5 @@
-# proxy設定
+# yarn proxy設定
+## proxy設定
 https://one-sthead.hatenablog.com/entry/2019/07/02/122304
 
 yarn config list で設定確認
@@ -20,11 +21,11 @@ yarn config set https-proxy http://username:password@host:port -g
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `#js` 

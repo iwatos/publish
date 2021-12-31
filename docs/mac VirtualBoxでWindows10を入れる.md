@@ -1,3 +1,4 @@
+# mac VirtualBoxでWindows10を入れる
 1. virtualboxをインストール `brew install --cask virtualbox`
 2. windowsのisoをダウンロード https://www.microsoft.com/ja-jp/software-download/windows10ISO
 3. virtualboxを起動して「新規」から仮想マシンを追加
@@ -10,12 +11,12 @@ https://pc-karuma.net/mac-virtualbox-windows10-install/
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #macos
-- #tool 
+## Tags
+- `#macos`
+- `#tool` 

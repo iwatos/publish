@@ -1,4 +1,5 @@
-# スコープ
+# js varとletの違い
+## スコープ
 varは関数スコープ
 letはブロックスコープ
 ```js
@@ -14,11 +15,11 @@ function() {
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `#js` 

@@ -1,3 +1,4 @@
+# JSP choose,when,otherwise
 ```html
 <c:choose>  
 	<c:when test="${age >= 30}">３０代以上</c:when>  
@@ -10,11 +11,11 @@
 [[JSP if]]
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java/jsp 
+## Tags
+- `#java/jsp` 

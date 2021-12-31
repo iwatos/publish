@@ -1,11 +1,12 @@
+# SessionBuddy
 https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=ja
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome 
+## Tags
+- `#chrome` 

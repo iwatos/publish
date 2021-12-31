@@ -1,3 +1,4 @@
+# vim設定
 
 ・設定ファイル作る  
 touch ~/.vimrc  
@@ -15,11 +16,11 @@ source ~/.vimrc
 [[vimコマンド]]
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #vim 
+## Tags
+- `#vim` 

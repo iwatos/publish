@@ -1,24 +1,25 @@
-# キャッシュの全削除
+# yarn cache
+## キャッシュの全削除
  `yarn cache clean`
 
-# キャッシュの指定削除
+## キャッシュの指定削除
 `yarn cache clean nuxt`
 
-# キャッシュされているパッケージの確認
+## キャッシュされているパッケージの確認
 `yarn cache list`
 
-# キャッシュ格納先の確認
+## キャッシュ格納先の確認
 `yarn cache dir`
 
 
 https://classic.yarnpkg.com/en/docs/cli/cache/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `#js` 

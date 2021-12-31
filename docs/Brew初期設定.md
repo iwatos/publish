@@ -1,10 +1,11 @@
-# インストール
+# Brew初期設定
+## インストール
 ````bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ````
 https://brew.sh/index_ja
 
-# Brewfile作成
+## Brewfile作成
 以前のPC設定を引き継ぎたい場合は 
 ```bash
 brew bundle dump --global --force
@@ -57,7 +58,7 @@ mas "Trello", id: 1278508951
 mas "Lightshot Screenshot", id: 526298438
 ```
 
-# PC間のBrewFile移動
+## PC間のBrewFile移動
 前のパソコンからiCloudに配置
 ```bash
 cp ~/.Brewfile ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/.Brewfile
@@ -68,18 +69,18 @@ iCloudから新しいPCに配置
 cp ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/.Brewfile ~/.Brewfile 
 ```
 
-# インストール実行
+## インストール実行
 ```bash
 brew bundle --global
 ```
 Brewfileに記載のインストールされる
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli #macos 
+## Tags
+- `#cli` `#macos` 

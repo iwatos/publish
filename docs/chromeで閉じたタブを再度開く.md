@@ -1,11 +1,12 @@
+# chromeで閉じたタブを再度開く
 cmd + shit + T
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome 
+## Tags
+- `#chrome` 

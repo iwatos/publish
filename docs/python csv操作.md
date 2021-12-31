@@ -1,3 +1,4 @@
+# python csv操作
 https://docs.python.org/ja/3/library/csv.html
 
 ```python
@@ -7,16 +8,16 @@ with open('filepath/sample.csv') as f:
     reader = csv.reader(f)
     for row in reader:
         print(row)
-		# 行単位でリストで返される
-		# ['21', '22', '23', '24']
+		## 行単位でリストで返される
+		## ['21', '22', '23', '24']
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `#python` 

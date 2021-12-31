@@ -1,3 +1,4 @@
+# git alias
 ```
 [alias]
     s = status
@@ -8,11 +9,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `#cli` 

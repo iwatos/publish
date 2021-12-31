@@ -1,7 +1,8 @@
-# アプリインストール　
+# MacOSの初期設定
+## アプリインストール　
 - [[Brew初期設定]]
 
-# アプリ設定
+## アプリ設定
 -  1Password ログイン
 -  DropBox ログイン
 -  Alfred
@@ -11,21 +12,21 @@
 	-  設定同期
 - chrome ログイン
 
-# ターミナル
+## ターミナル
  - iterm2
 	 - 設定同期
  -  [[fish]]
  
-# その他
+## その他
 - [OS設定](https://qiita.com/iwato/items/dcde94e0002eca7d0b9f)
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #macos 
+## Tags
+- `#macos` 

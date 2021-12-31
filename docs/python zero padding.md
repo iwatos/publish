@@ -1,17 +1,18 @@
+# python zero padding
 ```py
 s = '1234'
 
 s_zero = s.zfill(8)
 print(s_zero)
-# 00001234
+## 00001234
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `#python` 

@@ -1,3 +1,4 @@
+# obsidian publishに準ずる機能を無料で利用する
 下記のリポジトリを利用してgithub Pagesで公開する
 https://github.com/jobindj/obsidian-publish-mkdocs
 
@@ -13,18 +14,18 @@ git push
 
 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 

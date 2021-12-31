@@ -1,8 +1,9 @@
+# Android GooglePlayStore申請
 クローズドテストを公開する前に製品版審査が完了すると、クローズドテストだけ公開することができない
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #android 
+## Tags
+- `#android` 

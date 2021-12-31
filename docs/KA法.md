@@ -1,11 +1,12 @@
+# KA法
 https://uxtxt.jp/timespan
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #ux 
+## Tags
+- `#ux` 

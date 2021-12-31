@@ -1,23 +1,24 @@
+# MacでGNU版sedを利用する
 Mac標準のsedコマンドは-iオプションなどの動作がGNU版(主にLinuxで使われる)と微妙に異なるため、
 MacでもGNU版sedを使えるようにする
 
-# インストール
+## インストール
 ```sh
 brew install gnu-sed
 ```
 
-# aliasを設定
+## aliasを設定
 ```sh
 alias sed='gsed'
 ```
 
 ---
-## Related Notes
+### Related Notes
 - 
 
-## References
+### References
 - 
 
-## Tags
-- #macos 
-- #cli 
+### Tags
+- `#macos` 
+- `#cli` 

@@ -1,11 +1,12 @@
+# intellij ファイル保存時にimport文を整備
 ![[Pasted Image.png]]
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #jetbrains 
+## Tags
+- `#jetbrains` 

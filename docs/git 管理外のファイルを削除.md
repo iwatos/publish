@@ -1,14 +1,15 @@
+# git 管理外のファイルを削除
 ```sh
 git cd <Contetnt Root>
 git clean -df 
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `#cli` 

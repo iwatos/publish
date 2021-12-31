@@ -1,14 +1,15 @@
+# git remote urlの変更
 ```sh
-git remote -v # 現在のリモートURLを確認
-git remote set-url origin {new url} # 新しいリモートURLに変更
+git remote -v ## 現在のリモートURLを確認
+git remote set-url origin {new url} ## 新しいリモートURLに変更
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `#cli` 

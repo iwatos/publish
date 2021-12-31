@@ -1,3 +1,4 @@
+# A Tour of Go
 Go言語基礎文法最速マスター
 https://go-tour-jp.appspot.com/welcome/1
 
@@ -8,8 +9,8 @@ https://go-tour-jp.appspot.com/welcome/1
 
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #golang 
+## Tags
+- `#golang` 

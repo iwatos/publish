@@ -1,3 +1,4 @@
+# Java Map 初期化
 ```java
 Map<String, Integer> map = new HashMap<>(){{
 	put("Paul", 20);
@@ -7,11 +8,11 @@ Map<String, Integer> map = new HashMap<>(){{
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `#java` 

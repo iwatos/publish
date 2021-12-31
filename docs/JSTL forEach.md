@@ -1,3 +1,4 @@
+# JSTL forEach
 List
 ```java
 <c:forEach items="${list}"  var="entry" varStatus="status">  
@@ -13,15 +14,15 @@ Map
 ```
 
 
-# References
+## References
 http://struts.wasureppoi.com/jstl/02_foreach.**html**
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java/jsp 
+## Tags
+- `#java/jsp` 

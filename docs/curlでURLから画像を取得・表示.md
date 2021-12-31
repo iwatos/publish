@@ -1,13 +1,14 @@
+# curlでURLから画像を取得・表示
 ```bash
 curl -X GET '画像URL' -o ~/Desktop/image ; open ~/Desktop/image
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `#cli` 

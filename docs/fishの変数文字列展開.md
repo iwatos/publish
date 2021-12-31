@@ -1,3 +1,4 @@
+# fishの変数文字列展開
 変数にsetしたあとで並べる
 ```sh
 function link-name
@@ -8,11 +9,11 @@ end
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli
+## Tags
+- `#cli`

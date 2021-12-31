@@ -1,13 +1,14 @@
+# obsidian 検索結果を埋め込み
 ```query
 search word
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `#tool` 

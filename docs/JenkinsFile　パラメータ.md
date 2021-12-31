@@ -1,11 +1,12 @@
-https://www.jenkins.io/doc/book/pipeline/syntax/#parameters
+# JenkinsFile　パラメータ
+https://www.jenkins.io/doc/book/pipeline/syntax/`#parameters`
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #jenkins 
+## Tags
+- `#jenkins` 

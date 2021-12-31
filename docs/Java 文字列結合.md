@@ -1,3 +1,4 @@
+# Java 文字列結合
 
 ```java
 String a = "aaaa";
@@ -8,11 +9,11 @@ return new StringBuilder().append(a).append(b).toString()
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `#java` 

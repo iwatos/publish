@@ -1,3 +1,4 @@
+# python csvをURLから取得
 ```py
 import csv
 import json
@@ -6,7 +7,7 @@ import json
 with requests.Session() as s:
 	res = s.get(CAMPAIGNS_PATH)  
 	content = res.content.decode("shift-jis")  
-	# ヘッダー行がある場合
+	## ヘッダー行がある場合
 	reader = csv.DictReader(content.splitlines(), delimiter=",")  
 	for row in reader:
 		try:
@@ -17,11 +18,11 @@ with requests.Session() as s:
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `#python` 

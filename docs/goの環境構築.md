@@ -1,5 +1,6 @@
-# 手順
-# goのインストール
+# goの環境構築
+## 手順
+## goのインストール
 [[asdf プラグインのインストール]]からgoをインストール
 ```sh
 asdf plugin add golang
@@ -8,12 +9,12 @@ asdf global golang latest
 ```
 
 
-# VScodeの設定
+## VScodeの設定
 Go言語の拡張機能をインストールする
 [[vscode コマンドパレット]]から`Developer: reload window`を実行
 [[vscode コマンドパレット]]から`GO: Install/Update tools`を実行
 
-# プロジェクトセットアップ
+## プロジェクトセットアップ
 ```sh
 cd [プロジェクト直下]
 go mod init [プロジェクト名]
@@ -33,11 +34,11 @@ func main() {
 VSCodeでF5から実行して`Hello world`が出れば成功
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://qiita.com/melty_go/items/c977ba594efcffc8b567
 
-# Tags
-- #golang 
+## Tags
+- `#golang` 

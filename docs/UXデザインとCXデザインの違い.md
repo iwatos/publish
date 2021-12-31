@@ -1,3 +1,4 @@
+# UXデザインとCXデザインの違い
 UXは製品を利用するエンドユーザに焦点を当てているのに対し、
 CXは顧客（例えばおもちゃのエンドユーザであるこどもの親まで含める）に焦点を当てている
 
@@ -6,11 +7,11 @@ UXデザインはプロダクトにおけるユーザ体験の質を上げるが
 https://blog.btrax.com/jp/ux-cx/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #ux
+## Tags
+- `#ux`
