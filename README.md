@@ -1,12 +1,16 @@
-# quartz
-This is [iwato's personal knowledge](https://iwatos.github.io/publish/)
+# Home
+## About this site
+This is iwato's knowledge management site
 
-[GitHub](https://github.com/iwatos/publish)
+URL: https://iwatos.github.io/publish/
+GitHub: https://github.com/iwatos/publish
 
-## ABOUT ME
+## About me
+Name: iwato
+Japanese
 Web Engenner
 
-## Links
+###  Links
 - [GitHub](https://github.com/iwatos)
 - [Zenn](https://zenn.dev/iwatos)
 - [Qiita](https://qiita.com/iwato)
