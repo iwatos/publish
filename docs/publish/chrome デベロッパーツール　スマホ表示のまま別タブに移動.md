@@ -2,11 +2,11 @@
 ![[Pasted image 20210727225152.png]]
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - https://techblog.lclco.com/entry/2018/10/29/110000
 
-## Tags
+# Tags
 - #chrome 

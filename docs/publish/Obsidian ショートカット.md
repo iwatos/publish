@@ -5,11 +5,11 @@ https://help.obsidian.md/How+to/Keyboard+shortcuts
  Search in all files `Ctrl/Cmd+Shift+F`
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #tool 

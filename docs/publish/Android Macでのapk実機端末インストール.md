@@ -6,8 +6,8 @@ adb install <file_path>
 ```
 
 ---
-## References
+# References
 - https://qiita.com/hyotty/items/2b1cd76525698064c73d
 
-## Tags
+# Tags
 - #android 

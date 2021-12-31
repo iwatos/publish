@@ -3,11 +3,11 @@
 - [Vim Master](https://play.google.com/store/apps/details?id=develop.example.beta1139.vimmaster&hl=ja)
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #vim 

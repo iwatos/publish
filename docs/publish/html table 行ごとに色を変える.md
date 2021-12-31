@@ -16,11 +16,11 @@ table {
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - https://gray-code.com/html_css/setting-background-color-for-each-table-line/
 
-## Tags
+# Tags
 - #html 

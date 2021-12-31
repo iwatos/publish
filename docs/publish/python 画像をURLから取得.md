@@ -17,11 +17,11 @@ with open(FILE_PATH, mode='wb') as f:
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

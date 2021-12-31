@@ -15,11 +15,11 @@ for title in sorted(titles):
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #tool #python 

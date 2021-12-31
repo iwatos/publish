@@ -12,11 +12,11 @@ with open('filepath/sample.csv') as f:
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

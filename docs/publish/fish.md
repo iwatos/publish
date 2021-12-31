@@ -11,14 +11,14 @@ chsh -s /usr/local/bin/fish
 ```
 
 # プラグインマネージャ
-## インストール
+# インストール
 fisher
 
 ```sh
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 ```
 
-## おすすめプラグイン
+# おすすめプラグイン
 ```sh
 # 見た目がかっこよくなる　情報も多い
 fisher add oh-my-fish/theme-bobthefish
@@ -31,11 +31,11 @@ fisher add jethrokuan/fzf
 ```
 
 # IDE設定
-## VSCode
+# VSCode
 赤枠でfishを選択
 ![[k 1.png]]
 
-## InteliJ
+# InteliJ
 Preferences → Tools → Terminal → shell path
 を`/usr/local/bin/fish`に設定
 ![[l.png]]
@@ -125,11 +125,11 @@ anyenv init - fish | source
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #cli

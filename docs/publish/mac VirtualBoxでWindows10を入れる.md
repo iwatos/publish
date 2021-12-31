@@ -10,12 +10,12 @@ https://pc-karuma.net/mac-virtualbox-windows10-install/
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #macos
 - #tool 

@@ -4,10 +4,10 @@ versionCodeなどが確認したいとき
 `adb shell dumpsys package <対象パッケージ名>`を実行
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 
 
 

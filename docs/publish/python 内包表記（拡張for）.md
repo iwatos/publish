@@ -8,15 +8,15 @@ my_dict = {val:index for val, index in enumerate(["foo", "bar", "baz"])} # {'foo
 my_generator = (i for i in range(10))
 ```
 
-## References
+# References
 https://zenn.dev/ryo_kawamata/articles/intoroduce-list-compression
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

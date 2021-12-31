@@ -4,11 +4,11 @@
 4. iphoneのイメージ画像にipaファイルをドラッグドロップ
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - https://qiita.com/hsawada/items/421b01fafdd0e540626e()
 
-## Tags
+# Tags
 - #ios 

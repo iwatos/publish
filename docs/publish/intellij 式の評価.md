@@ -2,11 +2,11 @@
 ![[Pasted image 20210921232927.png]]
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #jetbrains 

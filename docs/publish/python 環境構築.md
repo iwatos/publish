@@ -1,11 +1,11 @@
 # 環境構築
-## pythonインストール
+# pythonインストール
 [[anyenvの導入#pyenv]]
 
-## poetryインストール
+# poetryインストール
 `brew install poetry`
 
-## プロジェクト作成
+# プロジェクト作成
 1. ディレクトリ作成
 ```bash
 mkdir python-env
@@ -56,11 +56,11 @@ max-line-length = "88"
 - `poetry run <モジュール名>` でpoetry環境でコマンド実行可能
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

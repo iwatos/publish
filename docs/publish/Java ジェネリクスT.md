@@ -31,15 +31,15 @@ public class TestMain {
 }
 ```
 
-## References
+# References
 https://layerprogram.com/javagenerics/
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #java 

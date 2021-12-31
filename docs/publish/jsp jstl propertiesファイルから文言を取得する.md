@@ -12,11 +12,11 @@ application.propertiesファイルが存在する場合
 http://struts.wasureppoi.com/jstl/03_bundle.html
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #java/jsp 

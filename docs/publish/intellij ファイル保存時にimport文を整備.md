@@ -1,11 +1,11 @@
 ![[image (2).png]]
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #jetbrains 

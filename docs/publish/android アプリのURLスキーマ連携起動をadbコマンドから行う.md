@@ -6,8 +6,8 @@ adb shell 'am start -a android.intent.action.VIEW -d "samplepp://jp.co.hoge/fuga
 ```
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 

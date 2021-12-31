@@ -5,11 +5,11 @@ Arrays.asList(array).contains(3)
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #java 

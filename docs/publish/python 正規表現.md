@@ -7,12 +7,12 @@ import re
 content \= r'hellow python, 123, end.' 
 pattern \= 'hel'
 
-re.match ## 文字列の先頭がマッチするかチェック
-re.search ## 先頭に限らずマッチするかチェック
-re.fullmatch ## 文字列全体がマッチするかチェック
-re.findall ## マッチする部分すべてをリストで取得: findall()
-## マッチする部分を置換: sub(), subn()
-## 正規表現パターンで文字列を分割: split()
+re.match # 文字列の先頭がマッチするかチェック
+re.search # 先頭に限らずマッチするかチェック
+re.fullmatch # 文字列全体がマッチするかチェック
+re.findall # マッチする部分すべてをリストで取得: findall()
+# マッチする部分を置換: sub(), subn()
+# 正規表現パターンで文字列を分割: split()
 
 フラグの設定
 re.ASCII
@@ -20,11 +20,11 @@ re.ASCII
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

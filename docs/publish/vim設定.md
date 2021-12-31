@@ -15,11 +15,11 @@ source ~/.vimrc
 [[vimコマンド]]
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #vim 

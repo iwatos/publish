@@ -27,12 +27,12 @@ HUGO_VERSION = "0.83.0"
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - https://blog.u-chan-chi.com/post/hugo/
 - https://qiita.com/jrfk/items/4c6df87ca72a76e30224
 
-## Tags
+# Tags
 - #software 

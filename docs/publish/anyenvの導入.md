@@ -17,7 +17,7 @@ anyenv install --init
 ```
 
 # plugin
-## anyenv-update
+# anyenv-update
 ```bash
 # インストール
 git clone https://github.com/znz/anyenv-update.git ~/.anyenv/plugins/anyenv-update
@@ -32,8 +32,8 @@ anyenv update
 - [[nodenv]]
 - [[pyenv]]
 
-## References
+# References
 - https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c
 
-## Tags
+# Tags
 - #cli 

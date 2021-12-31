@@ -2,11 +2,11 @@
 https://support.samuraism.com/jetbrains/faq/find-action-glitch
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #macos 

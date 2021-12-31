@@ -4,11 +4,11 @@ https://uxtxt.jp/txt/whatisux
 [[クロス集計]]
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #ux 

@@ -4,11 +4,11 @@ Confluenceページ内で`/create`コマンドから`Create from Template`を選
 [[Confluence テンプレートの作り方]]で作成したテンプレートも利用可能
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #tool 

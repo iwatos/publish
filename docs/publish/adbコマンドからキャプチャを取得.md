@@ -50,8 +50,8 @@ ffmpeg -i ${YOUR_PATH}/${FILE_NAME}.mp4 -vf scale=240:-1 -an -r 15 -pix_fmt rgb2
 
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 

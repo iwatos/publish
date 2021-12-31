@@ -7,11 +7,11 @@ jq -s -R 'split("\n")|map(split(","))|map({
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #cli 

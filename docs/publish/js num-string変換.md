@@ -16,15 +16,15 @@ var str = '123.45678';
 Number(str); // 123.45678
 ```
 
-## References
+# References
 https://www.softel.co.jp/blogs/tech/archives/5524
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #js

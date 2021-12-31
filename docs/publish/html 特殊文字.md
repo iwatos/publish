@@ -5,11 +5,11 @@
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - https://gray-code.com/html_css/list-of-symbols-and-special-characters/
 
-## Tags
+# Tags
 - #html 

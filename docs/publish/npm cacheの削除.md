@@ -4,16 +4,16 @@
 
 # キャッシュの整合性確認
 `npm-cache verify`  
-## References
+# References
 https://blog.spacemarket.com/code/npm-command/
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #js 
 - #cli 

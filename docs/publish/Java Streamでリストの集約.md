@@ -4,15 +4,15 @@ Map<String, List<Product>> grpByType =
 	.collect(Collectors.groupingBy(Product::getProductType));
 ```
 
-## References
+# References
 https://qiita.com/KevinFQ/items/c4e7b5835487180d9659
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #java 

@@ -9,8 +9,8 @@ xxxhdpi = 4.0
 [http://blog.digital-squad.net/article/436334592.html](http://blog.digital-squad.net/article/436334592.html)
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 

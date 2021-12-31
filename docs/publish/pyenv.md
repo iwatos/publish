@@ -13,11 +13,11 @@ pyenv local 3.8.4 # 特定ディレクトリで使うver指定
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #python 

@@ -21,11 +21,11 @@ class="`text-${model}`"
 
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #js/vue/vuetify 

@@ -1,9 +1,9 @@
 # chocolatey
-## インストール
+# インストール
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
-## アプリインストール
+# アプリインストール
 ```powershell
 choco install googlechrome -y
 choco install 1password -y
@@ -50,14 +50,14 @@ wsl -l -v
 
 # デバイス設定
 
-## magic keyboard
+# magic keyboard
 https://www.vector.co.jp/soft/winnt/util/se228667.html
 からkey swapをダウンロード
 ![[Pasted image 20210410001435.png]]
 の設定をしてPC再起動
 ※ 有線でつながないと英数/かなキーが使用できない
 
-## magic track pad 2
+# magic track pad 2
 https://github.com/imbushuo/mac-precision-touchpad/releases
 から`Drivers-amd64-ReleaseMSSigned.zip`をDL
 展開後`AmtPtpDevice 2.inf`を右クリックしてインストール
@@ -65,11 +65,11 @@ https://github.com/imbushuo/mac-precision-touchpad/releases
 ※ 有線でつながないとうまく動作しない
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #windows 

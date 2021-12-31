@@ -7,15 +7,15 @@ sed -e 's/<置換前>/<置換後>/' <file_path>
 sed -e 's/<置換前>/<置換後>/g' <file_path>
 ```
 
-## References
+# References
 https://bi.biopapyrus.jp/os/linux/sed.html
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #cli 

@@ -13,8 +13,8 @@ https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=ja&gl=US
 ![[Screenshot_20210904-221100.png]]
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 

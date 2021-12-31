@@ -1,11 +1,11 @@
 https://uxtxt.jp/timespan
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #ux 

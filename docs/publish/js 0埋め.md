@@ -6,11 +6,11 @@ zeroPadding = (num, length) => {
 ```
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #js 

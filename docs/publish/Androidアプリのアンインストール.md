@@ -2,8 +2,8 @@
 `adb uninstall <package-name>`
 
 ---
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #android 

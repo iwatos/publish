@@ -2,11 +2,11 @@ Tables Generator
 https://www.tablesgenerator.com/markdown_tables
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #spreadsheet 

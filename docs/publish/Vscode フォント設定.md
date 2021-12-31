@@ -6,11 +6,11 @@ Features > Terminal > Integrated: Font Family で設定
 [[fish]]のbobthefishテーマを使う時などはPowerlineフォント設定が必要
 
 ---
-## Related Notes
+# Related Notes
 - 
 
-## References
+# References
 - 
 
-## Tags
+# Tags
 - #vscode 
