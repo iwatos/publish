@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Quarts
+site_name: quartz
 theme:
   name: material
   #  favicon: attachment/portrait.png
