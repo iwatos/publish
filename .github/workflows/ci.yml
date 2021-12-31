@@ -25,6 +25,6 @@ jobs:
       - run: |
           find ./docs/publish -name '*.md' | while read file
           do
-            sed -ie "s|\(#[^ \n\r\f\t]\+\)|\`\1\`|g" "${file}"
+            sed -ie "s|\([ \n\r\f\t]\+\)\(#[^ \n\r\f\t]\+\)|\1\`\2\`|g" "${file}"
           done
       - run: poetry run mkdocs gh-deploy --force
