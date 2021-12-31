@@ -1,5 +1,5 @@
 # quartz
-This is iwato's Personal Knowledge Management Site
+This is [iwato's personal knowledge](https://iwatos.github.io/publish/)
 [GitHub](https://github.com/iwatos/publish)
 
 ## ABOUT ME
