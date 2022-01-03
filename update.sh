@@ -16,6 +16,7 @@ find ./docs -name '*.md' | while read file
   done
 
 cp ~/repos/publish/README.md ~/repos/publish/docs/index.md
+cp -R ~/repos/publish/assets ~/repos/publish/docs/assets
 
 git add -A
 git commit -m "update"
