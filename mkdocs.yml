@@ -2,14 +2,18 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Quartz <iwato's knowledge management>
+site_name: Spilit Quartz ~ Iwato's note ~
 theme:
   name: material
-  #  favicon: attachment/portrait.png
   language: ja
+  palette:
+    primary: deep purple
+  font: 
+    text: Noto Sans Japanese
+  logo: assets/logo.png
   features:
     - navigation.expand 
-    - tabs 
+    - tabs
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
@@ -49,3 +53,10 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+extra_css:
+    - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+extra:
+  font:
+      text: "Noto Sans JP"
+      code: "Consolas"

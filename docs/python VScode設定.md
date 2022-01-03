@@ -1,7 +1,6 @@
-# python VScide設定
-## IDE設定
-## VS Code
-setting.json
+# python VScode設定
+setting.jsonに以下を追記
+
 ```json
 {
 	"[python]": {
@@ -40,14 +39,13 @@ setting.json
 ```
 
 
-https://qiita.com/homines22/items/dca21cf6b2eff858672b
-
 ---
 ## Related Notes
 - 
 
 ## References
-- 
+- https://qiita.com/homines22/items/dca21cf6b2eff858672b
 
 ## Tags
 - `python` 
+- `vscode` 
