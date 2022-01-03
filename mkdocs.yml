@@ -10,7 +10,8 @@ theme:
     primary: deep purple
   font: 
     text: Noto Sans Japanese
-  logo: assets/logo.png
+  logo: ./assets/logo.png
+  favicon: ./assets/logo.png
   features:
     - navigation.expand 
     - tabs
