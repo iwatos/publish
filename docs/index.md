@@ -18,3 +18,34 @@ Web Engenner in Japan
 - [Twitter](https://twitter.com/IwatoS2)
 - ~~[note（活動なし）](https://note.com/iwato_s)~~
 - ~~[はてなブログ（活動なし）](https://iwato.hatenablog.com/)~~
+
+## 更新履歴
+ 2022-01-15 12:09:22 update
+
+* [A ATest](A ATest.md)
+ 2022-01-15 11:04:52 update
+
+ 2022-01-15 11:04:12 update
+
+ 2022-01-15 11:00:44 update
+
+* [__Test](__Test.md)
+ 2022-01-04 19:44:10 update
+
+* [JetBrainsIDE](JetBrainsIDE.md)
+* [VSCode settings.json](VSCode settings.json.md)
+* [VSCode](VSCode.md)
+ 2022-01-03 15:04:35 update
+
+ 2022-01-03 15:00:37 update
+
+ 2022-01-03 15:00:19 update
+
+* [README](README.md)
+* [index](index.md)
+ 2022-01-03 14:52:29 update
+
+ 2022-01-03 14:50:31 update
+
+* [README](README.md)
+* [index](index.md)

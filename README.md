@@ -18,3 +18,6 @@ Web Engenner in Japan
 - [Twitter](https://twitter.com/IwatoS2)
 - ~~[note（活動なし）](https://note.com/iwato_s)~~
 - ~~[はてなブログ（活動なし）](https://iwato.hatenablog.com/)~~
+
+## 更新履歴
+!change_log
