@@ -1,8 +1,12 @@
-rm -rf ~/repos/publish/docs/
-mkdir ~/repos/publish/docs/
-cp -R ~/obsidian/private/publish/** ~/repos/publish/docs/
+RELATIVE_ROOT="`dirname $0`/.."
+ROOT=`realpath "$RELATIVE_ROOT"`
+DOCS="${ROOT}/docs"
 
-find ./docs -name '*.md' | while read file
+rm -rf $DOCS
+mkdir $DOCS
+cp -R ~/obsidian/private/publish/** $DOCS
+
+find $DOCS -name '*.md' | while read file
   do
     # 見出しレベルを一段階下げる（ページタイトルのみをh1にするため）
     gsed -i "s|# |## |g" "${file}"
@@ -15,5 +19,5 @@ find ./docs -name '*.md' | while read file
     gsed -i "s|\([ \n\r\f\t]\)#\([^ #\n\r\f\t]\+\)|\1\`\2\`|g" "${file}"  
   done
 
-cp ~/repos/publish/README.md ~/repos/publish/docs/index.md
-cp -R ~/repos/publish/assets ~/repos/publish/docs/assets
+cp "$ROOT/README.md" "$DOCS/index.md"
+cp -R "$ROOT/assets" "$DOCS/assets"

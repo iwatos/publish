@@ -3,13 +3,14 @@
 ## sh dev/work/relative.sh
 
 echo $0
-## => dev/work/test.sh
+## => dev/work/test.sh （カレントディレクトリからの相対パス）
 
 echo `dirname $0`
 ## => dev/work
 
 echo `basename $0`
 ## => test.sh
+
 ```
 
 
