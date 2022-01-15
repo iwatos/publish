@@ -4,6 +4,4 @@ sh $SCRIPT_PATH/update.sh
    
 git add -A
 git commit -m "update"
-
-# poetry run python "$SCRIPT_PATH/history.py"
-# git push
+git push
