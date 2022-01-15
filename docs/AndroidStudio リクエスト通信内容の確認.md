@@ -1,4 +1,5 @@
 # AndroidStudio リクエスト通信内容の確認
+デバッグ実行中に[[JetBrainsIDE アクション検索]]から
 `[View] > [Tool Windows] > [Profiler] `
 からプロファイラーを表示
 
