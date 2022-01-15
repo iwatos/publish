@@ -19,4 +19,5 @@ find $DOCS -name '*.md' | while read file
     gsed -i "s|\([ \n\r\f\t]\)#\([^ #\n\r\f\t]\+\)|\1\`\2\`|g" "${file}"  
   done
 
+cp "$ROOT/README.md" "$DOCS/index.md"
 cp -R "$ROOT/assets" "$DOCS/assets"
