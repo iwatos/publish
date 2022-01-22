@@ -1,0 +1,13 @@
+```dart
+Navigator.popUntil(context, (route) => route.isFirst);
+```
+
+---
+# Related Notes
+- 
+
+# References
+- https://zenn.dev/k_shir0/articles/9ccec140a1b870
+
+# Tags
+- #notag
