@@ -1,3 +1,4 @@
+# GAS
 まとめ
 https://zenn.dev/iwatos/scraps/553d199d0b7df0
 
@@ -8,11 +9,11 @@ curlでdoPostを実行
 `curl -L -d "" https://script.google.com/macros/s/<ScriptId>/exec`
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #gas 
+## Tags
+- `gas` 

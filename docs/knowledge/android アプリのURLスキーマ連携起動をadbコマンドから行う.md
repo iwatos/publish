@@ -1,3 +1,4 @@
+# android アプリのURLスキーマ連携起動をadbコマンドから行う
 AndroidをUSB接続している状態で以下コマンドを実行する
 （URL、パラメータは適宜変更）
 ```sh
@@ -6,8 +7,8 @@ adb shell 'am start -a android.intent.action.VIEW -d "samplepp://jp.co.hoge/fuga
 ```
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #android 
+## Tags
+- `android` 

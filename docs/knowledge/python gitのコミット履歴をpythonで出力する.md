@@ -1,3 +1,4 @@
+# python gitのコミット履歴をpythonで出力する
 `poetry add GitPython` 
 
 ```python
@@ -18,9 +19,9 @@ def change_log(num, header=""):
         buff = commit.message.split("\n")
         msg.append(f"{header} {dt.strftime('%Y-%m-%d %H:%M:%S')} {buff[0]}")
         if len(buff) > 2:
-            # 更新コメントがちゃんと書いてあったら詳細を書く
+            ## 更新コメントがちゃんと書いてあったら詳細を書く
             msg += buff[2:]
-        # 更新ページ
+        ## 更新ページ
         files = commit.stats.files.keys()
         for f in files:
             ext = os.path.splitext(f)[1]
@@ -36,12 +37,12 @@ def change_log(num, header=""):
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://fereria.github.io/reincarnation_tech/10_Programming/99_Documentation/04_mkdocs_updatelog/
 
-# Tags
-- #python 
-- #git
+## Tags
+- `python` 
+- `git`

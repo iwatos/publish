@@ -1,4 +1,5 @@
-s# 推奨
+# java int String 変換
+s## 推奨
 ```java
 // int → String
 String s = String.valueOf(i);
@@ -8,7 +9,7 @@ int i = Integer.parseInt(s);
 ```
 
 
-# 非推奨
+## 非推奨
 ```java
 // int → String
 String s = "" + i;
@@ -22,11 +23,11 @@ int i = Integer.valueOf(s).intValue();
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `java` 

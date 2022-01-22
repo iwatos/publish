@@ -1,12 +1,13 @@
+# chrome拡張 uBlacklist
 https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja
 指定したサイトを検索結果で表示しないようにするchrome拡張
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome 
+## Tags
+- `chrome` 

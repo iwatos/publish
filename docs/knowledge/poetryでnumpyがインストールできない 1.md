@@ -1,9 +1,10 @@
-# 環境
+# poetryでnumpyがインストールできない 1
+## 環境
 OS: MacOS Big Sur
 poetry: v1.1.4
 python: pyenv v3.9.0
 
-# 事象 
+## 事象 
 `poetry add numpy`でエラーが出る
 ```bash
 Failed to build numpy
@@ -24,7 +25,7 @@ Failed to build numpy
       1078│     def execute(self, bin, *args, **kwargs):
 ```
 
-# 対応
+## 対応
 1. 以下のコマンドを打つ
 `poetry config experimental.new-installer false`
 
@@ -34,7 +35,7 @@ Failed to build numpy
 でインストール成功した。
 
 
-# 参考
+## 参考
 - poetryのgithub issue
 https://github.com/python-poetry/poetry/issues/3196#issuecomment-713011483
 

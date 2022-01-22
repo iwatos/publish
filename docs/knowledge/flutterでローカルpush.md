@@ -1,18 +1,19 @@
+# flutterでローカルpush
 https://pub.dev/packages/flutter_local_notifications
 
 
-# セットしている通知の取得
+## セットしている通知の取得
 ```dart
 final List<PendingNotificationRequest> pendingNotificationRequests =
     await flutterLocalNotificationsPlugin.pendingNotificationRequests();
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #notag
+## Tags
+- `notag`

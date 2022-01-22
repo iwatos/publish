@@ -1,5 +1,6 @@
+# vuetify Typography
 https://vuetifyjs.com/ja/styles/text-and-typography/#typography
-# 種類
+## 種類
 -   `h1`
 -   `h2`
 -   `h3`
@@ -14,18 +15,18 @@ https://vuetifyjs.com/ja/styles/text-and-typography/#typography
 -   `caption`
 -   `overline`
 
-# 指定方法
+## 指定方法
 ```html
 class="`text-${model}`"
 ```
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js/vue/vuetify 
+## Tags
+- `js/vue/vuetify` 

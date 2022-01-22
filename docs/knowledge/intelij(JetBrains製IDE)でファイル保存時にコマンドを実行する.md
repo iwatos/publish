@@ -1,15 +1,16 @@
+# intelij(JetBrains製IDE)でファイル保存時にコマンドを実行する
 ファイル保存時にリンターやフォーマッターを実行させたい時に便利です。
 参考:[blackとpylintを使った快適なPython開発](https://qiita.com/navitime_tech/items/0a431a2d74c156d0bda2)
 
 
 
-## File Watchersのインストール
+### File Watchersのインストール
 Preferences > Plugins
 からFile Watchersをインストールする（インストール後にintelijの再起動が必要）
 
 ![スクリーンショット 2020-09-16 23.13.05.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/230281/cc84a55e-e2d7-1baa-bbbf-095d22164e50.png)
 
-## File Watchersの設定
+### File Watchersの設定
 Preferences > Tools > File Watchers
 `+` > `<custom>`　からファイル保存時に実行したいコマンドを追加できる
 ![スクリーンショット 2020-09-16 23.17.33.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/230281/dde0242e-1824-e5c1-02e5-ff96b6ed7a7e.png)
@@ -34,7 +35,7 @@ Preferences > Tools > File Watchers
 入力欄の`+`からマクロ一覧が見れる
 ![スクリーンショット 2020-09-16 23.34.45.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/230281/9fde8c14-05c4-8b19-fe76-41eb1fe10061.png)
 
-## プロジェクト間での設定の共有
+### プロジェクト間での設定の共有
 複数のリポジトリで使いたい時はLevelをGlobalに設定すると、
 他のプロジェクトでもFile Watchers設定画面で表示される
 デフォルトでEnabledのチェックは外れてるので使用したい場合はチェックを入れる必要あり

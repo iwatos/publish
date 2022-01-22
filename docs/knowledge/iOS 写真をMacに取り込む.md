@@ -1,3 +1,4 @@
+# iOS 写真をMacに取り込む
 1. iPhone、iPad、または iPod touch を USB ケーブルで Mac に接続します。
 2. コンピュータで写真 App を開きます。
 3. 写真 App に「読み込み」画面が表示され、接続したデバイス上にある写真とビデオがすべて表示されます。「読み込み」画面が自動的に表示されない場合は、写真 App のサイドバーでデバイスの名前をクリックしてください。
@@ -8,11 +9,11 @@
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://support.apple.com/ja-jp/HT201302
 
-# Tags
-- #ios 
+## Tags
+- `ios` 

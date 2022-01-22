@@ -1,3 +1,4 @@
+# flutter dioのログを表示する
 `dio.interceptors.add(LogInterceptor());`を利用する
 
 ```dart
@@ -7,11 +8,11 @@ final Response response = await dio.get('/endopoint');
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://qiita.com/umechanhika/items/d214b77d74f0633a95e6
 
-# Tags
-- #flutter
+## Tags
+- `flutter`

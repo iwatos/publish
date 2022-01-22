@@ -1,4 +1,5 @@
-# スクリーンショット
+# adbコマンドからキャプチャを取得
+## スクリーンショット
 
 ```sh
 #!/bin/sh
@@ -12,7 +13,7 @@ adb pull /sdcard/${FILE_NAME}.png $YOUR_PATH
 adb shell rm /sdcard/${FILE_NAME}.png
 ```
 
-# 動画
+## 動画
 ```sh
 #!/bin/sh
 
@@ -30,7 +31,7 @@ fi
 
 read -p "Recording, Hit any key when it's finished"
 
-kill -9 $pid # Finished the process of adb screenrecord
+kill -9 $pid ## Finished the process of adb screenrecord
 while :
 do
   alive=`adb shell ps | grep screenrecord | grep -v grep | awk '{ print $9 }'`
@@ -50,8 +51,8 @@ ffmpeg -i ${YOUR_PATH}/${FILE_NAME}.mp4 -vf scale=240:-1 -an -r 15 -pix_fmt rgb2
 
 
 ---
-# References
+## References
 - 
 
-# Tags
-- #android 
+## Tags
+- `android` 

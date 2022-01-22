@@ -1,11 +1,12 @@
+# chrome ブックマークマネージャを表示
 option + cmd + B
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome
+## Tags
+- `chrome`

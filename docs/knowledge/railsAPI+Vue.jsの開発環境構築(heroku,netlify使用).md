@@ -1,3 +1,4 @@
+# railsAPI+Vue.jsの開発環境構築(heroku,netlify使用)
 #概要
 バックエンドでrails、フロントではVueを使いたい。
 連携させるにはrailsでAPIサーバを作成してVueで呼ぶのがいいかと考えました。
@@ -8,13 +9,13 @@ heroku,netlifyのアカウントは登録済みとします。
 3/27 端末への環境変数設定を修正しました。
 4/20 netlifyで動作する際の環境変数設定について修正しました。
 
-# 環境
+## 環境
 Rails: 5.1.6.2
 vue-cli: 3.3.0
 heroku: 7.22.7 darwin-x64 node-v11.10.1
 
-# 手順
-## railsプロジェクトの準備
+## 手順
+### railsプロジェクトの準備
 railsアプリを作成する
 まずはAPI用のrailsプロジェクトを作成
 
@@ -59,7 +60,7 @@ group :production do
   gem 'pg'
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+## Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 ```
@@ -72,7 +73,7 @@ originsを'*'に修正します。
 ```ruby:config/initializers/cors.rb
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins '*' #コメントアウトを解除し、ここを'*'に修正
+    origins '*' `コメントアウトを解除し、ここを'*'に修正`
     resource '*',
       headers: :any,
       methods: [:get, :post, :put, :patch, :delete, :options, :head]
@@ -109,14 +110,14 @@ $ curl -X GET  -H 'Content-Type:application/json' http://0.0.0.0:3000/users
 ```terminal
 #commit,herokuログイン後
 $ git push heroku master
-$ heroku run rake db:migrate #herokuのdb準備
+$ heroku run rake db:migrate `herokuのdb準備`
 ```
 
 herokuにアップロードされたアドレス　https://＊＊＊.herokuapp.com/users
 にアクセスしjsonデータが表示されればOKです。
 
 
-# Vueプロジェクトの準備. 
+## Vueプロジェクトの準備. 
 Vueプロジェクトを作成します。作成後はとりあえず動くか確認しましょう。
 プリセット設定はなんでも大丈夫だと思います。
 
@@ -165,7 +166,7 @@ export default {
 ここまでできたらvueプロジェクトもgithub等にpushしnetlifyで公開してしまいましょう。
 [(参考)vue-cliでwebアプリケーションを作って、Netlifyを使って無料で爆速でリリースした話](https://qiita.com/tiwu_official/items/5d1e883b3190cd8de56f)（リリースまででOK）
 
-## 本番環境の連携
+### 本番環境の連携
 さて、ここまででローカルでの連携は終わりました。
 しかしnetlifyで公開したページを見るとjsonデータは表示されずエラーを吐いています。
 axios.getでlocalhostを参照しているので当然ですね。
@@ -211,7 +212,7 @@ VUE_APP_BASE_API に https://(herokuで設定したアドレス).herokuapp.com/�
 ![スクリーンショット 2019-04-20 13.19.47.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/230281/fd12140c-f942-d12c-978a-5fa0b3de0d82.png)
 （画像のVUE_APP_***_TOKENについては後述）
 
-## API認証の設定
+### API認証の設定
 現在の状況ではURLを知っていれば誰でもuserの中身がわかってしまいます。
 なので認証をつけてVueのプロジェクトからしか見られないようにします。
 
@@ -222,7 +223,7 @@ application_controllers.rbに認証機能を追記します。
 class ApplicationController < ActionController::API
     include ActionController::HttpAuthentication::Token::ControllerMethods
     before_action :authenticate
-    def authenticate #環境変数API_TOKENがrailsとvueで一致しないと認証されない
+    def authenticate `環境変数API_TOKENがrailsとvueで一致しないと認証されない`
         authenticate_or_request_with_http_token do |token,options|
             token == ENV.fetch('API_TOKEN')
         end

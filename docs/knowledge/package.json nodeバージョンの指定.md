@@ -1,8 +1,9 @@
+# package.json nodeバージョンの指定
 package.jsonにengines要素でノードバージョンを指定しておくと
 `yarn install` または`npm install --engine-strict`実行時に
 指定nodeではない場合は警告が出る
 
-# 例
+## 例
 ```json:package.json
 {
   "name": "my-module",
@@ -13,15 +14,15 @@ package.jsonにengines要素でノードバージョンを指定しておくと
 }
 ```
 
-# References
+## References
 [package.jsonに"engines"を設定すると「このバージョンのNode.jsでしか動かない」を表明できる - Qiita](https://qiita.com/suin/items/994458418c737cc9c3e8)
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `js` 

@@ -1,8 +1,9 @@
-# プラグインをインストール
+# VSCodeでvimを利用する
+## プラグインをインストール
 Vimプラグインをインストールする
 ![[Pasted image 20220103002040.png]]
 
-# setting.jsonに設定を追記
+## setting.jsonに設定を追記
 [[VSCode settings.json]]に以下を追記
 ```json
 {
@@ -25,11 +26,11 @@ Vimプラグインをインストールする
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://www.pc-gear.com/post/vscode-vim-vimrc/
 
-# Tags
-- #vscode 
+## Tags
+- `vscode` 

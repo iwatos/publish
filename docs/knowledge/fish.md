@@ -1,46 +1,47 @@
-# インストール
+# fish
+## インストール
 ```sh
 brew install fish
 ```
 
-# デフォルトシェルをfishに変更
+## デフォルトシェルをfishに変更
 
 ```sh
 echo /usr/local/bin/fish | sudo tee -a /etc/shells
 chsh -s /usr/local/bin/fish
 ```
 
-# プラグインマネージャ
-# インストール
+## プラグインマネージャ
+## インストール
 fisher
 
 ```sh
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 ```
 
-# おすすめプラグイン
+## おすすめプラグイン
 ```sh
-# 見た目がかっこよくなる　情報も多い
+## 見た目がかっこよくなる　情報も多い
 fisher add oh-my-fish/theme-bobthefish
 
-# 一度移動したディレクトリに曖昧検索で移動できる
+## 一度移動したディレクトリに曖昧検索で移動できる
 fisher add jethrokuan/z
 
-# 以前実行したコマンドを曖昧検索できる
+## 以前実行したコマンドを曖昧検索できる
 fisher add jethrokuan/fzf
 ```
 
-# IDE設定
-# VSCode
+## IDE設定
+## VSCode
 赤枠でfishを選択
 ![[Pasted Image 2.png]]
 
-# InteliJ
+## InteliJ
 Preferences → Tools → Terminal → shell path
 を`/usr/local/bin/fish`に設定
 ![[Pasted Image 3.png]]
 
-# ~/.config/fish/config.fish
+## ~/.config/fish/config.fish
 ```
 
 alias i='idea'
@@ -57,7 +58,7 @@ alias cddl='cd ~/Downloads'
 alias cf='code ~/.config/fish/config.fish'
 alias sf='source ~/.config/fish/config.fish'
 
-# git操作------------------------------------------------
+## git操作------------------------------------------------
 alias g='git'
 alias delete-merged-local-branch='git branch --merged|egrep -v "\*|develop|master"|xargs git branch -d'
 
@@ -76,7 +77,7 @@ function fbrm -d "Fuzzy-find and checkout a branch"
   git checkout -b "$convertedBranch" origin/"$convertedBranch"
 end
 
-# エディタ起動------------------------------------------
+## エディタ起動------------------------------------------
 function fi -d "intelijでリポジトリ開く"
   set -l selectedRepository (ls ~/repos | fzf| read -l result; and echo "$result")
   if test "$selectedRepository" != ""
@@ -108,7 +109,7 @@ function fr -d "カレントディレクトリをリポジトリルートに移�
   end
 end
 
-# fishパス操作--------------------------------
+## fishパス操作--------------------------------
 alias show_path='echo $fish_user_paths | tr " " "\n" | nl'
 
 function add_path 
@@ -119,17 +120,17 @@ function remove_path
   set --erase --universal fish_user_paths[$argv]
 end
 
-# 初期化-----------------------------------------
+## 初期化-----------------------------------------
 anyenv init - fish | source
 
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli
+## Tags
+- `cli`

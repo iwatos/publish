@@ -1,11 +1,12 @@
+# macOS 常にスペースは半角にする
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #notag
+## Tags
+- `notag`

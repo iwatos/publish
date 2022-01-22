@@ -1,39 +1,40 @@
-# インストールと初期化
+# anyenvの導入
+## インストールと初期化
 ```bash
-# install
+## install
 brew install anyenv
 
-# shellに設定追加(zsh)
+## shellに設定追加(zsh)
 echo 'eval "$(anyenv init -)"' \>> ~/.zshrc
 
-# shellに設定追加(fish)
+## shellに設定追加(fish)
 echo 'anyenv init - fish | source' >> ~/.config/fish/config.fish
 
-# terminalを再起動
+## terminalを再起動
 exec $SHELL -l
 
-# 初期化
+## 初期化
 anyenv install --init
 ```
 
-# plugin
-# anyenv-update
+## plugin
+## anyenv-update
 ```bash
-# インストール
+## インストール
 git clone https://github.com/znz/anyenv-update.git ~/.anyenv/plugins/anyenv-update
 
-# 各envのアップデート
+## 各envのアップデート
 anyenv update
 ```
 
 
 ---
-# Related Note
+## Related Note
 - [[nodenv]]
 - [[pyenv]]
 
-# References
+## References
 - https://qiita.com/rinpa/items/81766cd6a7b23dea9f3c
 
-# Tags
-- #cli 
+## Tags
+- `cli` 

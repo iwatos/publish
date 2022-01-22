@@ -1,3 +1,4 @@
+# sass ２つの要素を持ってるときだけstyle適用
 ```scss
 .hoge {
 	&.fuga{
@@ -8,11 +9,11 @@
 https://qiita.com/shingo-nakanishi/items/4dc6fe8d3ef368778da2
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #css 
+## Tags
+- `css` 

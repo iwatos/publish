@@ -1,6 +1,7 @@
+# flutter flavorで環境判別
 今は[[flutter Dart-defineで環境判別]]のほうがよさげ
 
-# 共通
+## 共通
 以下のファイルを作成
 ```dart:lib/flavor.dart
 enum FlavorType {
@@ -67,7 +68,7 @@ Future<void> startApp() async {
 起動設定を作成
 ![[Pasted image 20220112221707.png]]
 
-# Android
+## Android
 以下を追記
 ```gradle:android/app/build.gradle
 android {
@@ -89,16 +90,16 @@ android {
 ```
 
 
-# iOS
+## iOS
 https://medium.com/flutter-jp/flavor-b952f2d05b5d
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #flutter 
+## Tags
+- `flutter` 

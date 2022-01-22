@@ -1,3 +1,4 @@
+# python VScode設定
 setting.jsonに以下を追記
 
 ```json
@@ -39,12 +40,12 @@ setting.jsonに以下を追記
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://qiita.com/homines22/items/dca21cf6b2eff858672b
 
-# Tags
-- #python 
-- #vscode 
+## Tags
+- `python` 
+- `vscode` 

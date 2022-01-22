@@ -1,25 +1,26 @@
-# GASってなに？
+# GASを使ってAPI開発 with TypeSctipt in ローカル環境
+## GASってなに？
 GASとはGoogle Apps Scriptの略称で、Googleが提供しているJavaScriptをベースにした言語です。
 https://workspace.google.co.jp/intl/ja/products/apps-script/
 
 Googleが提供している G Suiteサービス（ドキュメント、スライド、スプレッドシート、フォーム、カレンダーなど）の操作が可能です。
 さらにブラウザ内で動作するエディタとそれらが動くサーバも（制限はありますが）無料で利用できます
 
-# なぜGASでAPIを作るのか
+## なぜGASでAPIを作るのか
 最近はAPIを作ろうと思った場合にいろんな選択肢があります。
 レンタルサーバを利用する、Herokuなどのサーバ上にAPIを構築する、AWSやGCPなどのクラウドコンピューティングを利用する、といったものが挙げられますがGASを使ってAPIを作る場合のメリットデメリットとしては以下があります。
 
-## メリット
+### メリット
 - サーバー料金がかからない
 - G Suiteサービス（ドキュメント、スライド、スプレッドシート、フォーム、カレンダーなど）の操作ができる
 - Javascriptを動作させるための環境構築が不要
 
-## デメリット
+### デメリット
 - Javascriptとは別にGAS特有の仕様を覚えなければいけない
 - 利用に様々な制限がある（https://developers.google.com/apps-script/guides/services/quotas）
 - npmに非対応
 
-# どんなものがGASに向いてるの？
+## どんなものがGASに向いてるの？
 メリットに書いたようにGASは手軽にすぐにできるのが売りですが、一方で複雑な処理や大規模な開発には向いてません。
 また、認証周りなどの仕様や制限がいつどう変わるかもわからないといった懸念があります。
 なので、以下の条件を満たすかどうかでGASを利用するかを決めましょう。
@@ -30,8 +31,8 @@ Googleが提供している G Suiteサービス（ドキュメント、スライ
 
 ---
 
-# ローカルプロジェクト作成
-## ディレクトリの作成
+## ローカルプロジェクト作成
+### ディレクトリの作成
 プロジェクト用ディレクトリ名: `gas-project-directory`
 プロジェクト名: `gas-project`
 として説明を進めます。適宜自分のプロジェクトに合わせて変更してください。
@@ -42,7 +43,7 @@ mkdir gas-project-directory
 cd gas-project-directory
 ```
 
-## git導入
+### git導入
 ローカルでGASを開発する理由の一つはバージョン管理をしたいからです。
 ということでgitを導入します
 ```sh
@@ -64,28 +65,28 @@ creds.json
 client_secret_*.apps.googleusercontent.com.json
 ```
 
-## yarn導入
+### yarn導入
 TypeScriptや、GASローカル開発に使うClaspというものを利用するのにyarnを使います。
 npmを利用したい方は、本記事中のyarnコマンドをnpmに置き換えてください。
 ```sh
 yarn init
-# yarn init v1.22.4
-# question name (gas-project-directory): gas-project 
-# question version (1.0.0): 
-# question description: 
-# question entry point (index.js): 
-# question repository url: 
-# question author: 
-# question license (MIT): 
-# uestion private: 
-# success Saved package.json
-# ✨  Done in 9.14s.
+## yarn init v1.22.4
+## question name (gas-project-directory): gas-project 
+## question version (1.0.0): 
+## question description: 
+## question entry point (index.js): 
+## question repository url: 
+## question author: 
+## question license (MIT): 
+## uestion private: 
+## success Saved package.json
+## ✨  Done in 9.14s.
 ```
 package.jsonが作成されていればOKです。
 
 
-# TypeScript環境構築
-## TypeScript導入
+## TypeScript環境構築
+### TypeScript導入
 以下コマンドでtypescriptを入れます
 ```sh
 yarn add typescript
@@ -127,7 +128,7 @@ node dist/main.js
 ```
 「hello gas world!!」 と出ればOKです
 
-## ESLint、prettier導入
+### ESLint、prettier導入
 ESLintはリンター（コードを解析して直すべき部分を指摘してくれる）、
 prettierはフォーマッター（コードを整形してくれる）です。
 便利なので入れましょう。
@@ -181,7 +182,7 @@ ESLint、prettierで自動でコードを整形してくれるコマンドが便
 }
 ```
 
-# clasp導入
+## clasp導入
 GASをローカルで開発するためのモジュール`clasp`をインストールします。
 ```sh
 yarn install clasp -g
@@ -192,8 +193,8 @@ yarn install clasp -g
 ---
 
 
-# GASプロジェクトの作成
-## プロジェクト作成
+## GASプロジェクトの作成
+### プロジェクト作成
 claspを利用してプロジェクトを新規作成します
 
 まずは下記コマンドでGoogleアカウント連携をおこないます。
@@ -206,11 +207,11 @@ clasp login
 次にプロジェクト作成をおこないます。
 ```sh
 clasp create gas-project
-# standalone, api, sheet, doc など初期テンプレートをどれにするか聞かれるのでstandaloneを選ぶ
+## standalone, api, sheet, doc など初期テンプレートをどれにするか聞かれるのでstandaloneを選ぶ
 ```
 実行後にディレクトリ直下に　`.clasp.json` `appscript.json` が作成されます。
 
-## プロジェクトの確認
+### プロジェクトの確認
 GASプロジェクトが本当にGoogleサービス上で作成されてるかを以下コマンドで確認します。
 ブラウザでGASエディター画面が開いて、プロジェクト名が左上に書いてあればOKです。
 ```
@@ -221,7 +222,7 @@ clasp open
 https://script.google.com/home
 
 
-# push設定
+## push設定
 ローカルのファイルをGASサーバ上にpushするときの、対象ファイルを設定します。
 今回はTypeScriptのコンパイルで生成したdistフォルダをGASサーバにプッシュするための設定をします。
 
@@ -251,14 +252,14 @@ push対象の中には`appscript.json`を含める必要があるため、毎回
 ここまでできたら実際にpushを実行してみて反映されているか確認してみましょう。
 反映されていれば成功です。
 ```sh
-yarn push # distの内容をGASサーバにプッシュ
-clasp open # ブラウザでGASエディタが開くので、distの内容が反映されていることを確認
+yarn push ## distの内容をGASサーバにプッシュ
+clasp open ## ブラウザでGASエディタが開くので、distの内容が反映されていることを確認
 ```
 
 ---
 
-# APIのデプロイ
-## API用のコードを作成
+## APIのデプロイ
+### API用のコードを作成
 GASでAPIを作成する場合、利用できるHTTPメソッドはGETとPOSTのみです。
 URLアクセスした時にGETの場合は`doGet`、POSTの場合は`doPost`関数が実行されるのでそれぞれ用意する必要があります。
 
@@ -303,7 +304,7 @@ GASでAPIを公開してjsonを返却する場合は、結果はオブジェク�
 これらは上述したようにここから処理が始まる関数で参照されないのは仕方がないので`//eslint-disable-next-line @typescript-eslint/no-unused-vars`のコメントで警告が出ないように防いでいます。
 
 
-## ウェブアプリとしてデプロイ
+### ウェブアプリとしてデプロイ
 GASのデプロイにはウェブアプリ、実行可能API、ライブラリなどいろいろな種類があります。
 誰でもURLを叩けばJson結果を取得できるようにしたい場合はウェブアプリとしてデプロイする必要があります。
 `appscript.json`にウェブアプリとしてデプロイする設定を追加します
@@ -327,11 +328,11 @@ GASのデプロイにはウェブアプリ、実行可能API、ライブラリ�
 
 この設定を追加後、以下のコマンドを打ちます
 ```sh
-yarn push #appscriptの設定を反映
-clasp deploy # デプロイ（公開）を実行
-# 以下の結果が出たらOK
-# Created version 1.
-# - <デプロイID> @1.
+yarn push `appscriptの設定を反映`
+clasp deploy ## デプロイ（公開）を実行
+## 以下の結果が出たらOK
+## Created version 1.
+## - <デプロイID> @1.
 ```
 これでデプロイが完了し処理が公開されました
 
@@ -342,14 +343,14 @@ POSTメソッドの結果も確認したい場合はcurlを利用しましょう
 補足としてcurlでGASのAPIを叩く場合、GASのリダイレクト仕様のため以下のように叩く必要があります。
 `-X POST`のオプションではうまく動かないので注意しましょう。
 ```sh
-# doGet {"status":"ok","method":"get"} が返ってくる
+## doGet {"status":"ok","method":"get"} が返ってくる
 curl -H "Content-Type: application/json" -L https://script.google.com/macros/s/<デプロイID>/exec
 
-# doPost {"status":"ok","method":"post"}が返ってくる
+## doPost {"status":"ok","method":"post"}が返ってくる
 curl -H "Content-Type: application/json" -L https://script.google.com/macros/s/<デプロイID>/exec -d {}
 ```
 
-## デプロイ時のURL固定
+### デプロイ時のURL固定
 単に`clasp deploy`を実行すると、デプロイIDとURLが毎回異なるものが生成されてしまいます。
 これらを固定のIDにするには、オプションでデプロイIDを指定する必要があります。
 `clasp deploy -i <デプロイID>`
@@ -364,7 +365,7 @@ curl -H "Content-Type: application/json" -L https://script.google.com/macros/s/<
     },
 ```
 
-## 検証環境・本番環境の作成
+### 検証環境・本番環境の作成
 デプロイIDの異なる各デプロイは共存できます。
 APIを修正する時に本番環境をいじるのは怖いので、検証と本番を用意しましょう。
 
@@ -385,7 +386,7 @@ APIを修正する時に本番環境をいじるのは怖いので、検証と�
 これらもそれぞれcurlコマンドを叩いて応答が来ればOKです。
 
 
-# `clasp run` コマンド利用のための設定
+## `clasp run` コマンド利用のための設定
 これまでの作業でコーディング〜デプロイ、動作確認までローカルでできるようになりました。
 ですが現状では以下の問題があります。
 - 動作確認をするのに毎回デプロイ（公開）が必要
@@ -399,7 +400,7 @@ APIを修正する時に本番環境をいじるのは怖いので、検証と�
 
 ややこしい作業が多くなるので、そこまで求めないという方は本章の作業はしなくても問題ありません。
 
-## GCPプロジェクトの作成
+### GCPプロジェクトの作成
 最初に実行したclasp login で認証したアカウントでGCPプロジェクトを作成します
 `https://console.cloud.google.com/`から
 プロジェクトの作成 > 新しいプロジェクト を選択し
@@ -410,7 +411,7 @@ APIを修正する時に本番環境をいじるのは怖いので、検証と�
 ![](https://storage.googleapis.com/zenn-user-upload/17l4be50k870a6xyoqrd1l1sysdx)
 ![](https://storage.googleapis.com/zenn-user-upload/iwbdbhy8kjyb29875wn0d5rm2gmr)
 
-## Oauthの同意設定
+### Oauthの同意設定
 Oauthの同意設定が必要です。
 GCPのダッシュボードに作成したGCPのプロジェクトIDが表示されているはずなのでそれをコピーし以下のリンクを開きます。
 `https://console.developers.google.com/apis/credentials/consent?project=[PROJECT_ID]`
@@ -425,7 +426,7 @@ GCPのダッシュボードに作成したGCPのプロジェクトIDが表示さ
 4. テストユーザーに最初に実行した`yarn run clasp login`で認証したアカウントのメールアドレスを追加して次へ
 概要画面が表示されたらOauthの同意設定は完了です。
 
-## claspにプロジェクトIDを設定
+### claspにプロジェクトIDを設定
 claspにプロジェクトIDを設定します
 まず以下のコマンドを打ち.clasp.jsonにprojectIdを設定します
 ```sh
@@ -436,7 +437,7 @@ clasp setting projectId <作成したGCPのプロジェクトID>
 ![](https://storage.googleapis.com/zenn-user-upload/shsd5gkmpoudu53itdo4xiid9eer)
 
 
-## 認証情報を作成
+### 認証情報を作成
 `https://console.cloud.google.com/apis/credentials?project=[PROJECT_ID]`
 から認証情報ファイルの作成します
 1. 認証情報を作成> OauthクライアントID を選択
@@ -447,7 +448,7 @@ clasp setting projectId <作成したGCPのプロジェクトID>
    ![](https://storage.googleapis.com/zenn-user-upload/9qib0jncvsdxh3zghebfz7kad8jh)
 4. `clasp login --creds creds.json`を実行するとブラウザで認証画面が開くので、認証 > 権限許可 を行う
 
-## 実行可能APIとしてデプロイ
+### 実行可能APIとしてデプロイ
 これでclasp run/clasp logsを使う環境が整いました。
 しかしclasp runを実行するにはウェブアプリではなく実行可能APIとしてデプロイしておく必要があるのでその設定を入れます。
 まずappscriot.jsonに実行可能APIとデプロイ設定をを追加します。
@@ -474,4 +475,4 @@ clasp logs
 
 環境構築が終わったので、次にスプレッドシートの内容を返却するAPIを作成してみましょう。
 
-# 執筆中...
+## 執筆中...

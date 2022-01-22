@@ -1,3 +1,4 @@
+# CSS 同じ行に中央寄せと端寄せを混在
 ```
 .parent {
   display: flex;
@@ -12,11 +13,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://qiita.com/nom0523/items/85ffdb75fc759ee37528
 
-# Tags
-- #css []
+## Tags
+- `css` []

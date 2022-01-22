@@ -1,13 +1,14 @@
+# chromeでページ全体のスクリーンショット
 1. cmd+option+I
 2. cmd+shift+P
 3. `full`と入力し、enter
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #chrome 
+## Tags
+- `chrome` 

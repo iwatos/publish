@@ -1,3 +1,4 @@
+# ServerlessFramework(AWS)でstage毎にS3などのリソースを別に作る方法
 provider > stage: `${opt:stage, self:custom.defaultStage}`
 custom > defaultStage: `dev` 
 custom > resourcePrefix : `${self:provider.stage}`を使った値
@@ -21,13 +22,13 @@ custom:
   defaultRegion: ap-northeast-1
   resourcePrefix: ${self:custom.author}-${self:service}-${self:provider.stage}
   environment:
-    dev: # 開発環境
+    dev: ## 開発環境
       key: dev-value
-    test: # テスト環境
+    test: ## テスト環境
       key: test-value
-    staging: # 検証環境
+    staging: ## 検証環境
       key: staging-value
-    prod: # 本番環境
+    prod: ## 本番環境
       prod: prod-value
 
 resources:

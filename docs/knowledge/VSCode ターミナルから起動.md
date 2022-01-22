@@ -1,11 +1,12 @@
+# VSCode ターミナルから起動
 https://webrandum.net/vscode-terminal/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #vscode 
+## Tags
+- `vscode` 

@@ -1,3 +1,4 @@
+# Java Stream
 ```java
 directionMap.getDirectionMap().stream()  
       .filter(d -> d.getNode().getId().equals(form.getNodeId()))  
@@ -5,11 +6,11 @@ directionMap.getDirectionMap().stream()
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `java` 

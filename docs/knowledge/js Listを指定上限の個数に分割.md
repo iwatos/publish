@@ -1,3 +1,4 @@
+# js Listを指定上限の個数に分割
 ```js
 const splitList = (originalList, maxLength) => {
    let splitedList = []
@@ -9,11 +10,11 @@ const splitList = (originalList, maxLength) => {
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `js` 

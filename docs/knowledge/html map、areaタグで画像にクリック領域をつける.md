@@ -1,11 +1,12 @@
-
+# html map、areaタグで画像にクリック領域をつける
+http://www.htmq.com/html/area.shtml
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #notag
+## Tags
+- `html` 

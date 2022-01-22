@@ -1,15 +1,16 @@
-# keyboard shortcuts
+# Obsidian ショートカット
+## keyboard shortcuts
 https://help.obsidian.md/How+to/Keyboard+shortcuts
  
  Open quick switcher `Ctrl/Cmd+O`
  Search in all files `Ctrl/Cmd+Shift+F`
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #tool 
+## Tags
+- `tool` 

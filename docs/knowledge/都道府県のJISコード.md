@@ -1,3 +1,4 @@
+# 都道府県のJISコード
 ```
 ０１ 北海道  
 ０２ 青森県  
@@ -49,11 +50,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://www.soumu.go.jp/denshijiti/code.html
 
-# Tags
-- #software 
+## Tags
+- `software` 

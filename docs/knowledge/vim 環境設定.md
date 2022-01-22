@@ -1,5 +1,6 @@
-# 設定ファイルの作成
-## vimrc
+# vim 環境設定
+## 設定ファイルの作成
+### vimrc
 vimの操作設定を記述するファイル
 
 ファイルを作成
@@ -11,7 +12,7 @@ touch ~/.vimrc
 
 [Vimでの日本語編集がはかどるキーマッピング - Qiita](https://qiita.com/ssh0/items/9e7f0d8b8f033183dd0b)の内容も適宜追加する
 
-## gvimrc
+### gvimrc
 GUI vim（見た目）の設定を書くファイル
 ファイルを作成
 ```sh
@@ -30,20 +31,20 @@ colorscheme koehler
 set background=dark
 ```
 
-# エディター設定
-## [[JetBrainsIDE]]
+## エディター設定
+### [[JetBrainsIDE]]
 [[JetBrainsIDEでvimを利用する]]
 
-## [[VSCode]]
+### [[VSCode]]
 [[VSCodeでvimを利用する]]
 
 
 ---
-# Related Notes
+## Related Notes
 - [[vim コマンド一覧]]
 
-# References
+## References
 - 
 
-# Tags
-- #vim 
+## Tags
+- `vim` 

@@ -1,11 +1,12 @@
+# java stream 終端処理
 https://pppurple.hatenablog.com/entry/2016/10/13/033620
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #java 
+## Tags
+- `java` 

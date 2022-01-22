@@ -1,3 +1,4 @@
+# js inputタグのvalue値を取得、設定
 ```html
 <input type="text" id="message" value="hoge">
 <script>
@@ -7,11 +8,11 @@
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js 
+## Tags
+- `js` 

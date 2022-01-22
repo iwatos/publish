@@ -1,3 +1,4 @@
+# jq csvをjsonに変換
 
 ```sh
 jq -s -R 'split("\n")|map(split(","))|map({
@@ -7,11 +8,11 @@ jq -s -R 'split("\n")|map(split(","))|map({
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `cli` 

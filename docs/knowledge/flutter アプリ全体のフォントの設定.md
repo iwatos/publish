@@ -1,3 +1,4 @@
+# flutter アプリ全体のフォントの設定
 ```yaml:pubspec.yaml
 dependencies:
   flutter_localizations:
@@ -22,11 +23,11 @@ return MaterialApp(
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://qiita.com/najeira/items/dbf5663d1ed845fb1f51
 
-# Tags
-- #flutter 
+## Tags
+- `flutter` 

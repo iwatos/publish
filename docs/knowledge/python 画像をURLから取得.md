@@ -1,3 +1,4 @@
+# python 画像をURLから取得
 ```py
 
 image = None
@@ -11,17 +12,17 @@ try:
     	logger.error("Error in fetching image : %s", image_path)  
  		logger.error(e)
 
-# ファイル書き出し
+## ファイル書き出し
 with open(FILE_PATH, mode='wb') as f:
     f.write(image)
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #python 
+## Tags
+- `python` 

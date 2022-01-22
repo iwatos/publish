@@ -1,3 +1,4 @@
+# vimrc設定
 ```
 " setting
 "文字コードをUFT-8に設定
@@ -67,11 +68,11 @@ nmap <Esc><Esc> :nohlsearch<CR><Esc>
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - [何も考えず~/.vimrcにこれを書くんだ！ 〜vim初心者によるvim初心者のためのvim入門〜 - Qiita](https://qiita.com/morikooooo/items/9fd41bcd8d1ce9170301#%E8%AA%B0%E3%81%8B%E3%81%AE%E3%83%91%E3%82%AF%E3%83%AA%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E3%81%86)
 
-# Tags
-- #vim 
+## Tags
+- `vim` 

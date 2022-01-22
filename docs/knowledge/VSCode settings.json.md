@@ -1,3 +1,4 @@
+# VSCode settings.json
 [[vscode コマンドパレット]]から
 `Preferences: Open Settings(JSON)`を選択すると、settings.jsonが開かれる。
 
@@ -5,11 +6,11 @@
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #vscode 
+## Tags
+- `vscode` 

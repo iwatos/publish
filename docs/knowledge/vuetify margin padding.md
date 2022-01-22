@@ -1,3 +1,4 @@
+# vuetify margin padding
 **property** には以下の間隔のタイプが適用されます:
 -   `m` - `margin` を適用する
 -   `p` - `padding` を適用する
@@ -50,11 +51,11 @@
 -   `auto` - 間隔を **auto** に設定
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js/vue/vuetify 
+## Tags
+- `js/vue/vuetify` 

@@ -1,14 +1,15 @@
-# 参考
+# Vue.jsのデバッグを快適にする（VScode+Chrome or FireFox）
+## 参考
 https://jp.vuejs.org/v2/cookbook/debugging-in-vscode.html
 https://qiita.com/hashimoto-1202/items/c81f5d4c271eef16d957
 
-# 環境
+## 環境
 vue-cli(この記事では3.0以上)
 VScode
 Chrome または FireFox
 
-# Debugger for Chrome/FireFox(VSCode拡張機能)
-## インストール
+## Debugger for Chrome/FireFox(VSCode拡張機能)
+### インストール
 以下リンク、またはVSCodeの拡張機能検索からインストール
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug)
@@ -56,7 +57,7 @@ VSCodeのデバッグビュー→歯車アイコンをクリックしlaunch.json
   ]
 }
 ```
-## 機能
+### 機能
 * F5(メニュー→Debbug→StartDebugging)でブラウザ起動とlocalhost:8080の表示
 npm run serve などをあらかじめ動かしておく必要あり
 ![スクリーンショット 2019-03-01 22.06.02.png](https://qiita-image-store.s3.amazonaws.com/0/230281/7ace6995-8aa9-2fe6-3cb6-8fc14a4dcbe1.png)
@@ -68,8 +69,8 @@ npm run serve などをあらかじめ動かしておく必要あり
 行番号の左をクリックしてブレイクポイント設定
 
 
-# Vue Devtools(Chrome/FireFoxアドオン)
-## インストール
+## Vue Devtools(Chrome/FireFoxアドオン)
+### インストール
 以下リンク、またはブラウザのアドオン検索からインストール
 [Vue.js devtools(Chrome)](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 [Vue.js devtools(FireFox)](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
@@ -79,7 +80,7 @@ Chromeの場合インストール後に拡張器の設定を開き
 ![スクリーンショット 2019-03-01 22.33.01.png](https://qiita-image-store.s3.amazonaws.com/0/230281/b58ea459-52bf-0ed1-9e40-6c1e0a65509f.png)
 
 
-## 機能
+### 機能
 デベロッパーツールにvueタブが追加され
 component内のデータなどが参照できる。
 ![スクリーンショット 2019-03-01 22.53.02.png](https://qiita-image-store.s3.amazonaws.com/0/230281/465340b8-7b1e-ccb2-bc83-edd299444109.png)

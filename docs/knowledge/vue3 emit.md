@@ -1,5 +1,6 @@
+# vue3 emit
 
-# 子
+## 子
 ```vue
 <script lang="ts" setup>  
 const emit = defineEmits<{  
@@ -14,7 +15,7 @@ const handler = (src: string) => {
 </template>
 ```
 
-# 親
+## 親
 ```vue
 <script lang="ts" setup>
 const print = (test: string) => {
@@ -27,11 +28,11 @@ const print = (test: string) => {
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js/vue 
+## Tags
+- `js/vue` 

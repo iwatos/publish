@@ -1,38 +1,39 @@
-# プラグインのインストール
-## 利用可能なプラグインリスト
+# asdf プラグインのインストール
+## プラグインのインストール
+### 利用可能なプラグインリスト
 `asdf plugin list all`
 
-## インストール済みプラグインリスト
+### インストール済みプラグインリスト
 `asdf plugin list`
 
-## プラグインインストール
+### プラグインインストール
 `asdf plugin add <plugin>`
 
 
-# バージョンのインストール
-## プラグインのバージョンリスト
+## バージョンのインストール
+### プラグインのバージョンリスト
 `asdf list all <plugin> `
 
-## プラグインのインストール済みバージョンリスト
+### プラグインのインストール済みバージョンリスト
 `asdf list <plugin> `
 
-## プラグインの指定バージョンインストール
+### プラグインの指定バージョンインストール
 `asdf install <plugin> <version or latest> `
 
 
-# バージョン指定
-## ローカルバージョン指定
+## バージョン指定
+### ローカルバージョン指定
 `asdf local python <version or latest> `
 
-## グローバルバージョン指定
+### グローバルバージョン指定
 `asdf global python <version or latest> `
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - [[asdfのインストール]]
 
-# Tags
-- #cli 
+## Tags
+- `cli` 

@@ -1,20 +1,21 @@
+# JetBrainsIDEでvimを利用する
 [[JetBrainsIDE]]では`IdeaVim`プラグインを入れることでvimが利用できる。
 
-# プラグインの導入
+## プラグインの導入
 
-#  設定ファイルの作成
+##  設定ファイルの作成
 ファイルを作成
 ```sh
 touch ~/.ideavimrc  
 ```
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #jetbrains 
-- #vim 
+## Tags
+- `jetbrains` 
+- `vim` 

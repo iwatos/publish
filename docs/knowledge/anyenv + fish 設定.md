@@ -1,3 +1,4 @@
+# anyenv + fish 設定
 インストール
 
 ```sh

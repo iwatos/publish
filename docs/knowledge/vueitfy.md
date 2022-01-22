@@ -1,11 +1,12 @@
+# vueitfy
 https://vuetifyjs.com/en/getting-started/installation/
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #js/vue/vuetify 
+## Tags
+- `js/vue/vuetify` 

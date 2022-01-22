@@ -1,12 +1,13 @@
+# VSCode fish ターミナルがfishで起動しないとき
 settings.jsonに
 `"terminal.integrated.shell.osx": "/usr/local/bin/fish"`を追加
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #vscode 
+## Tags
+- `vscode` 

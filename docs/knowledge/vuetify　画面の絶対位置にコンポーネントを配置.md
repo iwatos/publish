@@ -1,3 +1,4 @@
+# vuetify　画面の絶対位置にコンポーネントを配置
 `fixed` または `absolute` と `top bottom right left`を使う
 ```vue
 <v-btn fixed bottom right fab color="secondary">  
@@ -10,11 +11,11 @@
 
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - https://vuetifyjs.com/ja/components/floating-action-buttons/
 
-# Tags
-- #js/vue/vuetify 
+## Tags
+- `js/vue/vuetify` 

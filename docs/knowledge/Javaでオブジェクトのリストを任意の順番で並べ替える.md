@@ -1,3 +1,4 @@
+# Javaでオブジェクトのリストを任意の順番で並べ替える
 自作のオブジェクト`MyObject`のリストがあり、それを任意の順番で並べ替えたいとします。
 ```java:MyObject.java
 public class MyObject {  
@@ -59,6 +60,6 @@ public static void main(String[] args){
 }
 ```
 
-# 以下を参考にさせていただきました
+## 以下を参考にさせていただきました
 https://cyzennt.co.jp/blog/2021/06/09/java%EF%BC%9A%E4%BB%BB%E6%84%8F%E3%81%AE%E9%A0%86%E7%95%AA%E3%81%A7%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%88/
 

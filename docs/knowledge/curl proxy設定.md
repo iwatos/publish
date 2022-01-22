@@ -1,11 +1,12 @@
+# curl proxy設定
 `curl <叩きたいアドレス> -x '<proxy_url:port>'`
 
 ---
-# Related Notes
+## Related Notes
 - 
 
-# References
+## References
 - 
 
-# Tags
-- #cli 
+## Tags
+- `cli` 
