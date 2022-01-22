@@ -21,3 +21,9 @@ find $DOCS -name '*.md' | while read file
 
 cp "$ROOT/README.md" "$DOCS/index.md"
 cp -R "$ROOT/assets" "$DOCS/assets"
+
+mkdir "$DOCS/attachments"
+grep -rE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" ./docs/ | grep -oE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" | sed -e 's/!\[\[//g' -e  's/\]\]//g' | while read line
+do
+  cp "/Users/yt/obsidian/private/attachments/$line" "$DOCS/attachments/$line"
+done

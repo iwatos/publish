@@ -1,5 +1,5 @@
 # flexboxチートシート
-![[attachments/flexbox-cheatsheet.pdf]]
+![[flexbox-cheatsheet.pdf]]
 
 ---
 ## Related Notes

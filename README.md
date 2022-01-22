@@ -16,6 +16,3 @@ Web Engenner in Japan
 - [Zenn](https://zenn.dev/iwatos)
 - [Qiita](https://qiita.com/iwato)
 - [Twitter](https://twitter.com/IwatoS2)
-
-## TODO
-- 更新履歴の表示
