@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: SpiritQuarts Quartz ~ Iwato's note ~
+site_name: Spirit Quartz ~ Iwato's note ~
 theme:
   name: material
   language: ja
