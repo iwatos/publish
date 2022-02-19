@@ -7,11 +7,11 @@ theme:
   name: material
   language: ja
   palette:
-    primary: deep purple
+    primary: white
   font: 
     text: Noto Sans Japanese
-  logo: ./assets/logo.png
-  favicon: ./assets/logo.png
+  logo: ./assets/logo_black.png
+  favicon: ./assets/logo_white.png
   features:
     - navigation.expand 
     - tabs
