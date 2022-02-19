@@ -16,12 +16,13 @@ find $DOCS -name '*.md' | while read file
     gsed -i "1s|^|#\ ${name}\n|" "${file}"
   
     # タグのエスケープ（見出しと認識されてしまうため）
-    gsed -i "s|\([ \n\r\f\t]\)#\([^ #\n\r\f\t]\+\)|\1\`\2\`|g" "${file}"  
+    gsed -i "s|\(#[^ #\n\r\f\t]\+\)|\`\1\`|g" "${file}"  
   done
 
 cp "$ROOT/README.md" "$DOCS/index.md"
 cp -R "$ROOT/assets" "$DOCS/assets"
 
+# 画像の用意
 mkdir "$DOCS/attachments"
 grep -rE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" "$DOCS/" | grep -oE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" | sed -e 's/!\[\[//g' -e  's/\]\]//g' | while read line
 do
