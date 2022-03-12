@@ -1,4 +1,4 @@
-# vuetify v-autocompleteでitem-textの値をプロパティ以外に設定
+# vuetify v-autocompleteでitem-textの値をプロパティ以外に設定
 下記のように指定できる
 ```vue
 <v-select

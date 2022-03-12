@@ -1,4 +1,4 @@
-# flutter ListViewBuilderをColumn内で利用する
+# flutter ListViewBuilderをColumn内で利用する
 FlexibleかExpandedで囲む
 
 

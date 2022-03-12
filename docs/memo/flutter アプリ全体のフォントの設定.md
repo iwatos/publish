@@ -1,4 +1,4 @@
-# flutter アプリ全体のフォントの設定
+# flutter アプリ全体のフォントの設定
 ```yaml:pubspec.yaml
 dependencies:
   flutter_localizations:

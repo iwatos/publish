@@ -1,4 +1,4 @@
-# vuetify v-rowで囲んだv-colを上下中央揃えにする
+# vuetify v-rowで囲んだv-colを上下中央揃えにする
 v-rowにalign="center"を指定する。
 
 ```vue

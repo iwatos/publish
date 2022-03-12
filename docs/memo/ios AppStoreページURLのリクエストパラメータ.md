@@ -1,4 +1,4 @@
-# ios AppStoreページURLのリクエストパラメータ
+# ios AppStoreページURLのリクエストパラメータ
 https://reliphone.jp/itunes-ge
 
 

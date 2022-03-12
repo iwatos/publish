@@ -1,4 +1,4 @@
-# flutter StatelessWidget テンプレート
+# flutter StatelessWidget テンプレート
 ```dart
 import 'package:flutter/material.dart';
 

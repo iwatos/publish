@@ -1,4 +1,4 @@
-# java StreamAPIでリストの集約
+# java StreamAPIでリストの集約
 ```java
 Map<String, List<Product>> grpByType = 
 	prdList.stream()

@@ -1,4 +1,4 @@
-# jetbrains Toolboxでインストールしたアプリの場所
+# jetbrains Toolboxでインストールしたアプリの場所
 [[tool Toolbox]]でインストールしたアプリは通常とインストール先が異なる。
 
 下記に配置される。

@@ -1,4 +1,4 @@
-# cli 画像のリサイズ
+# cli 画像のリサイズ
 https://qiita.com/livlea/items/53b755e5067d4ebc5b43
 
 ## 幅指定

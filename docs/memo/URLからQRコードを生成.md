@@ -1,4 +1,4 @@
-# URLからQRコードを生成
+# URLからQRコードを生成
 QRのススメ
 https://qr.quel.jp/text.php
 

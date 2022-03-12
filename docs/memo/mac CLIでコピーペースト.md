@@ -1,4 +1,4 @@
-# mac CLIでコピーペースト
+# mac CLIでコピーペースト
 ## コピー
 ```
 echo hoge | pbcopy

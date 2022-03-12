@@ -1,4 +1,4 @@
-# js Objectのforループ
+# js Objectのforループ
 ```sh
 const hash = {
   key0: "value0",

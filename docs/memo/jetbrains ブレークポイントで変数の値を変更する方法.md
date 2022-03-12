@@ -1,9 +1,9 @@
-# jetbrains ブレークポイントで変数の値を変更する方法
-`#環境`
+# jetbrains ブレークポイントで変数の値を変更する方法
+## 環境
 Intelij
 Java(Java以外でもできるかもしれないけど未確認)
 
-`#手順`
+## 手順
 下のようなコードを書くと、当然"Hello World"と表示されますが、
 strに"ハローワールド！"という別の値をデバッグ中は入れたいとします。
 <img width="709" alt="スクリーンショット 2019-10-28 22.51.25.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/230281/378c10f1-398b-a7f6-287e-ef9ad54931e2.png">

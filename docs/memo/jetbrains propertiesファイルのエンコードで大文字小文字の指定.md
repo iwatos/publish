@@ -1,4 +1,4 @@
-# jetbrains propertiesファイルのエンコードで大文字小文字の指定
+# jetbrains propertiesファイルのエンコードで大文字小文字の指定
 ```sh
 $HOME/Library/Application Support/IntelliJ IDEA.app/Contents/bin/idea.properties
 ```

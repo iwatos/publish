@@ -1,4 +1,4 @@
-# nuxt NuxtBridge ページ遷移
+# nuxt NuxtBridge ページ遷移
 ```js
 import { useRouter } from '@nuxt/bridge/dist/runtime'
 

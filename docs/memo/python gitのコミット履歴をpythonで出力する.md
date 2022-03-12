@@ -1,4 +1,4 @@
-# python gitのコミット履歴をpythonで出力する
+# python gitのコミット履歴をpythonで出力する
 `poetry add GitPython` 
 
 ```python

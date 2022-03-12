@@ -1,4 +1,4 @@
-# flutter 端末にデータを保存する
+# flutter 端末にデータを保存する
 [shared_preferences](https://pub.dev/packages/shared_preferences)を使う
 
 

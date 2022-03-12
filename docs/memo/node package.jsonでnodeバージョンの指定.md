@@ -1,4 +1,4 @@
-# node package.jsonでnodeバージョンの指定
+# node package.jsonでnodeバージョンの指定
 package.jsonにengines要素でノードバージョンを指定しておくと
 `yarn install` または`npm install --engine-strict`実行時に
 指定nodeではない場合は警告が出る

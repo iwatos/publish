@@ -1,4 +1,4 @@
-# chrome 閉じたタブを再度開く
+# chrome 閉じたタブを再度開く
 cmd + shit + T
 
 ---

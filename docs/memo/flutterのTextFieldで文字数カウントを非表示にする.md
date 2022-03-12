@@ -1,4 +1,4 @@
-# flutterのTextFieldで文字数カウントを非表示にする
+# flutterのTextFieldで文字数カウントを非表示にする
 https://hondakenya.work/flutter-textfield-textcounter-hide/
 
 ---

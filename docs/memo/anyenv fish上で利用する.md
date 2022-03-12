@@ -1,4 +1,4 @@
-# anyenv fish上で利用する
+# anyenv fish上で利用する
 インストール
 
 ```sh

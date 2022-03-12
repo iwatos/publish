@@ -1,4 +1,4 @@
-# java アルファベット大文字の配列作成
+# java アルファベット大文字の配列作成
 ```java
 public String[] makeUppercaseArray() {
         final int BEGIN_OF_UPPERCASE = 65;

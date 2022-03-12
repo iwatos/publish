@@ -1,4 +1,4 @@
-# flutter flavorで環境判別
+# flutter flavorで環境判別
 今は[[flutter Dart-defineで環境判別]]のほうがよさげ
 
 ## 共通

@@ -1,4 +1,4 @@
-# flutter dioでContentTypeの指定
+# flutter dioでContentTypeの指定
 ```dart
 dio.post(
   '/info',

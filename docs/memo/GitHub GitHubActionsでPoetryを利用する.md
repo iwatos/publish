@@ -1,4 +1,4 @@
-# GitHub GitHubActionsでPoetryを利用する
+# GitHub GitHubActionsでPoetryを利用する
 ```yml:.github/workflows/ci.yml
 name: usepoetry
 jobs:

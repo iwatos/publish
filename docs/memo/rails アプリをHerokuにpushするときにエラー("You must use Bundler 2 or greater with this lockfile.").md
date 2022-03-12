@@ -1,4 +1,4 @@
-# rails アプリをHerokuにpushするときにエラー("You must use Bundler 2 or greater with this lockfile.")
+# rails アプリをHerokuにpushするときにエラー("You must use Bundler 2 or greater with this lockfile.")
 MacOS
 rails 5.1.6
 

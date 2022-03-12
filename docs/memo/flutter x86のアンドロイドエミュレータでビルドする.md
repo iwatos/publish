@@ -1,4 +1,4 @@
-# flutter x86のアンドロイドエミュレータでビルドする
+# flutter x86のアンドロイドエミュレータでビルドする
 `rootDirectory/android/app/build.gradle`
 の下記に `"x86", "x86_64"` を追記する。
 ```

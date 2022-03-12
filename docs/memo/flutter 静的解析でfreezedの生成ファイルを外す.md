@@ -1,4 +1,4 @@
-# flutter 静的解析でfreezedの生成ファイルを外す
+# flutter 静的解析でfreezedの生成ファイルを外す
 ```yaml:analysis_options.yaml
 analyzer:  
   exclude:  

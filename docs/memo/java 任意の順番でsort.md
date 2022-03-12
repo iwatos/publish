@@ -1,4 +1,4 @@
-# java 任意の順番でsort
+# java 任意の順番でsort
 ```java
 public class MyObject {  
  String field;  

@@ -1,4 +1,4 @@
-# shell シンボリックリンクの作成
+# shell シンボリックリンクの作成
 ```sh
 ln -s <original_file_path> <symbolic_link_file_path>
 ```

@@ -1,4 +1,4 @@
-# flutter MVVMアーキテクチャテンプレート
+# flutter MVVMアーキテクチャテンプレート
 https://github.com/wasabeef/flutter-architecture-blueprints
 
 ---

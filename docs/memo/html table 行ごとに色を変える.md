@@ -1,4 +1,4 @@
-# html table 行ごとに色を変える
+# html table 行ごとに色を変える
 ```scss
 table {
 	tr {

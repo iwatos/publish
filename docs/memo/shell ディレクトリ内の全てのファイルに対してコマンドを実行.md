@@ -1,4 +1,4 @@
-# shell ディレクトリ内の全てのファイルに対してコマンドを実行
+# shell ディレクトリ内の全てのファイルに対してコマンドを実行
 ```sh
 find <directory_path> -name <file_name_regex> | while read file
 do

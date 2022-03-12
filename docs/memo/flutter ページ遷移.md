@@ -1,4 +1,4 @@
-# flutter ページ遷移
+# flutter ページ遷移
 createPageRoute()を用意
 
 ```dart

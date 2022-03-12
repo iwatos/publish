@@ -1,4 +1,4 @@
-# vscode リファクタリング機能
+# vscode リファクタリング機能
 リファクタリング
 cmd+ctrl+Rから可能
 https://code.visualstudio.com/docs/editor/refactoring

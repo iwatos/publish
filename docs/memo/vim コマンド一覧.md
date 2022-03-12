@@ -1,4 +1,4 @@
-# vim コマンド一覧
+# vim コマンド一覧
 https://vimate. jp/lessons/vim-01/commands
 https://vimate.jp/lessons/vim-02/commands
 https://vimate.jp/lessons/vim-03/commands

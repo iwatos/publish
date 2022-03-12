@@ -11,4 +11,3 @@
 
 ## Tags
 - `#macos` 
-- `#public`

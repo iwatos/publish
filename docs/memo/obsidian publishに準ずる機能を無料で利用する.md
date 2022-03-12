@@ -1,4 +1,4 @@
-# obsidian publishに準ずる機能を無料で利用する
+# obsidian publishに準ずる機能を無料で利用する
 下記のリポジトリを利用してgithub Pagesで公開する
 https://github.com/jobindj/obsidian-publish-mkdocs
 

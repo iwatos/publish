@@ -1,4 +1,4 @@
-# python f-stringでdatetimeのフォーマット
+# python f-stringでdatetimeのフォーマット
 ```py
 print(f"{datetime.now():%Y-%m-%d}")
 ## '2021-07-06'

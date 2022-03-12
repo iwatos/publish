@@ -4,7 +4,7 @@ DOCS="${ROOT}/docs"
 
 rm -rf $DOCS
 mkdir $DOCS
-cp -R ~/obsidian/private/publish/** $DOCS
+cp -R ~/Dropbox/obsidian/publish/** $DOCS
 
 find $DOCS -name '*.md' | while read file
   do

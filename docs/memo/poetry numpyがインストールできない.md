@@ -1,4 +1,4 @@
-# poetry numpyがインストールできない
+# poetry numpyがインストールできない
 ## 環境
 OS: MacOS Big Sur
 poetry: v1.1.4

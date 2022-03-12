@@ -1,4 +1,4 @@
-# css マウスポインタの形を変更
+# css マウスポインタの形を変更
 ```css
 button {
 	cursor: pointer;

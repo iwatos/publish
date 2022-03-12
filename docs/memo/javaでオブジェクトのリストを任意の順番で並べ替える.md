@@ -1,4 +1,4 @@
-# javaでオブジェクトのリストを任意の順番で並べ替える
+# javaでオブジェクトのリストを任意の順番で並べ替える
 自作のオブジェクト`MyObject`のリストがあり、それを任意の順番で並べ替えたいとします。
 ```java:MyObject.java
 public class MyObject {  

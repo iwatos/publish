@@ -1,4 +1,4 @@
-# android エミュレータでlocalhostに通信する
+# android エミュレータでlocalhostに通信する
 Androidエミュレータからlocalhostに通信する場合は
 `localhost` `127.0.0.1` ではなく
 `10.0.2.2` を指定する

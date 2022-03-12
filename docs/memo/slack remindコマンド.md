@@ -1,4 +1,4 @@
-# slack remindコマンド
+# slack remindコマンド
 `/remind @who/`#channel` <text> <when>`
 
 ```

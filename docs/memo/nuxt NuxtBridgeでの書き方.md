@@ -1,4 +1,4 @@
-# nuxt NuxtBridgeでの書き方
+# nuxt NuxtBridgeでの書き方
 ```ts
 <script lang='ts' setup>  
 import { computed, reactive, watch, withDefaults } from '@vue/runtime-core'  

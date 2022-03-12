@@ -1,4 +1,4 @@
-# flutter 最初のページに戻る
+# flutter 最初のページに戻る
 ```dart
 Navigator.popUntil(context, (route) => route.isFirst);
 ```

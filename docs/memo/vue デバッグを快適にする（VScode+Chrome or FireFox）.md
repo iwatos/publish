@@ -1,4 +1,4 @@
-# vue デバッグを快適にする（VScode+Chrome or FireFox）
+# vue デバッグを快適にする（VScode+Chrome or FireFox）
 ## 参考
 https://jp.vuejs.org/v2/cookbook/debugging-in-vscode.html
 https://qiita.com/hashimoto-1202/items/c81f5d4c271eef16d957

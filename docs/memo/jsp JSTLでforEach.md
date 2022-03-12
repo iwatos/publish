@@ -1,4 +1,4 @@
-# jsp JSTLでforEach
+# jsp JSTLでforEach
 List
 ```java
 <c:forEach items="${list}"  var="entry" varStatus="status">  

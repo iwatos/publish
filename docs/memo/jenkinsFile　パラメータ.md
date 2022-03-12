@@ -1,4 +1,4 @@
-# jenkinsFile　パラメータ
+# jenkinsFile　パラメータ
 https://www.jenkins.io/doc/book/pipeline/syntax/`#parameters`
 
 ---

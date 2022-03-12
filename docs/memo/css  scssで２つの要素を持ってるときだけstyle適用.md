@@ -1,4 +1,4 @@
-# css  scssで２つの要素を持ってるときだけstyle適用
+# css  scssで２つの要素を持ってるときだけstyle適用
 ```scss
 .hoge {
 	&.fuga{

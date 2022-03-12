@@ -1,4 +1,4 @@
-# flutter freezedでJsonからDateTime型に変換
+# flutter freezedでJsonからDateTime型に変換
 
 
 ---

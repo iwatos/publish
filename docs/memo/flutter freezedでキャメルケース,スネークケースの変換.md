@@ -1,4 +1,4 @@
-# flutter freezedでキャメルケース,スネークケースの変換
+# flutter freezedでキャメルケース,スネークケースの変換
 factory関数の上に
 `@JsonSerializable(fieldRename: FieldRename.snake)`
 を指定

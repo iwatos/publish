@@ -1,10 +1,10 @@
-# vue axiosでAPIを叩く処理を外部関数化し、Vueコンポーネントからjsonを取得する方法
-`#概要`
+# vue axiosでAPIを叩く処理を外部関数化し、Vueコンポーネントからjsonを取得する方法
+## 概要
 axios.get.thenでAPIを呼びjsonを取得する関数を作成しようとしたが、
 axiosは非同期処理のためreturnでjsonを返すことができなかった。
 callback関数を用いることでjsonを取得できる。
 
-`#やり方`
+## やり方
 以下のjsファイルを作成
 
 ```js:Api.js

@@ -1,4 +1,4 @@
-# java StreamAPIでMapを使う
+# java StreamAPIでMapを使う
 `entrySet()`をりようする
 ```java
 map.entrySet().stream()

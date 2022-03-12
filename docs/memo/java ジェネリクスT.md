@@ -1,4 +1,4 @@
-# java ジェネリクスT
+# java ジェネリクスT
 ```java
 public class TestGenerics<T> {
 

@@ -1,4 +1,4 @@
-# git logを１行で表示
+# git logを１行で表示
 `git log --pretty=format:'%H (%ai) %s'`
 
 ---

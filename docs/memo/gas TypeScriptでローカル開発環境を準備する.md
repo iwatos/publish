@@ -1,4 +1,4 @@
-# gas TypeScriptでローカル開発環境を準備する
+# gas TypeScriptでローカル開発環境を準備する
 :::message
 より詳しい環境構築方法や、デバッグの仕方なども書いているためよければこちらもご覧ください
 https://zenn.dev/iwatos/books/752824c25d84fc4e1d2f

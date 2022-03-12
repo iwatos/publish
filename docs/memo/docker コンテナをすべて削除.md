@@ -1,4 +1,4 @@
-# docker コンテナをすべて削除
+# docker コンテナをすべて削除
 `docker ps -a -q | xargs docker rm -f`
 
 ---

@@ -1,4 +1,4 @@
-# flutter dioのログを表示する
+# flutter dioのログを表示する
 `dio.interceptors.add(LogInterceptor());`を利用する
 
 ```dart

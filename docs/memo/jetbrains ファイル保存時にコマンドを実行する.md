@@ -1,4 +1,4 @@
-# jetbrains ファイル保存時にコマンドを実行する
+# jetbrains ファイル保存時にコマンドを実行する
 ファイル保存時にリンターやフォーマッターを実行させたい時に便利です。
 参考:[blackとpylintを使った快適なPython開発](https://qiita.com/navitime_tech/items/0a431a2d74c156d0bda2)
 

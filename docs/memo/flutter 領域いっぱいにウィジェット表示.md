@@ -1,4 +1,4 @@
-# flutter 領域いっぱいにウィジェット表示
+# flutter 領域いっぱいにウィジェット表示
 `double.infinity`と指定する
 ```dart
 SizedBox(

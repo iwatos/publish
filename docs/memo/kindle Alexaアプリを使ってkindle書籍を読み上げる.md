@@ -1,4 +1,4 @@
-# kindle Alexaアプリを使ってkindle書籍を読み上げる
+# kindle Alexaアプリを使ってkindle書籍を読み上げる
 ```ad-note
 Androidでのみ確認
 ```

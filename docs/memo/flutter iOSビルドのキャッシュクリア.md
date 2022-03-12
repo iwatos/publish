@@ -1,4 +1,4 @@
-# flutter iOSビルドのキャッシュクリア
+# flutter iOSビルドのキャッシュクリア
 `<module-includes>:1:1: error: umbrella header for module 'GoogleDataTransport' does not include header 'GDTCORDataFuture.h' \[-Werror,-Wincomplete-umbrella\] `#import` "Headers/GoogleDataTransport-umbrella.h"`
 みたいなエラーが出た時
 

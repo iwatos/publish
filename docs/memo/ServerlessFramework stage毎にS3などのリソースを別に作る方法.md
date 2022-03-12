@@ -1,4 +1,4 @@
-# ServerlessFramework stage毎にS3などのリソースを別に作る方法
+# ServerlessFramework stage毎にS3などのリソースを別に作る方法
 provider > stage: `${opt:stage, self:custom.defaultStage}`
 custom > defaultStage: `dev` 
 custom > resourcePrefix : `${self:provider.stage}`を使った値

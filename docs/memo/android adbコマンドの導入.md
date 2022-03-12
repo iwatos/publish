@@ -1,4 +1,4 @@
-# android adbコマンドの導入
+# android adbコマンドの導入
 AndroidStudioを起動しメニューの
 File > OtherSettings > Default Project Structure… を選択しSDKのパスを確認
 基本的には`~/Library/Android/sdk/platform-tools`

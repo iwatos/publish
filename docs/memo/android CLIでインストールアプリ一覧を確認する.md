@@ -1,4 +1,4 @@
-# android CLIでインストールアプリ一覧を確認する
+# android CLIでインストールアプリ一覧を確認する
 ```sh
 adb shell pm list package
 

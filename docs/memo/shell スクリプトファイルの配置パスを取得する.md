@@ -1,4 +1,4 @@
-# shell スクリプトファイルの配置パスを取得する
+# shell スクリプトファイルの配置パスを取得する
 ```sh
 ## sh dev/work/relative.sh
 

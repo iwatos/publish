@@ -1,4 +1,4 @@
-# ios ipaファイルがある状態でのAppStore申請
+# ios ipaファイルがある状態でのAppStore申請
 1. [Transporter](https://apps.apple.com/jp/app/transporter/id1450874784)をMacAppStoreからインストール
 2. Transporterを起動しAppleIdにサインイン
 3. ipaファイルをドラッグアンドドロップ

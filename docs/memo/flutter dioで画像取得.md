@@ -1,4 +1,4 @@
-# flutter dioで画像取得
+# flutter dioで画像取得
 ```dart
 final dio = await DioHelper.createDefaultDio();  
 dio.options.responseType = ResponseType.bytes;  

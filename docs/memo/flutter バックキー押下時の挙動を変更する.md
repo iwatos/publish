@@ -1,4 +1,4 @@
-# flutter バックキー押下時の挙動を変更する
+# flutter バックキー押下時の挙動を変更する
 WillPopScopeを利用する
 https://tech-rise.net/return-data-on-click-back-button/
 

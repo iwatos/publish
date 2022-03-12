@@ -1,4 +1,4 @@
-# cli findコマンドでファイル検索
+# cli findコマンドでファイル検索
 `find .  -name ファイル\* -type d`
 `find .  -name ディレクトリ -type f`
 
