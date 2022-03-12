@@ -26,5 +26,5 @@ cp -R "$ROOT/assets" "$DOCS/assets"
 mkdir "$DOCS/attachments"
 grep -rE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" "$DOCS/" | grep -oE "!\[\[.*.(png|jpg|jpeg|pdf)\]\]" | sed -e 's/!\[\[//g' -e  's/\]\]//g' | while read line
 do
-  cp "/Users/yt/obsidian/private/attachments/$line" "$DOCS/attachments/$line"
+  cp "/Users/yt/Dropbox/obsidian/attachments/$line" "$DOCS/attachments/$line"
 done
