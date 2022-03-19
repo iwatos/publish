@@ -217,6 +217,19 @@ python-versions = "*"
 mkdocs = "*"
 
 [[package]]
+name = "mkdocs-git-revision-date-plugin"
+version = "0.3.2"
+description = "MkDocs plugin for setting revision date from git per markdown file."
+category = "main"
+optional = false
+python-versions = ">=3.4"
+
+[package.dependencies]
+GitPython = "*"
+jinja2 = "*"
+mkdocs = ">=0.17"
+
+[[package]]
 name = "mkdocs-material"
 version = "5.5.14"
 description = "A Material Design theme for MkDocs"
@@ -440,7 +453,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "3eb4fb6828a812b1f8d78ca904e5010754144efcee1f9f2c6ee394ccfe2af9b9"
+content-hash = "0e649e392a99860c2337f3e1c3c43922cf27633d56ece55a8b2690b6c981bf8b"
 
 [metadata.files]
 astroid = [
@@ -611,6 +624,9 @@ mkdocs = [
 ]
 mkdocs-exclude = [
     {file = "mkdocs-exclude-1.0.2.tar.gz", hash = "sha256:ba6fab3c80ddbe3fd31d3e579861fd3124513708271180a5f81846da8c7e2a51"},
+]
+mkdocs-git-revision-date-plugin = [
+    {file = "mkdocs_git_revision_date_plugin-0.3.2-py3-none-any.whl", hash = "sha256:2e67956cb01823dd2418e2833f3623dee8604cdf223bddd005fe36226a56f6ef"},
 ]
 mkdocs-material = [
     {file = "mkdocs-material-5.5.14.tar.gz", hash = "sha256:9f3237df1a72f91e0330a5e3b3711cb7aaa0d5705f9585e6ce6fbacaa16e777f"},
