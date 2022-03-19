@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart 指定した曜日の直近の日付を取得する
 ```dart
   DateTime getLastWeekOfDayAndTimeDateTime(int weekOfDay, TimeOfDay timeOfDay) {

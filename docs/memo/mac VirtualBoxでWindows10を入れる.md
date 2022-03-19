@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # mac VirtualBoxでWindows10を入れる
 1. virtualboxをインストール `brew install --cask virtualbox`
 2. windowsのisoをダウンロード https://www.microsoft.com/ja-jp/software-download/windows10ISO

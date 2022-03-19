@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # node package.jsonでnodeバージョンの指定
 package.jsonにengines要素でノードバージョンを指定しておくと
 `yarn install` または`npm install --engine-strict`実行時に

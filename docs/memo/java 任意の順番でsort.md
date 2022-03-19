@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java 任意の順番でsort
 ```java
 public class MyObject {  

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android CLIからからキャプチャを取得
 ## スクリーンショット
 

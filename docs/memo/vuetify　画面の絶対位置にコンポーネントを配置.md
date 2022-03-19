@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vuetify　画面の絶対位置にコンポーネントを配置
 `fixed` または `absolute` と `top bottom right left`を使う
 ```vue

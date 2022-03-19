@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # html svgファイルの利用
 https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b
 

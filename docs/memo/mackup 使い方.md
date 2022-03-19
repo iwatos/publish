@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # mackup 使い方
 ## 公式
 https://github.com/lra/mackup

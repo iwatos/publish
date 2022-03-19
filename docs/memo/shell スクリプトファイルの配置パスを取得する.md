@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # shell スクリプトファイルの配置パスを取得する
 ```sh
 ## sh dev/work/relative.sh

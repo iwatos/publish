@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android 対象OSの設定
 ## Android
 `/android/app/build.gradle`で設定

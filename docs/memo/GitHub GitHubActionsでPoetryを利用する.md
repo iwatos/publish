@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # GitHub GitHubActionsでPoetryを利用する
 ```yml:.github/workflows/ci.yml
 name: usepoetry

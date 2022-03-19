@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # gas API開発 with TypeSctipt in ローカル環境
 ## GASってなに？
 GASとはGoogle Apps Scriptの略称で、Googleが提供しているJavaScriptをベースにした言語です。

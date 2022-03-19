@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # tool ffmpeg
 画像、動画の形式を変換するCLIツール
 https://www.ffmpeg.org/

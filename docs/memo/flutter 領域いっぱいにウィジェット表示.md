@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter 領域いっぱいにウィジェット表示
 `double.infinity`と指定する
 ```dart

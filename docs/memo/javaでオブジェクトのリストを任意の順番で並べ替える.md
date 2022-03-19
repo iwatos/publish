@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # javaでオブジェクトのリストを任意の順番で並べ替える
 自作のオブジェクト`MyObject`のリストがあり、それを任意の順番で並べ替えたいとします。
 ```java:MyObject.java

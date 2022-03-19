@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter ページ遷移
 createPageRoute()を用意
 

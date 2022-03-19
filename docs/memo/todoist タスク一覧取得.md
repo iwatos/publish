@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # todoist タスク一覧取得
 https://developer.todoist.com/rest/v1/`#overview`
 

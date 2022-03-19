@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js Listを指定上限の個数に分割
 ```js
 const splitList = (originalList, maxLength) => {

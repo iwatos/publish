@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # asdf 導入
 ## ダウンロード
 `brew install asdf`

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter 静的解析でfreezedの生成ファイルを外す
 ```yaml:analysis_options.yaml
 analyzer:  

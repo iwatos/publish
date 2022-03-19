@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jetbrains ブレークポイントで変数の値を変更する方法
 ## 環境
 Intelij

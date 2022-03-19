@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter DEBUGの帯を消す
 main.dartのbuildファンクションに  ”debugShowCheckedModeBanner: false” を追加する。
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter アプリ全体のフォントの設定
 ```yaml:pubspec.yaml
 dependencies:

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # trello APIから情報を取得
 ```sh
 ## ボード一覧

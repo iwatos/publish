@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios 写真をMacに取り込む
 1. iPhone、iPad、または iPod touch を USB ケーブルで Mac に接続します。
 2. コンピュータで写真 App を開きます。

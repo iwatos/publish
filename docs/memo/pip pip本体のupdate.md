@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # pip pip本体のupdate
 
 ```bash

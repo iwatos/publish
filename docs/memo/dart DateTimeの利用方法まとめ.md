@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart DateTimeの利用方法まとめ
 ## Dart
 [フォーマッタ書式コード]()

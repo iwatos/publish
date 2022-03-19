@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js 0埋め
 ```js
 // NUM=値 LEN=桁数

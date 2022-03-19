@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android アプリのURLスキーマ連携起動をadbコマンドから行う
 AndroidをUSB接続している状態で以下コマンドを実行する
 （URL、パラメータは適宜変更）

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js 変数の型判別
 ## primitive型
 ```js

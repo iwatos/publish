@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android エミュレータがwifiにつながらない場合
 MacOSのDNSを
 - `8.8.8.8`

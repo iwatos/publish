@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ux Google UX Designプロフェッショナル認定
 Google UX Designプロフェッショナル認定
 Courseraで受講でき月額39$週10時間やれば6ヶ月で終わる量

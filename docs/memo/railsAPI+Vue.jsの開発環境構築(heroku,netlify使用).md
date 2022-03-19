@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # railsAPI+Vue.jsの開発環境構築(heroku,netlify使用)
 ## 概要
 バックエンドでrails、フロントではVueを使いたい。

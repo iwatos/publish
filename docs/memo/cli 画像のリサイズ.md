@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # cli 画像のリサイズ
 https://qiita.com/livlea/items/53b755e5067d4ebc5b43
 

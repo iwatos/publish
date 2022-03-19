@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # recipe 濃厚クリーミーチーズうどん
 `#recipe` 
 ハマごはん【お手軽レシピ】（@hamagohan_r）さんがツイートしました: 【濃厚チーズソースうどん】

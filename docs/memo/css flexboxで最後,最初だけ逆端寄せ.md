@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # css flexboxで最後,最初だけ逆端寄せ
 ## 最初だけ左寄せ
 ```css

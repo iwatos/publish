@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter dioで画像取得
 ```dart
 final dio = await DioHelper.createDefaultDio();  

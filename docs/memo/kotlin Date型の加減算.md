@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # kotlin Date型の加減算
 ```kt
 val date = Date()

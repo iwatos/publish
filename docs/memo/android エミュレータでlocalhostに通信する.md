@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android エミュレータでlocalhostに通信する
 Androidエミュレータからlocalhostに通信する場合は
 `localhost` `127.0.0.1` ではなく

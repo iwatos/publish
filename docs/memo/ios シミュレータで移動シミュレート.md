@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios シミュレータで移動シミュレート
 ## 端末の位置を座標で指定
 シミュレータのメニュー > Features > Location > Custom Location

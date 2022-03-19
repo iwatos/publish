@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python 並列処理
 
 ## Link

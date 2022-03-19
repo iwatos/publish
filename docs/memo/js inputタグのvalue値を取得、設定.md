@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js inputタグのvalue値を取得、設定
 ```html
 <input type="text" id="message" value="hoge">

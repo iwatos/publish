@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java 配列のいずれかの値に一致するかを調べる
 ```java
 Integer[] array = {1, 2, 3, 4, 5};  

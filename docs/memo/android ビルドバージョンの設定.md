@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android ビルドバージョンの設定
 `/app/build.gradle`で設定する
 

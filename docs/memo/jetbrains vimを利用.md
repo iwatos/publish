@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jetbrains vimを利用
 [[JetBrains]]では`IdeaVim`プラグインを入れることでvimが利用できる。
 

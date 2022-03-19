@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios AppStore用証明書の作成
 ```ad-warning
 2022-03-12時点の情報です

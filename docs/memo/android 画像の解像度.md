@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android 画像の解像度
 mdpiを基準として各解像度の倍率は以下の通り  
 ldpi = 0.75  

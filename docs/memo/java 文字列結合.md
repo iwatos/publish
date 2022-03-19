@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java 文字列結合
 
 ```java

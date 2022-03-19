@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jetbrains 開いているファイルをプロジェクト ウィンドウで選択中にする
 ![[Pasted image 20210715204002.png]]
 

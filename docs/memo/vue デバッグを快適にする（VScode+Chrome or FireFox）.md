@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vue デバッグを快適にする（VScode+Chrome or FireFox）
 ## 参考
 https://jp.vuejs.org/v2/cookbook/debugging-in-vscode.html

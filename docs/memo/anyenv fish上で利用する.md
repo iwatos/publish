@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # anyenv fish上で利用する
 インストール
 

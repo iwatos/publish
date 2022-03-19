@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart Futureでないvoid関数でawaitを使った場合の動作
 awaitは機能し、`Future<void>`と同じ動きをする
 ![[Pasted image 20220310102512.png]]

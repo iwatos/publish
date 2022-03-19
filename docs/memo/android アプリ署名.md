@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android アプリ署名
 ```ad-warning
 jksファイル、propertiesファイルはgitignoreしておくこと

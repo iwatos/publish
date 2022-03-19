@@ -1,5 +1,3 @@
-{{ git_revision_date }}
-
 # Home
 ## About this site
 iwatoのナレッジサイトです。

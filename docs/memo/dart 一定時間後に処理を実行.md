@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart 一定時間後に処理を実行
 ```dart
 Timer t = Timer(Duration(seconds: myDuration), () {

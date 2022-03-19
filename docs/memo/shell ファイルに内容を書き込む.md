@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # shell ファイルに内容を書き込む
 ## 末尾に追記
 ```sh

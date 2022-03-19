@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # obsidian vimを利用する
 ## vimの有効化
 設定画面 > エディタ > vimのキー設定　を有効化する

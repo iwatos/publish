@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter flavorで環境判別
 今は[[flutter Dart-defineで環境判別]]のほうがよさげ
 

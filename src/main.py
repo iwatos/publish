@@ -36,10 +36,9 @@ for path in path_list:
     content = re.sub(r"(#{1}[^\t\n\r\f\v #]+)", r"`\1`", content)
     content = "\n".join(
         [
-            "{{ git_revision_date }}",
+            "更新日: {{ git_revision_date }}",
             "",
             f"# {os.path.splitext(file_name)[0]}",
-            "",
             content,
         ]
     )

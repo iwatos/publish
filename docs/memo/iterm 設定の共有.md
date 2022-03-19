@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # iterm 設定の共有
 Preference > General > Preferences
 ![[Pasted Image 5.png]]

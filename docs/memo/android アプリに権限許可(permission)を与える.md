@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android アプリに権限許可(permission)を与える
 AndroidManifest.xmlに
 `<uses-permission android:name="android.permission.***" />`

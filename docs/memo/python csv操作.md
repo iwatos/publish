@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python csv操作
 https://docs.python.org/ja/3/library/csv.html
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # recipe もやし肉
 `#recipe` 
 （2人前）

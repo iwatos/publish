@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # terminal ショートカット一覧
 ## 移動
 | 操作           | key |備考| 

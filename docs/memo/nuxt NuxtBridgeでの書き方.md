@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # nuxt NuxtBridgeでの書き方
 ```ts
 <script lang='ts' setup>  

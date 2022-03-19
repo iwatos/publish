@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java StreamAPIでリストの集約
 ```java
 Map<String, List<Product>> grpByType = 

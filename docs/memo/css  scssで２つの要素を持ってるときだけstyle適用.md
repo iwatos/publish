@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # css  scssで２つの要素を持ってるときだけstyle適用
 ```scss
 .hoge {

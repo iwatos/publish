@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # curl CORS許可の確認
 ```sh
 curl -H "Origin: `#{アクセス元のドメイン}"` \

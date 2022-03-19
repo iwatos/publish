@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ServerlessFramework stage毎にS3などのリソースを別に作る方法
 provider > stage: `${opt:stage, self:custom.defaultStage}`
 custom > defaultStage: `dev` 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # react Next.js（静的サイト）をNetlifyにデプロイする
 ## 前提
 `$ npm create-next-app next-sample`

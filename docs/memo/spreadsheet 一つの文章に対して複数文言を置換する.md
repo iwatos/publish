@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # spreadsheet 一つの文章に対して複数文言を置換する
 SpreadSheetでSUBSTITUTE関数をネストして使用する
 ```js

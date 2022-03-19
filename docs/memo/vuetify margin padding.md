@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vuetify margin padding
 **property** には以下の間隔のタイプが適用されます:
 -   `m` - `margin` を適用する

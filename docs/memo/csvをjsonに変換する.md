@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # csvをjsonに変換する
 csvtojsonを利用する
 `npm i -g csvtojson`

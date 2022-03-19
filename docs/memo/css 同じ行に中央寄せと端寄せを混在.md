@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # css 同じ行に中央寄せと端寄せを混在
 ```
 .parent {

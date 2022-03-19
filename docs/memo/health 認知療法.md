@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # health 認知療法
 `#health`
 ## 気になった出来事  

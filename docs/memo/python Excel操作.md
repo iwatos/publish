@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python Excel操作
 ## openpyxl
 https://openpyxl.readthedocs.io/en/stable/tutorial.html

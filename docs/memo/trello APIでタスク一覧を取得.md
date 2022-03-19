@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # trello APIでタスク一覧を取得
 `#tool`
 ```sh

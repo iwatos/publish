@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # tool asdf
 各種言語等のバージョン管理ツール
 anyenvより起動が早くおすすめ

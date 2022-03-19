@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # anyenv 導入
 ```ad-note
 2022年現在はasdfをの方をおすすめ

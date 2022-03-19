@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter ListViewBuilderをColumn内で利用する
 FlexibleかExpandedで囲む
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # fish 環境変数の設定
 ## 追加
 ```

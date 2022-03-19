@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # css 点滅アニメーションの実装
 1秒間隔の点滅
 ```html

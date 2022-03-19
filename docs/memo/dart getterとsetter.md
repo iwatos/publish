@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart getterとsetter
 ```dart
 class Box {

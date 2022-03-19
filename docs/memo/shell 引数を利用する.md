@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # shell 引数を利用する
 |記法|表現される値| `sh hoge.sh A BB CCC` を実行した場合|
 |-|-|-|

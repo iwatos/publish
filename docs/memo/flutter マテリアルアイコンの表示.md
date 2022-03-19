@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter マテリアルアイコンの表示
 ```dart
 Icon(Icons.phone)

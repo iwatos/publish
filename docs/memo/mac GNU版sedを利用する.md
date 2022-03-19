@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # mac GNU版sedを利用する
 Mac標準のsedコマンドは-iオプションなどの動作がGNU版(主にLinuxで使われる)と微妙に異なるため、
 MacでもGNU版sedを使えるようにする

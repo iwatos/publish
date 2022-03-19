@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # git logを１行で表示
 `git log --pretty=format:'%H (%ai) %s'`
 

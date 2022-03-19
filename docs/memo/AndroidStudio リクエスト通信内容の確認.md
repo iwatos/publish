@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # AndroidStudio リクエスト通信内容の確認
 デバッグ実行中に[[jetbrains アクション検索]]から
 `[View] > [Tool Windows] > [Profiler] `

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # health 寝起きの悪さの改善
 `#myidea` 
 ## 起床直後

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # obsidian 利用中のCommunity Plugin一覧
 ## 利用中
 

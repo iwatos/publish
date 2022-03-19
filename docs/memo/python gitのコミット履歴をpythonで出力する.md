@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python gitのコミット履歴をpythonで出力する
 `poetry add GitPython` 
 

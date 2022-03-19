@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java Mapの初期化
 ```java
 Map<String, Integer> map = new HashMap<>(){{

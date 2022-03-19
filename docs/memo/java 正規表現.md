@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java 正規表現
 https://qiita.com/opengl-8080/items/f68829533ce042c38266
 

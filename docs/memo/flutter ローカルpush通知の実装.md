@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter ローカルpush通知の実装
 https://pub.dev/packages/flutter_local_notifications
 

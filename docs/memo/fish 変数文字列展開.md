@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # fish 変数文字列展開
 変数にsetしたあとで並べる
 ```sh

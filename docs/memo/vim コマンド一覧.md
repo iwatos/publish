@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vim コマンド一覧
 https://vimate. jp/lessons/vim-01/commands
 https://vimate.jp/lessons/vim-02/commands

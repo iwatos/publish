@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js date型の加算
 ```js
 var dt = new Date();

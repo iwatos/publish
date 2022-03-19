@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # health 軟便対策
 `#myidea`
 

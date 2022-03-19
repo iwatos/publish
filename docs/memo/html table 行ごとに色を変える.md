@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # html table 行ごとに色を変える
 ```scss
 table {

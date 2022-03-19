@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python zero padding
 ```py
 s = '1234'

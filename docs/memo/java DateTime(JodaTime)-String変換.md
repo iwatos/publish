@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java DateTime(JodaTime)-String変換
 https://qiita.com/rubytomato@github/items/a9abb4f766e905c0c227
 

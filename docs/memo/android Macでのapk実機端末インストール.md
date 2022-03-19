@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android Macでのapk実機端末インストール
  [[android adbコマンドの導入]]を実施しておく
  

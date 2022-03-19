@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # poetry numpyがインストールできない
 ## 環境
 OS: MacOS Big Sur

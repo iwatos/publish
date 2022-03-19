@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # cli findコマンドでファイル検索
 `find .  -name ファイル\* -type d`
 `find .  -name ディレクトリ -type f`

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter 位置情報取得
 ## 通常
 https://pub.dev/packages/location

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # gas
 まとめ
 https://zenn.dev/iwatos/scraps/553d199d0b7df0

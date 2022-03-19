@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # shell シンボリックリンクの作成
 ```sh
 ln -s <original_file_path> <symbolic_link_file_path>

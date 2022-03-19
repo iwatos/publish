@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # git remote urlの変更
 ```sh
 git remote -v ## 現在のリモートURLを確認

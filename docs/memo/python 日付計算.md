@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python 日付計算
 https://zenn.dev/iwatos/articles/721916c1fe402f30a87b
 

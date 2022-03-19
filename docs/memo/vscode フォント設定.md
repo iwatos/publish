@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vscode フォント設定
 F1でコマンドパレットを開き、Open User Settingsを選択。
 Features > Terminal > Integrated: Font Family で設定

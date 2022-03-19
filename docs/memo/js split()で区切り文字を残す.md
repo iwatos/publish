@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js split()で区切り文字を残す
 ```js
   

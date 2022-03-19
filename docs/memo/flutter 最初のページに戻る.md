@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter 最初のページに戻る
 ```dart
 Navigator.popUntil(context, (route) => route.isFirst);

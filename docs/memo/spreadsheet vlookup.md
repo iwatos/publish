@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # spreadsheet vlookup
 
 https://support.google.com/docs/answer/3093318?hl=ja

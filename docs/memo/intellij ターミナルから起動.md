@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # intellij ターミナルから起動
 https://qiita.com/yutachaos/items/19cf70dbd52a6c227d06
 

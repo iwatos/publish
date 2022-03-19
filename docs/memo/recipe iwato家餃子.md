@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # recipe iwato家餃子
 `#recipe` 
 餃子の作り方

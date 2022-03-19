@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java アルファベット大文字の配列作成
 ```java
 public String[] makeUppercaseArray() {

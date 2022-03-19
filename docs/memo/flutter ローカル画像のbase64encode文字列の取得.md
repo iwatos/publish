@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter ローカル画像のbase64encode文字列の取得
 ```dart
 Future _base64encodeImage(AssetGenImage image) async {

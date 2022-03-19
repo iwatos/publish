@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python 正規表現
 https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3
 https://note.nkmk.me/python-re-match-search-findall-etc/

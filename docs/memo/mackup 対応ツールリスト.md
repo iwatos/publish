@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # mackup 対応ツールリスト
 2022-02-27時点の`mackup list`結果
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # mac 標準機能のおすすめ設定
 ## はじめに
 機種：iMac-2017 

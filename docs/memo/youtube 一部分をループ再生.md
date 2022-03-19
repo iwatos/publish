@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # youtube 一部分をループ再生
 https://www.dkthehuman.com/slowtube/
 SlowTubeというWebサービスを利用する

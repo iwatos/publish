@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # obsidinan 新規ノート作成時に自動でテンプレートを適用する
 [[obsidian plugin Templater]]をインストールし、画像赤枠部分の設定をする
 

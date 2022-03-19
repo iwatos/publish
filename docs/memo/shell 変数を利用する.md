@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # shell 変数を利用する
 ```sh
 VAR1=123456 ## 数値

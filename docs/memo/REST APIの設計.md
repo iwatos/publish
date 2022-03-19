@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # REST APIの設計
 ## エンドポイント
 `https://api.<サービスドメイン>/v<バージョン番号>/<名詞複数形>/:id?<名詞>=hoge`  

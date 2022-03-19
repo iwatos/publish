@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # git SSH接続できているのにgit cloneがうまくいかないのはファイルの権限が問題かも
 git clone
 を実行した時に

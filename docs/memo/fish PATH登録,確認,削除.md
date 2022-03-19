@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # fish PATH登録,確認,削除
 fishのPATH登録はbashやzshと異なるので注意
 

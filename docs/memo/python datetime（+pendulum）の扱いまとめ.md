@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python datetime（+pendulum）の扱いまとめ
 ## datetime
 [フォーマッタ書式コード](https://docs.python.org/ja/3/library/datetime.html`#strftime-and-strptime-format-codes)`

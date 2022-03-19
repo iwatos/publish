@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jetbrains リファクタ機能
 ## はじめに
 InteliJをはじめとするJetBrains製IDE(AndroidStudio含む)では、右クリックのメニューから確認できるようにさまざまなコードリファクタ機能が存在します。それらの機能をご紹介します。

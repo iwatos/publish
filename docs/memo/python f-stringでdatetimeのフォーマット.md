@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python f-stringでdatetimeのフォーマット
 ```py
 print(f"{datetime.now():%Y-%m-%d}")

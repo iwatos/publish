@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # intellij Tomcat起動時ルートURLを設定する
 intelij ulitimet Edition
 Tomcat 9.0.22

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # AndroidStudio 検索ボックスで日本語が文字化けする
 Use custom font にチェックを入れ日本語対応フォントを設定する。
 `JetBrains Mono`がおすすめ

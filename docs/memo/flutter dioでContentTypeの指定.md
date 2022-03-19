@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter dioでContentTypeの指定
 ```dart
 dio.post(

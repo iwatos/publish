@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # health お風呂の入浴の仕方
 `#myidea` 
 - 浴槽の縁に首をかけない　首周りの筋肉が緊張する

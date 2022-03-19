@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # markdown Excelをmarkdownの表に変換する
 Tables Generatorを利用する
 https://www.tablesgenerator.com/markdown_tables

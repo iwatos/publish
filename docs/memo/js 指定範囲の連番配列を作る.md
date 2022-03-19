@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js 指定範囲の連番配列を作る
 ```js
 const makeSerialNumberList =  (start, end) => {  

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android GooglePlayStore申請に必要なもの
 ## 必要なもの
 ### aabファイル

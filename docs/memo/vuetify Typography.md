@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vuetify Typography
 https://vuetifyjs.com/ja/styles/text-and-typography/`#typography`
 ## 種類

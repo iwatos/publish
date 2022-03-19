@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java StreamAPI 終端処理
 https://pppurple.hatenablog.com/entry/2016/10/13/033620
 

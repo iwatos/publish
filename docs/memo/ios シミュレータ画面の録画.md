@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios シミュレータ画面の録画
 `xcrun simctl io booted recordVideo test.mov` で録画開始
 Ctrl+Cで終了

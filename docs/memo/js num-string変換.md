@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # js num-string変換
 ## num to string
 ```js

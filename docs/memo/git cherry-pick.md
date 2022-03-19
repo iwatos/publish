@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # git cherry-pick
 ```sh
 git cherry-pick 0b55a92 ## 通常

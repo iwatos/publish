@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # intellij 循環的複雑度の警告設定
 preference > Editor > Inspectionsを選択肢
 overly complex ~~~ を有効にする

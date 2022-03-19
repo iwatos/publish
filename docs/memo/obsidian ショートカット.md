@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # obsidian ショートカット
 ## keyboard shortcuts
 https://help.obsidian.md/How+to/Keyboard+shortcuts

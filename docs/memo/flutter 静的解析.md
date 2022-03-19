@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter 静的解析
 flutter プロジェクト直下の`analysis_options.yaml`で静的解析の設定ができる
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # GitHub GitHubPagesのURL
 `https://github.com/アカウント名/リポジトリ名` のリポジトリがある場合、
 `https://アカウント名.github.io/リポジトリ名`となる

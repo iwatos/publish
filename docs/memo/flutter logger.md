@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter logger
 [simple_logger](https://pub.dev/packages/simple_logger)がおすすめ
 

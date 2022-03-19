@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vim 環境設定
 ## 設定ファイルの作成
 ### vimrc

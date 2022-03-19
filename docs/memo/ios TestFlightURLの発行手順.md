@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios TestFlightURLの発行手順
 アップロードしたアプリを開き TestFlightタブを選択した後、
 左メニューの外部テスト＋ボタンをクリック

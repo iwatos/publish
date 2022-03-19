@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter dioのログを表示する
 `dio.interceptors.add(LogInterceptor());`を利用する
 

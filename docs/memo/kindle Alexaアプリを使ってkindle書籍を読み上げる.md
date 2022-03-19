@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # kindle Alexaアプリを使ってkindle書籍を読み上げる
 ```ad-note
 Androidでのみ確認

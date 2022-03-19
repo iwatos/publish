@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter freezedでキャメルケース,スネークケースの変換
 factory関数の上に
 `@JsonSerializable(fieldRename: FieldRename.snake)`

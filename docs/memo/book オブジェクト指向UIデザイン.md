@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # book オブジェクト指向UIデザイン
 
 https://www.amazon.co.jp/dp/B0893RK6WC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1

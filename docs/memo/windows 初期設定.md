@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # windows 初期設定
 ## chocolatey
 ## インストール

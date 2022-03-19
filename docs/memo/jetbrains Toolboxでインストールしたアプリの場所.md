@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jetbrains Toolboxでインストールしたアプリの場所
 [[tool Toolbox]]でインストールしたアプリは通常とインストール先が異なる。
 

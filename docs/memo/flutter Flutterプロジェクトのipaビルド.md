@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter Flutterプロジェクトのipaビルド
 [[ios AppStore用証明書の作成]]
 で

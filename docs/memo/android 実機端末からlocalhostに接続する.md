@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android 実機端末からlocalhostに接続する
 1. PCのローカルサーバを起動 `http://localhost:3000`
 2. AndroidをUSBでつなぐ。

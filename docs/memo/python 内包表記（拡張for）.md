@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python 内包表記（拡張for）
 
 ```py

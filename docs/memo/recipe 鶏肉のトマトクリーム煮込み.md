@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # recipe 鶏肉のトマトクリーム煮込み
 `#recipe` 
 **【2人分】  

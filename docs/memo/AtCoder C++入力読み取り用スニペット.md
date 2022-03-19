@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # AtCoder C++入力読み取り用スニペット
 ## 概要
 Atcoder入力読み取り用スニペット

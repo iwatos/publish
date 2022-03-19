@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios Provisioning Profilesの中身を確認して削除する
 `~/Library/MobileDevice/Provisioning Profiles/`にProvisioning Profilesファイルがある。
 finderで内容を見ることができるので個別に確認して削除する

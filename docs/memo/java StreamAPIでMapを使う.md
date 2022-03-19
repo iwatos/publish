@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java StreamAPIでMapを使う
 `entrySet()`をりようする
 ```java

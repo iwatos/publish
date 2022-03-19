@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # dart DateTimeをISO形式に変換（ミリ秒非表示、TimeZone付き）
 ```dart
 String makeTimeZoneString(DateTime dateTime) {  

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jsp if文
 ```html
 <c:if test="${count >= 10}" >

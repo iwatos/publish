@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # nuxt NuxtBridge ページ遷移
 ```js
 import { useRouter } from '@nuxt/bridge/dist/runtime'

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # BetterTouchTool 設定の共有
 ## 設定共有
 ![[Pasted image 20210321133837.png]]

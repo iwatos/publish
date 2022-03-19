@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jsp jstl propertiesファイルから文言を取得する
 application.propertiesファイルが存在する場合
 `<fmt:bundle basename="application" >`で囲んだ中で

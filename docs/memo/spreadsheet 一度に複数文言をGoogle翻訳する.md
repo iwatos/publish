@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # spreadsheet 一度に複数文言をGoogle翻訳する
 SpreadSheetで
 `=GOOGLETRANSLATE(テキスト, [ソース言語, ターゲット言語])`

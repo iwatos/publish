@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # chrome UA偽装
  ![[Pasted image 20210513111607.png]]
  

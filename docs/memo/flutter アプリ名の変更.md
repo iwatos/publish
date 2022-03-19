@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter アプリ名の変更
 ## Android
 `/android/app/src/main/AndroidManifest.xml`の`android:label`に名前を設定

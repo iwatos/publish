@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios DeploymentTargetVersionsの警告
 ```
 The iOS Simulator deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 8.0, but the range of supported deployment target versions is 9.0 to 14.0.99.

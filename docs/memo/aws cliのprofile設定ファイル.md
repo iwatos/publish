@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # aws cliのprofile設定ファイル
 AWS CLIを利用する場合に設定が必要。
 

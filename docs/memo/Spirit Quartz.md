@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # Spirit Quartz
 https://iwatos.github.io/publish/
 自分のナレッジサイト

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # vue axiosでAPIを叩く処理を外部関数化し、Vueコンポーネントからjsonを取得する方法
 ## 概要
 axios.get.thenでAPIを呼びjsonを取得する関数を作成しようとしたが、

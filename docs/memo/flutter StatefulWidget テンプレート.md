@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # flutter StatefulWidget テンプレート
 ```dart
 import 'package:flutter/material.dart';

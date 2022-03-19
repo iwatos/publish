@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ios ipaファイルからiPhoneにインストール
 1. PCでApple Configurator 2 をApp Storeからインストール
 2. PCにiOS端末をつなげる

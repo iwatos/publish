@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # OBS Mac+Elgato Game Capture HD60 Sの配信設定
 `#broadcast`
 1980 * 720 

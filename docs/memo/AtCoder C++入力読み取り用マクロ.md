@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # AtCoder C++入力読み取り用マクロ
 ## 概要
 AtCoderにて毎回入力する内容を書くのが面倒臭いので、

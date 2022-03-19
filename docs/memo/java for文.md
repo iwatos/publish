@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java for文
 ```java
 //通常

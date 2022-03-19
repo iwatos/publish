@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python VScode設定
 setting.jsonに以下を追記
 

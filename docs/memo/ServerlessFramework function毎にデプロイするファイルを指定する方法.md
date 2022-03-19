@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # ServerlessFramework function毎にデプロイするファイルを指定する方法
 1. package > individually を`true`に設定し、個別のfunctionのデプロイ対象設定を有効化
 1. package > excelude で`./**(全ファイル)`　を設定し、全ファイルをデプロイ対象から除外

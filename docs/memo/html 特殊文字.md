@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # html 特殊文字
 |記号|参照|
 |-|-|

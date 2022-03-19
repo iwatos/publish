@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # jsp choose,when,otherwise
 ```html
 <c:choose>  

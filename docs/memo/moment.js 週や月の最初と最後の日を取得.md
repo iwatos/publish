@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # moment.js 週や月の最初と最後の日を取得
 
 ```js

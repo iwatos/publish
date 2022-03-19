@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # npm cacheの削除
 
 ## すべてのキャッシュ削除

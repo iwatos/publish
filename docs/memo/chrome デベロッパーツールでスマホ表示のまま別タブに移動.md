@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # chrome デベロッパーツールでスマホ表示のまま別タブに移動
 ![[Pasted image 20210727225331.png]]
 ![[Pasted image 20210727225152.png]]

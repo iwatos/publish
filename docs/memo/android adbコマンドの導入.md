@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android adbコマンドの導入
 AndroidStudioを起動しメニューの
 File > OtherSettings > Default Project Structure… を選択しSDKのパスを確認

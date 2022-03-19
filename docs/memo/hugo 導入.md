@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # hugo 導入
 ## 環境構築
 ```sh

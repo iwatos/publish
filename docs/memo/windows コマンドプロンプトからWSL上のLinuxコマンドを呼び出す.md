@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # windows コマンドプロンプトからWSL上のLinuxコマンドを呼び出す
 コマンドの先頭に`wsl`をつける
 `wsl`は、実際には`C:\\Windows\\System32\\wsl.exe`を呼び出す

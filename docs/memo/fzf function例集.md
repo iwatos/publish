@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # fzf function例集
 https://github.com/junegunn/fzf/wiki/examples?utm_source=pocket_mylist
 

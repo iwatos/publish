@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # git logで変更ファイルリスト一覧を表示
 `git log --name-status`
 

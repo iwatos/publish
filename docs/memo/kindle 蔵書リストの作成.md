@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # kindle 蔵書リストの作成
 Kindle For PCを立ち上げ、最新の状態に更新する
 

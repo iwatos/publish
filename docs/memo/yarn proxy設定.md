@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # yarn proxy設定
 ## proxy設定
 https://one-sthead.hatenablog.com/entry/2019/07/02/122304

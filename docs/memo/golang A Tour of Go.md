@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # golang A Tour of Go
 Go言語基礎文法最速マスター
 https://go-tour-jp.appspot.com/welcome/1

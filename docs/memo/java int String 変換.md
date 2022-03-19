@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # java int String 変換
 s## 推奨
 ```java

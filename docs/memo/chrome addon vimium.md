@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # chrome addon vimium
 [Vimium - Chrome ウェブストア](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja)
 vimに基づいたキーボード操作でブラウジングができる

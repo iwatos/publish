@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # obsidian plugin Templater
 https://github.com/SilentVoid13/Templater
 テンプレート機能を利用できるプラグイン

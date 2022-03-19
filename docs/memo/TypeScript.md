@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # TypeScript
 
 https://www.typescriptlang.org/docs/handbook/intro.html

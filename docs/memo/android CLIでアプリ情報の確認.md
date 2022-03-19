@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # android CLIでアプリ情報の確認
 versionCodeなどが確認したいとき
 

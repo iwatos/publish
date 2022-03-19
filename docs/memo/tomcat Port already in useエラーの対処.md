@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # tomcat Port already in useエラーの対処
 Tomcat起動時に`Port already in use: [ポート番号]`というエラーが出たときはTomcatが正常に終了していないので、プロセスを削除する
 

@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # Serverless Framework（AWS + Golang) 導入
 公式のGettingStartedに従ってみる
 https://www.serverless.com/framework/docs/getting-started

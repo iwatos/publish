@@ -1,3 +1,5 @@
+更新日: {{ git_revision_date }}
+
 # python True・False判定
 ## Falseとなるもの
 - False
