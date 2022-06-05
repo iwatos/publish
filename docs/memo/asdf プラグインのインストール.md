@@ -1,7 +1,7 @@
 更新日: {{ git_revision_date }}
 
 # asdf プラグインのインストール
-## プラグインのインストール
+asdf## プラグインのインストール
 ### 利用可能なプラグインリスト
 `asdf plugin list all`
 
